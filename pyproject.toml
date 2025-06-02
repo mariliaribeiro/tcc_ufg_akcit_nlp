@@ -23,6 +23,15 @@ dependencies = [
     "ruff",
     "tqdm",
     "typer",
+    "selenium (>=4.33.0,<5.0.0)",
+    "beautifulsoup4 (>=4.13.4,<5.0.0)",
+    "webdriver-manager (>=4.0.2,<5.0.0)",
+    "spacy (>=3.8.7,<4.0.0)",
+    "docling[all] (>=2.35.0,<3.0.0)",
+    "networkx (>=3.5,<4.0)",
+    "matplotlib (>=3.10.3,<4.0.0)",
+    "nlp (>=0.4.0,<0.5.0)",
+    "pymupdf4llm (>=0.0.24,<0.0.25)",
 ]
 requires-python = "~=3.12.0"
 
