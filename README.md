@@ -6,7 +6,7 @@
 
 Este repositório contém o código desenvolvido durante o Trabalho de Conclusão de Curso da Pós Graduação em Processamento de Linguagem Natural da UFG em parceria com a AKCIT.
 
-## Project Organization
+## Organização do projeto
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -59,3 +59,36 @@ Este repositório contém o código desenvolvido durante o Trabalho de Conclusã
 
 --------
 
+
+## Configuração do ambiente de desenvolvimento
+
+**Requisitos:** Python 3.12 ou superior.
+
+O primeiro passo é criar e ativar o virtualenv para instalar as depedências.
+
+```
+# Criando o virtualenv
+python -m venv .venv
+
+# Ativando o virtualenv
+source .venv/bin/activate
+```
+
+Instale o poetry dentro do seu virtualenv.
+
+```
+pip install poetry
+```
+
+A gestão de dependências entre os pacotes foi configurada com o [poetry](https://python-poetry.org/docs/). Então para instalar ou atualizar os pacotes no seu ambiente virtual, basta rodar o comando abaixo.
+
+```
+poetry update
+```
+
+
+Obs: Para adicionar novos pacotes basta utilizar o comando abaixo:
+
+```
+poetry add nome_pacote
+```
