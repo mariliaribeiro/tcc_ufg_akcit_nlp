@@ -19,6 +19,10 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"] = os.getenv('HUGGINGFACEHUB_API_TOKEN')
 
 @dataclass
 class LLMModel:
+    """
+    Classe responsável por instanciar provedores de modelos LLMs.
+    """
+    
     provider: str = "local"
     temperature: float = 0.7
     max_tokens: int = None

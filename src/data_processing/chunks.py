@@ -18,6 +18,15 @@ HEADERS_TO_SPLIT_ON = [
 
 @dataclass
 class ChunksFromMarkdow:
+    """
+    Classe responsável por gerar os chunks a partir do conteúdo de texto do markdown.
+
+    Args:
+        chunk_size (int, optional): Tamanho dos chunks. Defaults to 400.
+        chunk_overlap (int, optional): Tamanho da sobreposição entre os chunks. Defaults to 100.
+        headers_to_split_on (_type_, optional): Lista de cabeçalhos utilizados para gerar os chunks. Defaults to field(default_factory=lambda: HEADERS_TO_SPLIT_ON).
+    """
+
     source_document: Union[str, List[Document]]
     chunk_size: int = 400
     chunk_overlap: int = 100
@@ -35,13 +44,21 @@ class ChunksFromMarkdow:
         else:
             markdown_documents = self.source_document
 
-
-        print(markdown_documents)
         for markdown_document in markdown_documents:
             self.md_header_splits.extend(self.get_md_header_splits(markdown_document))
             self.chunk_documents.extend(self.get_chunk_documents(self.md_header_splits))
 
     def get_md_header_splits(self, markdown_document: str) -> List[Document]:
+        """
+        Função responsável por quebrar o texto markwdown em chunks a partir dos headers.
+
+        Args:
+            markdown_document (str): Texto no formato markdown.
+
+        Returns:
+            List[Document]: Lista de documentos do langchain quebrados por seções de cabeçalho do markdown.
+        """
+
         # MD splits
         markdown_splitter = MarkdownHeaderTextSplitter(
             headers_to_split_on=self.headers_to_split_on, 
@@ -50,6 +67,16 @@ class ChunksFromMarkdow:
         return markdown_splitter.split_text(markdown_document)
 
     def get_chunk_documents(self, md_header_splits: List[Document]) -> List[Document]:
+        """
+        Função responsável por quebrar o texto em chunks.
+
+        Args:
+            md_header_splits (List[Document]): Lista de documentos de texto do langchain.
+
+        Returns:
+            List[Document]: Lista de chunks no formato de documentos de texto do langchain.
+        """
+
         # Char-level splits        
         text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=self.chunk_size,

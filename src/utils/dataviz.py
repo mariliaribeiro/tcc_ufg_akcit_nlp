@@ -76,7 +76,17 @@ def plot_graph_documents(graph_docs: List[GraphDocument], figsize=(10, 8), show_
     plt.show()
 
 
-def export_graph_documment_to_html(graph_docs: List[GraphDocument], file_path:str):
+def export_graph_documment_to_html(graph_docs: List[GraphDocument], file_name:str):
+    """
+    Plota grafos de conhecimento em HTML com o networkx a partir de uma lista de objetos GraphDocument.
+    Espera-se que cada GraphDocument tenha atributos `.nodes` e `.relationships`
+    com objetos Node e Relationship.
+
+    Parâmetros:
+    - graph_docs: lista de objetos GraphDocument
+    - file_name: nome do arquivo
+    """
+        
     # Construir grafo com networkx
     G = nx.DiGraph()
 
@@ -103,4 +113,4 @@ def export_graph_documment_to_html(graph_docs: List[GraphDocument], file_path:st
         edge['title'] = edge['label']
         edge['label'] = edge['label']
         
-    net.save_graph(f"{REPORTS_HTML_DIR}/{file_path}.html")
+    net.save_graph(f"{REPORTS_HTML_DIR}/{file_name}.html")
