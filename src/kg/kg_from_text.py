@@ -55,5 +55,13 @@ class KGFromText:
         return self
 
     def save_graph_on_db(self):
-        self.db.graph_conn.add_graph_documents(self.graph_documents)
+        """
+        Função responsável por salvar o grafo de conhecimento extraído do texto no banco de dados.
+        O parâmetro include_source igual a True, faz com que o texto original também seja salvo no banco.
+        O parâmetro baseEntityLabel é utilizado na indexação e cria um rótulo secundário __Entity__.
+        """
+
+        self.db.graph_conn.add_graph_documents(
+            self.graph_documents, baseEntityLabel=True, include_source=True
+        )
         return self
