@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from typing import Any, List
+from typing import Any, List, Tuple
 
 from langchain_core.documents import Document
 from langchain_experimental.graph_transformers import LLMGraphTransformer
@@ -13,13 +13,14 @@ class KGFromText:
     """
     Classe responsável pela extração dos grafos de conhecimento de textos.
     """
-    
+
     llm: LLMModel
     graph_documents: Any = field(init=False, default=None)
-    
+
     async def get_kg(self, chunk_documents: List[Document]):
         """
         Função que gera os grafos de conhecimento utilizando um modelo LLM.
+        Lembrar de chamar essa função com await.
 
         Args:
             chunk_documents (List[Document]): Chunks de texto no formato de documento do langchain.
@@ -28,12 +29,9 @@ class KGFromText:
         llm_gt = LLMGraphTransformer(llm=self.llm)
         self.graph_documents = await llm_gt.aconvert_to_graph_documents(chunk_documents)
         return self
-    
+
     def plot_and_save_graph(
-            self,
-            file_name:str,
-            figsize=(10, 8), 
-            show_node_properties=False
+        self, file_name: str, figsize: Tuple = (10, 8), show_node_properties: bool = False
     ):
         """
         Plota e gera grafos de conhecimento em matplolib e HTML com o networkx a partir de uma lista de objetos GraphDocument.
@@ -49,10 +47,7 @@ class KGFromText:
         plot_graph_documents(
             graph_docs=self.graph_documents,
             figsize=figsize,
-            show_node_properties=show_node_properties
+            show_node_properties=show_node_properties,
         )
-        export_graph_documment_to_html(
-            graph_docs=self.graph_documents, 
-            file_name=file_name
-        )
+        export_graph_documment_to_html(graph_docs=self.graph_documents, file_name=file_name)
         return self
