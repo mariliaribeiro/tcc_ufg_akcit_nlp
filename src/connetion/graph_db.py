@@ -1,15 +1,9 @@
 from dataclasses import dataclass, field
 from typing import Dict, List, Tuple
 
-from langchain_community.graphs import Neo4jGraph
-
-# from langchain_neo4j.graphs import Neo4jGraph
 from langchain_community.graphs.graph_document import GraphDocument
-from langchain_community.vectorstores import Neo4jVector
-
-# from langchain_neo4j.vectorstores import Neo4jVector
 from langchain_core.documents import Document
-from langchain_neo4j import GraphCypherQAChain
+from langchain_neo4j import GraphCypherQAChain, Neo4jGraph, Neo4jVector
 
 from src.config import NEO4J_PASSWORD, NEO4J_URI, NEO4J_USERNAME
 from src.connetion.chat_model import LLMModel
@@ -69,6 +63,11 @@ class QAChain:
         self.connection()
 
     def connection(self):
+        """
+        Estabele conexão coma a chian de question and answering que transforma a pergunta em
+        consulta Cypher.
+        """
+
         self.qa_chain = GraphCypherQAChain.from_llm(
             self.llm,
             graph=self.graph,
@@ -80,11 +79,32 @@ class QAChain:
         )
         return self
 
-    def search(self, question: str):
+    def search(self, question: str) -> List:
+        """
+        Método responsável por fazer a consulta no grafo de conhecimento.
+
+        Args:
+            question (str): Pergunta do usuário.
+
+        Returns:
+            List: Lista com os nós e relacionamentos relevantes para a consulta do grafo.
+        """
         response = self.qa_chain.invoke({"query": question})
         print("** QA chain results **")
         print(response)
-        return response.get("result", "")
+
+        # Resposta em texto
+        result = response.get("result", "")
+
+        # Resposta com nós e relacionamentos do grafo
+        intermediate_steps = response.get("intermediate_steps", [])
+        context = []
+        for i in intermediate_steps:
+            context.extend(i.get("context", []))
+        print(context)
+        if not context:
+            context = ["Não sei responder com base nos dados estruturados."]
+        return context
 
 
 @dataclass
@@ -174,7 +194,7 @@ class Vector:
 
         return constraints, indexes
 
-    def similarity_search(self, question: str, threshold: float = 0.5):
+    def similarity_search(self, question: str, threshold: float = 0.7) -> List[str]:
         """
         Retorna uma lista de documentos mais similares.
         Retorna somente o conteúdo do page_content.
@@ -194,7 +214,10 @@ class Vector:
         print("** Vector similarity results **")
         print(similarity_results)
 
-        return [i.page_content for i in similarity_results]
+        context = [i.page_content for i in similarity_results]
+        if not context:
+            context = ["Não sei responder com base nos dados não estruturados."]
+        return context
 
 
 @dataclass
