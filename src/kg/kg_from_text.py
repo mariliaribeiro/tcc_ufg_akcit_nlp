@@ -65,7 +65,7 @@ class KGFromText:
         """
 
         # Salvando o grafo
-        self.db.graph.save(documents=self.graph_documents)
+        self.db.graph.save(graph_documents=self.graph_documents)
 
         # Salvando o embedding do texto dos chunks
         # Por hora vamos utilizar este método, mas é possível utilizar os demais métodos do vetor.
