@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 
 class MongoDBConnection:
-    def __init__(self, db_name='ufg_pln_tcc', collection_name='medicines', host='localhost', port=27017):
+    def __init__(self, db_name='tcc_ufg_akcit_nlp', collection_name='drugs', host='localhost', port=27017):
         self.client = MongoClient(host, port)
         self.db = self.client[db_name]
         self.collection = self.db[collection_name]
