@@ -45,7 +45,7 @@ class GraphRAG:
         print(f"\n\n Context:\n {context}")
         return context
 
-    def retriever(self, question: str, context: str = None) -> str:
+    def retriever(self, question: str) -> str:
         system_template = """Your job is to answer questions about medical drug usage 
         instructions, called in brazilian portuguese from "bula de medicamento". 
         Use the following context to answer questions. The context is given by structured data from
