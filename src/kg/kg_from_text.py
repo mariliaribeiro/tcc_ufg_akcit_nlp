@@ -4,8 +4,9 @@ from typing import Any, List, Tuple
 from langchain_core.documents import Document
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 
+from src.connetion.gen_ai_connection import LLMModel
+from src.connetion.graph_db import KgDatabaseConnetion
 from src.utils.dataviz import export_graph_documment_to_html, plot_graph_documents
-from src.utils.gen_ai_connection import LLMModel
 
 
 @dataclass
@@ -15,6 +16,7 @@ class KGFromText:
     """
 
     llm: LLMModel
+    db = KgDatabaseConnetion()
     graph_documents: Any = field(init=False, default=None)
 
     async def get_kg(self, chunk_documents: List[Document]):
@@ -30,7 +32,7 @@ class KGFromText:
         self.graph_documents = await llm_gt.aconvert_to_graph_documents(chunk_documents)
         return self
 
-    def plot_and_save_graph(
+    def plot_and_save_graph_visualization(
         self, file_name: str, figsize: Tuple = (10, 8), show_node_properties: bool = False
     ):
         """
@@ -50,4 +52,16 @@ class KGFromText:
             show_node_properties=show_node_properties,
         )
         export_graph_documment_to_html(graph_docs=self.graph_documents, file_name=file_name)
+        return self
+
+    def save_graph_on_db(self):
+        """
+        Função responsável por salvar o grafo de conhecimento extraído do texto no banco de dados.
+        O parâmetro include_source igual a True, faz com que o texto original também seja salvo no banco.
+        O parâmetro baseEntityLabel é utilizado na indexação e cria um rótulo secundário __Entity__.
+        """
+
+        self.db.graph_conn.add_graph_documents(
+            self.graph_documents, baseEntityLabel=True, include_source=True
+        )
         return self
