@@ -7,6 +7,8 @@ from langchain_huggingface import ChatHuggingFace
 from langchain_ollama import ChatOllama
 from langchain_openai import ChatOpenAI
 
+# https://python.langchain.com/docs/integrations/chat/
+
 
 @dataclass
 class LLMModel:
