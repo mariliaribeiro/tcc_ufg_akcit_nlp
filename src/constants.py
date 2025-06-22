@@ -25,17 +25,3 @@ ALLOWED_RELATIONSHIPS = [
     "REGISTRO",
     "PRODUZIDO",
 ]
-
-NODE_PROPERTIES = [
-    "nome",
-    "quantidade",
-    "temperatura",
-    "validade",
-    "dose",
-    "percentual",
-    "duração",
-    "endereço",
-    "cnpj",
-    "contato",
-    "registro",
-]

@@ -44,7 +44,6 @@ class KGFromText:
                 llm=self.llm,
                 allowed_nodes=ALLOWED_NODES,
                 allowed_relationships=ALLOWED_RELATIONSHIPS,
-                node_properties=NODE_PROPERTIES,
             )
         self.graph_documents = await llm_gt.aconvert_to_graph_documents(chunk_documents)
         return self
