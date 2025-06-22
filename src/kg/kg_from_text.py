@@ -4,9 +4,11 @@ from typing import Any, List, Tuple
 from langchain_core.documents import Document
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 
+from src.config import BUILD_GRAPH_AUTO
 from src.connetion.chat_model import LLMModel
 from src.connetion.embeddings import EmbeddingsModel
 from src.connetion.graph_db import KgDatabaseConnetion
+from src.constants import ALLOWED_NODES, ALLOWED_RELATIONSHIPS, NODE_PROPERTIES
 from src.utils.dataviz import export_graph_documment_to_html, plot_graph_documents
 
 
@@ -32,7 +34,17 @@ class KGFromText:
         Args:
             chunk_documents (List[Document]): Chunks de texto no formato de documento do langchain.
         """
-        llm_gt = LLMGraphTransformer(llm=self.llm)
+
+        if BUILD_GRAPH_AUTO:
+            llm_gt = LLMGraphTransformer(
+                llm=self.llm,
+            )
+        else:
+            llm_gt = LLMGraphTransformer(
+                llm=self.llm,
+                allowed_nodes=ALLOWED_NODES,
+                allowed_relationships=ALLOWED_RELATIONSHIPS,
+            )
         self.graph_documents = await llm_gt.aconvert_to_graph_documents(chunk_documents)
         return self
 
