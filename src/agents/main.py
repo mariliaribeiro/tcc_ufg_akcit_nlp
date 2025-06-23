@@ -4,6 +4,7 @@ from langchain.agents import AgentType, initialize_agent
 from langchain.agents.agent import AgentExecutor
 
 from src.agents.tools.tools import MyTools
+from src.config import EMBEDDING_PROVIDER, LLM_MAX_TOKENS, LLM_PROVIDER, LLM_TEMPERATURE
 from src.connetion.chat_model import LLMModel
 from src.connetion.embeddings import EmbeddingsModel
 
@@ -14,10 +15,10 @@ class MyAgent:
     Classe responsável pela orquestração do agente.
     """
 
-    llm_provider: str = "google"
-    llm_temperature: float = 0
-    llm_max_tokens: int = None
-    embedding_provider: str = "hf"
+    llm_provider: str = LLM_PROVIDER
+    llm_temperature: float = LLM_TEMPERATURE
+    llm_max_tokens: int = LLM_MAX_TOKENS
+    embedding_provider: str = EMBEDDING_PROVIDER
 
     agent: AgentExecutor = field(init=False, default=None)
 

@@ -1,12 +1,22 @@
 import time
 
 import gradio as gr
+from src.agents.main import MyAgent
+from src.config import EMBEDDING_PROVIDER, LLM_MAX_TOKENS, LLM_PROVIDER, LLM_TEMPERATURE
 
 
-def slow_echo(message, history):
+def my_agent(message, history):
     for i in range(len(message)):
         time.sleep(0.05)
-        yield "You typed: " + message[: i + 1]
+        # yield "You typed: " + message[: i + 1]
+
+        agent = MyAgent(
+            llm_provider=LLM_PROVIDER,
+            llm_temperature=LLM_TEMPERATURE,
+            llm_max_tokens=LLM_MAX_TOKENS,
+            embedding_provider=EMBEDDING_PROVIDER,
+        )
+        yield agent.invoke(message)
 
 
 with gr.Blocks() as chat_interface:
@@ -16,7 +26,7 @@ with gr.Blocks() as chat_interface:
     Código fonte disponível no [GitHub](https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp).
     """)
     gr.ChatInterface(
-        slow_echo,
+        my_agent,
         type="messages",
         autofocus=True,
         save_history=True,
