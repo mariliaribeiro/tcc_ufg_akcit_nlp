@@ -18,7 +18,7 @@ class GraphRAG:
     Classe responsável pelo GraphRAG.
     """
 
-    chat_model: LLMModel
+    llm: LLMModel
     db: KgDatabaseConnetion
 
     def get_context(self, question: str) -> str:
@@ -73,6 +73,6 @@ class GraphRAG:
         prompt_template.format_messages(context=context, question=question)
 
         output_parser = StrOutputParser()
-        review_chain = prompt_template | self.chat_model | output_parser
+        review_chain = prompt_template | self.llm | output_parser
 
         return review_chain.invoke({"context": context, "question": question})

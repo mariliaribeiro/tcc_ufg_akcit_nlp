@@ -8,7 +8,7 @@ from src.config import BUILD_GRAPH_AUTO
 from src.connetion.chat_model import LLMModel
 from src.connetion.embeddings import EmbeddingsModel
 from src.connetion.graph_db import KgDatabaseConnetion
-from src.constants import ALLOWED_NODES, ALLOWED_RELATIONSHIPS, NODE_PROPERTIES
+from src.constants import ALLOWED_NODES, ALLOWED_RELATIONSHIPS
 from src.utils.dataviz import export_graph_documment_to_html, plot_graph_documents
 
 

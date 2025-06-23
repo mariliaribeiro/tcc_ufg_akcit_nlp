@@ -1,37 +1,46 @@
+from dataclasses import dataclass, field
+from typing import Any, List
+
 from langchain.agents import Tool
 
+from src.agents.tools.graph_rag import GraphRAG
+from src.agents.tools.question_to_api import QuestionToAPI
 from src.api.routes.routes import get_horus_medicine_stock
-from src.connetion.chat_model import LLMModel
-from src.connetion.embeddings import EmbeddingsModel
+from src.api.schemas.request.horus import HorusMedicineStockRequest
 from src.connetion.graph_db import KgDatabaseConnetion
-from src.kg.graph_rag import GraphRAG
 
-llm_provider = "google"
-temperature = 0
-max_tokens = None
 
-llm = LLMModel(provider=llm_provider, temperature=temperature, max_tokens=max_tokens).llm
+@dataclass
+class MyTools:
+    """
+    Classe responsável pela definição das tools.
+    """
 
-e_provider = "hf"
-embedding = EmbeddingsModel(
-    provider=e_provider,
-).embeddings
+    llm: Any
+    embedding: Any
 
-db = KgDatabaseConnetion(
-    llm=llm,
-    embedding=embedding,
-)
+    tools: List[Tool] = field(init=False, default_factory=list)
 
-grag = GraphRAG(chat_model=llm, db=db)
+    def __post_init__(self):
+        db = KgDatabaseConnetion(
+            llm=self.llm,
+            embedding=self.embedding,
+        )
 
-horus_medicine_stock_tool = Tool(
-    name="GetHorusMedicineStock",
-    func=get_horus_medicine_stock,
-    description="Use this tool to get current weather for a city.",
-)
+        grag = GraphRAG(llm=self.llm, db=db)
+        qapi = QuestionToAPI(
+            llm=self.llm, schema=HorusMedicineStockRequest, api_func=get_horus_medicine_stock
+        )
 
-medicine_usage_instructions_tools = Tool(
-    name="MedicineUsageInstructions",
-    func=grag.retriever,
-    description="Use this tool to get medicine usage instructions.",
-)
+        medicine_usage_instructions_tools = Tool(
+            name="MedicineUsageInstructions",
+            func=grag.retriever,
+            description="Use this tool to get medicine usage instructions.",
+        )
+        horus_medicine_stock_tool = Tool(
+            name="GetHorusMedicineStock",
+            func=qapi.retriever,
+            description="Use this tool to get information about medicine stock from Brazilian cities and states.",
+        )
+
+        self.tools = [medicine_usage_instructions_tools, horus_medicine_stock_tool]
