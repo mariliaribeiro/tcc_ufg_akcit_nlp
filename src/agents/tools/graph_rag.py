@@ -18,7 +18,7 @@ class GraphRAG:
     Classe responsável pelo GraphRAG.
     """
 
-    chat_model: LLMModel
+    llm: LLMModel
     db: KgDatabaseConnetion
 
     def get_context(self, question: str) -> str:
@@ -45,7 +45,7 @@ class GraphRAG:
         print(f"\n\n Context:\n {context}")
         return context
 
-    def retriever(self, question: str, context: str = None) -> str:
+    def retriever(self, question: str) -> str:
         system_template = """Your job is to answer questions about medical drug usage 
         instructions, called in brazilian portuguese from "bula de medicamento". 
         Use the following context to answer questions. The context is given by structured data from
@@ -73,6 +73,6 @@ class GraphRAG:
         prompt_template.format_messages(context=context, question=question)
 
         output_parser = StrOutputParser()
-        review_chain = prompt_template | self.chat_model | output_parser
+        review_chain = prompt_template | self.llm | output_parser
 
         return review_chain.invoke({"context": context, "question": question})

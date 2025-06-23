@@ -92,3 +92,13 @@ Obs: Para adicionar novos pacotes basta utilizar o comando abaixo:
 ```
 poetry add nome_pacote
 ```
+
+## Rodando a aplicação em ambiente local
+
+A aplicação web foi desenvolvida com FastAPI e a bibliteca Gradio para desenvolvimento da interface do chat. Para rodar a aplicação no ambiente local execute o comando:
+
+```
+fastapi dev src/api/main.py 
+```
+
+Ao rodar o comando você pode acessar a interface do chat, acessando [http://127.0.0.1:8000](http://127.0.0.1:8000). Ou acessar a documentação da API, acessando [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
