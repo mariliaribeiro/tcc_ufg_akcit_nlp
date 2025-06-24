@@ -8,6 +8,7 @@ from langchain.prompts import (
 )
 from langchain_core.output_parsers import StrOutputParser
 
+from src.agents.prompt_templates.graph_rag import CONTEXT, SYSTEM_TEMPLATE
 from src.connetion.chat_model import LLMModel
 from src.connetion.graph_db import KgDatabaseConnetion
 
@@ -35,26 +36,14 @@ class GraphRAG:
         structured_data = self.db.qa_chain.search(question=question)
         unstructured_data = self.db.vector.similarity_search(question=question)
 
-        context = f"""
-        # Structured data:
-        {structured_data}
-
-        # Unstructured data:
-        {"\n".join(unstructured_data)}
-        """
+        context = CONTEXT.format(
+            structured_data=structured_data, unstructured_data="\n".join(unstructured_data)
+        )
         print(f"\n\n Context:\n {context}")
         return context
 
     def retriever(self, question: str) -> str:
-        system_template = """Your job is to answer questions about medical drug usage 
-        instructions, called in brazilian portuguese from "bula de medicamento". 
-        Use the following context to answer questions. The context is given by structured data from
-        graph structure and by unstructured data by vector search.
-        Be as detailed as possible, but don't make up any information that's not from the context.
-        If you don't know an answer, say you don't know.
-
-        {context}
-        """
+        system_template = SYSTEM_TEMPLATE
 
         system_prompt = SystemMessagePromptTemplate(
             prompt=PromptTemplate(input_variables=["context"], template=system_template)
