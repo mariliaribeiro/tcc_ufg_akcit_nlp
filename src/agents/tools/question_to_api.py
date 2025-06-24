@@ -9,6 +9,10 @@ from langchain.prompts import (
 )
 from langchain_core.output_parsers import StrOutputParser
 
+from src.agents.prompt_templates.question_to_api import (
+    SYSTEM_TEMPLATE_RETRIEVER,
+    SYSTEM_TEMPLATE_STRUCTURED_OUTPUT,
+)
 from src.connetion.chat_model import LLMModel
 
 
@@ -34,10 +38,7 @@ class QuestionToAPI:
             Any: Objeto do pydantic representando os dados estruturados.
         """
 
-        system_template = """
-        You are an expert extraction algorithm, specialized in extract API request params from user messagem to consult Horus API to get relavant medicine stock information by city and state.
-        Only extract relevant information from the text as specified by the provided JSON schema. Do not generate any new information or exrta characters outside of the JSON schema.
-        """
+        system_template = SYSTEM_TEMPLATE_STRUCTURED_OUTPUT
         system_prompt = SystemMessagePromptTemplate(
             prompt=PromptTemplate(template=system_template)
         )
@@ -52,6 +53,7 @@ class QuestionToAPI:
             messages=messages,
         )
         prompt_template.format_messages(question=question)
+        print(prompt_template)
 
         sllm = self.llm.with_structured_output(schema=self.schema)
         print("Structured LLM tool schema:\n", sllm.first.kwargs)
@@ -74,16 +76,7 @@ class QuestionToAPI:
         return self.api_func(request)
 
     def retriever(self, question: str) -> str:
-        system_template = """Your job is to answer questions about medicine stock from Brazilian 
-        cities and states.
-        Use the following context to answer questions. The context is given by structured data from
-        from API response.
-        Be as detailed as possible, but don't make up any information that's not from the context.
-        If you don't know an answer, say you don't know.
-
-        {context}
-        """
-
+        system_template = SYSTEM_TEMPLATE_RETRIEVER
         system_prompt = SystemMessagePromptTemplate(
             prompt=PromptTemplate(input_variables=["context"], template=system_template)
         )
