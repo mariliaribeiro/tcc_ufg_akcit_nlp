@@ -2,6 +2,7 @@ from dataclasses import dataclass, field
 
 from langchain.agents import AgentType, initialize_agent
 from langchain.agents.agent import AgentExecutor
+from langchain.memory import ConversationSummaryMemory
 
 from src.agents.tools.tools import MyTools
 from src.config import EMBEDDING_PROVIDER, LLM_MAX_TOKENS, LLM_PROVIDER, LLM_TEMPERATURE
@@ -34,8 +35,18 @@ class MyAgent:
 
         tools = MyTools(llm=llm, embedding=embedding).tools
 
+        # Criando uma instância de ConversationBufferMemory para criar a memória
+        memory = ConversationSummaryMemory(
+            llm=llm, memory_key="chat_history", return_messages=True
+        )
+
+        # Intanciando o agente e passando os recursos necessários
         self.agent = initialize_agent(
-            tools, llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True
+            tools,
+            llm,
+            agent=AgentType.CONVERSATIONAL_REACT_DESCRIPTION,
+            memory=memory,
+            verbose=True,
         )
 
     def invoke(self, question: str) -> str:
