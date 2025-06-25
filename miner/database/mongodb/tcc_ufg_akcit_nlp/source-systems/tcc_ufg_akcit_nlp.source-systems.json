@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "685b4676bdf6a149835918fd"
+  },
+  "acronym": "HORUS",
+  "description": "Sistema Nacional de Gestão da Assistência Farmacêutica (Hórus)"
+},
+{
+  "_id": {
+    "$oid": "685b4735bdf6a149835918ff"
+  },
+  "acronym": "SOA_BNAFAR",
+  "description": "BNAFAR (Base Nacional de Dados de Ações e Serviços da Assistência Farmacêutica no SUS)"
+},
+{
+  "_id": {
+    "$oid": "685b473dbdf6a14983591901"
+  },
+  "acronym": "WSBNDAF",
+  "description": "Webservice da Base Nacional de Dados de Ações e Serviços da Assistência Farmacêutica"
+}]
