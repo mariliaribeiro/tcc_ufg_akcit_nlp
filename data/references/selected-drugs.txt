@@ -1,0 +1,75 @@
+NEOSORO; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770310179.pdf
+GLIFAGE; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770325827.pdf
+MAXALGINA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770336134.pdf
+LOSARTANA POTÁSSICA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770357970.pdf
+CIMEGRIPE; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770369242.pdf
+CICLO 21; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770377143.pdf
+PURAN T4; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770384594.pdf
+CIMELIDE; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770419166.pdf
+TORSILAX; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770425009.pdf
+DORFLEX; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770439424.pdf
+DIPIMED; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770469516.pdf
+SALONPAS; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770571510.pdf
+LORATAMED; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770583107.pdf
+HIDROMED; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770605391.pdf
+NOVALGINA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770655178.pdf
+ARADOIS; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770664594.pdf
+BUSCOPAN; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770691163.pdf
+LEVOTIROXINA SÓDICA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770699407.pdf
+HISTAMIN; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770706255.pdf
+EXPEC; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770717304.pdf
+STREPSILS; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770728010.pdf
+VICK VAPORUB; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770736882.pdf
+MICROVLAR; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770744600.pdf
+INFRALAX; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770750389.pdf
+ATENOLOL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770765317.pdf
+VITER C; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770776752.pdf
+DIPIRONA MONOIDRATADA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770786807.pdf
+DECONGEX PLUS; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770797404.pdf
+IBUPRIL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770806735.pdf
+RIVOTRIL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770822605.pdf
+SORO ANTITETÂNICO; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770841690.pdf
+NEOSALDINA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770852385.pdf
+NIMESULIDA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770859019.pdf
+GLIBENCLAMIDA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770881465.pdf
+SINVASTATINA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770889164.pdf
+FLUCONAZOL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770896335.pdf
+CETOPROFENO; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770940110.pdf
+NARIX; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770950919.pdf
+NISTATINA + OXIDO DE ZINCO; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770962780.pdf
+OMEPRAZOL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770970045.pdf
+LACRIFILM; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770976684.pdf
+NAPROXENO; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770986736.pdf
+PREDSIM; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770993253.pdf
+LOSARTANA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771007684.pdf
+BUSONID; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771015420.pdf
+NEOLEFRIN; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771021684.pdf
+BUSCOPAN; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771056550.pdf
+ALBENDAZOL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771065788.pdf
+GARDENAL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771072898.pdf
+SELOZOK; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771080568.pdf
+PANTOPRAZOL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771087690.pdf
+TADALAFILA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771107521.pdf
+REPOFLOR; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771126666.pdf
+ADVIL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771152148.pdf
+VONAU FLASH; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771164128.pdf
+IVERMECTINA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771170568.pdf
+ALIVIUM; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771176740.pdf
+NEVRALGEX; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771196368.pdf
+BABYMED; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771217841.pdf
+CEFALEXINA MONOIDRATADA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771227225.pdf
+DORALGINA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771233805.pdf
+DIAD; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771239953.pdf
+BIOFENAC DI; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771268062.pdf
+NARIDRIN; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771274511.pdf
+ENOXALOW; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771285340.pdf
+AEROLIN; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771292070.pdf
+CORUS; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771298258.pdf
+DRAMIN; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771304453.pdf
+BEPANTRIZ; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771320576.pdf
+ALBEL; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771327901.pdf
+CIFLOGEX; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771348820.pdf
+NEODIA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771355106.pdf
+SIMETICONA; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771361597.pdf
+SCAFLOGIN; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771368507.pdf
+SOMALGIN CARDIO; https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771374717.pdf
