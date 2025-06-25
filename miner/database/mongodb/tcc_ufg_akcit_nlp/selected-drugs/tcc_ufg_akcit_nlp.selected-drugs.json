@@ -19,6 +19,7 @@
   "active_ingredient": "CLORIDRATO DE NAFAZOLINA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770310179.pdf",
+  "catmat_number": "BR0272400-1",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.523Z"
@@ -47,6 +48,7 @@
   "active_ingredient": "CLORIDRATO DE METFORMINA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770325827.pdf",
+  "catmat_number": "BR0465425",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.602Z"
@@ -99,6 +101,7 @@
   "active_ingredient": "BESILATO DE ANLODIPINO +  LOSARTANA POTÁSSICA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771007684.pdf",
+  "catmat_number": "BR0272434U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.622Z"
@@ -151,6 +154,7 @@
   "active_ingredient": "LEVOTIROXINA SÓDICA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770384594.pdf",
+  "catmat_number": "BR0268123U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.654Z"
@@ -177,6 +181,7 @@
   "active_ingredient": "NIMESULIDA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770419166.pdf",
+  "catmat_number": "BR0273710",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.665Z"
@@ -255,6 +260,7 @@
   "active_ingredient": "DIPIRONA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770469516.pdf",
+  "catmat_number": "BR0267203U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.722Z"
@@ -281,6 +287,7 @@
   "active_ingredient": "LORATADINA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770583107.pdf",
+  "catmat_number": "BR0273466U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.762Z"
@@ -359,6 +366,7 @@
   "active_ingredient": "BUTILBROMETO DE ESCOPOLAMINA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771056550.pdf",
+  "catmat_number": "BR0270620",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.820Z"
@@ -385,6 +393,7 @@
   "active_ingredient": "MALEATO DE DEXCLORFENIRAMINA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770706255.pdf",
+  "catmat_number": "BR0452409",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.855Z"
@@ -411,6 +420,7 @@
   "active_ingredient": "CLORIDRATO DE BROMEXINA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750866357176.pdf",
+  "catmat_number": "BR0269821",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.868Z"
@@ -463,6 +473,7 @@
   "active_ingredient": "ETINILESTRADIOL +  LEVONORGESTREL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770744600.pdf",
+  "catmat_number": "BR0272789U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.941Z"
@@ -515,6 +526,7 @@
   "active_ingredient": "ATENOLOL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770765317.pdf",
+  "catmat_number": "BR0267517U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.985Z"
@@ -567,6 +579,7 @@
   "active_ingredient": "IBUPROFENO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770806735.pdf",
+  "catmat_number": "BR0267676U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.046Z"
@@ -593,6 +606,7 @@
   "active_ingredient": "CLONAZEPAM",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770822605.pdf",
+  "catmat_number": "BR0270120U0086",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.078Z"
@@ -645,6 +659,7 @@
   "active_ingredient": "NIMESULIDA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770859019.pdf",
+  "catmat_number": "BR0273710",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.126Z"
@@ -671,6 +686,7 @@
   "active_ingredient": "GLIBENCLAMIDA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770881465.pdf",
+  "catmat_number": "BBR0267671U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.170Z"
@@ -723,6 +739,7 @@
   "active_ingredient": "FLUCONAZOL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770896335.pdf",
+  "catmat_number": "BR0267662U0041",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.209Z"
@@ -775,6 +792,7 @@
   "active_ingredient": "LEVONORGESTREL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771239953.pdf",
+  "catmat_number": "BR0272789U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.233Z"
@@ -827,6 +845,7 @@
   "active_ingredient": "NISTATINA +  ÓXIDO DE ZINCO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771217841.pdf",
+  "catmat_number": "BR0279297-2",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.261Z"
@@ -853,6 +872,7 @@
   "active_ingredient": "SOLUCAO DE SALBUTAMOL +  SULFATO DE SALBUTAMOL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771292070.pdf",
+  "catmat_number": "BR0294887U0084",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.265Z"
@@ -879,6 +899,7 @@
   "active_ingredient": "LOSARTANA POTÁSSICA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771298258.pdf",
+  "catmat_number": "BR0268856U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.278Z"
@@ -905,6 +926,7 @@
   "active_ingredient": "DEXPANTENOL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771320576.pdf",
+  "catmat_number": "BR0392423",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.304Z"
@@ -931,6 +953,7 @@
   "active_ingredient": "ALBENDAZOL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771327901.pdf",
+  "catmat_number": "BR0267506U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.311Z"
@@ -983,6 +1006,7 @@
   "active_ingredient": "LEVONORGESTREL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771355106.pdf",
+  "catmat_number": "BR0272789U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.378Z"
@@ -1009,6 +1033,7 @@
   "active_ingredient": "SIMETICONA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771361597.pdf",
+  "catmat_number": "BR0412965",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.401Z"
@@ -1035,6 +1060,7 @@
   "active_ingredient": "NIMESULIDA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771368507.pdf",
+  "catmat_number": "BR0273710",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.423Z"
@@ -1087,6 +1113,7 @@
   "active_ingredient": "CETOPROFENO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770940110.pdf",
+  "catmat_number": "BR0340101",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.457Z"
@@ -1113,6 +1140,7 @@
   "active_ingredient": "CLORIDRATO DE NAFAZOLINA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770950919.pdf",
+  "catmat_number": "BR0272400-1",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.470Z"
@@ -1139,6 +1167,7 @@
   "active_ingredient": "OMEPRAZOL SÓDICO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770970045.pdf",
+  "catmat_number": "BR0268160",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.483Z"
@@ -1165,6 +1194,7 @@
   "active_ingredient": "CARMELOSE SÓDICA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770976684.pdf",
+  "catmat_number": "BR0305428-3",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.495Z"
@@ -1191,6 +1221,7 @@
   "active_ingredient": "NAPROXENO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770986736.pdf",
+  "catmat_number": "BR0273703",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.508Z"
@@ -1217,6 +1248,7 @@
   "active_ingredient": "FOSFATO SÓDICO DE PREDNISOLONA +  PREDNISOLONA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770993253.pdf",
+  "catmat_number": "BBR0268151U0062",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.525Z"
@@ -1243,6 +1275,7 @@
   "active_ingredient": "BUDESONIDA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771015420.pdf",
+  "catmat_number": "BR0266707U0066",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.536Z"
@@ -1295,6 +1328,7 @@
   "active_ingredient": "ALBENDAZOL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771065788.pdf",
+  "catmat_number": "BR0267506U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.571Z"
@@ -1321,6 +1355,7 @@
   "active_ingredient": "FENOBARBITAL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771072898.pdf",
+  "catmat_number": "BR0267660U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.589Z"
@@ -1347,6 +1382,7 @@
   "active_ingredient": "SUCCINATO DE METOPROLOL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771080568.pdf",
+  "catmat_number": "BR0276658U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.615Z"
@@ -1373,6 +1409,7 @@
   "active_ingredient": "PANTOPRAZOL SÓDICO SESQUI-HIDRATADO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771087690.pdf",
+  "catmat_number": "BR0267892",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.644Z"
@@ -1425,6 +1462,7 @@
   "active_ingredient": "SACCHAROMYCES BOULARDII +  SACCHAROMYCES BOULARDII - 17",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771126666.pdf",
+  "catmat_number": "BR0275989",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.726Z"
@@ -1451,6 +1489,7 @@
   "active_ingredient": "IBUPROFENO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771152148.pdf",
+  "catmat_number": "BR0267676U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.781Z"
@@ -1477,6 +1516,7 @@
   "active_ingredient": "IVERMECTINA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771170568.pdf",
+  "catmat_number": "BR0273328U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.835Z"
@@ -1503,6 +1543,7 @@
   "active_ingredient": "IBUPROFENO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771176740.pdf",
+  "catmat_number": "BR0267676U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.840Z"
@@ -1555,6 +1596,7 @@
   "active_ingredient": "LOSARTANA POTÁSSICA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770357970.pdf",
+  "catmat_number": "BR0268856U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T12:58:27.936Z"
@@ -1581,6 +1623,7 @@
   "active_ingredient": "ETINILESTRADIOL +  LEVONORGESTREL",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770377143.pdf",
+  "catmat_number": "BR0268370U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T12:58:32.676Z"
@@ -1659,6 +1702,7 @@
   "active_ingredient": "ÁCIDO ASCÓRBICO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770776752.pdf",
+  "catmat_number": "BR0271687",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T12:58:32.754Z"
@@ -1711,6 +1755,7 @@
   "active_ingredient": "NISTATINA +  ÓXIDO DE ZINCO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770962780.pdf",
+  "catmat_number": "BR0279297-2",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T12:58:32.778Z"
@@ -1737,6 +1782,7 @@
   "active_ingredient": "CEFALEXINA MONOIDRATADA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771227225.pdf",
+  "catmat_number": "BR0331555U0062",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T12:58:32.800Z"
@@ -1789,6 +1835,7 @@
   "active_ingredient": "CLORIDRATO  DE ONDANSETRONA DI-HIDRATADO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771164128.pdf",
+  "catmat_number": "BR0305751",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T13:12:38.756Z"
@@ -1841,6 +1888,7 @@
   "active_ingredient": "ENOXAPARINA SÓDICA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771285340.pdf",
+  "catmat_number": "BR0268455",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T13:12:58.435Z"
@@ -1867,6 +1915,7 @@
   "active_ingredient": "DIMENIDRINATO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771304453.pdf",
+  "catmat_number": "BR0272335",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T13:13:00.934Z"
@@ -1893,6 +1942,7 @@
   "active_ingredient": "LEVOTIROXINA SÓDICA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770699407.pdf",
+  "catmat_number": "BR0268123U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T13:21:05.090Z"
@@ -1919,6 +1969,7 @@
   "active_ingredient": "DIPIRONA MONOIDRATADA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770786807.pdf",
+  "catmat_number": "BR0267203U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-24T13:21:15.294Z"
@@ -1945,6 +1996,7 @@
   "active_ingredient": "HIDROCLOROTIAZIDA",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770605391.pdf",
+  "catmat_number": "BR0267674U0042",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:44.446Z"
