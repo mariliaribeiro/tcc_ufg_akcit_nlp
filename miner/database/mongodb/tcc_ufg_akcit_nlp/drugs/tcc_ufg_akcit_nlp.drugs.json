@@ -1,0 +1,1406 @@
+[{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a64"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "NEOSORO",
+  "process_completion_date": {
+    "$date": "2012-01-02T02:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "155840127",
+  "registration_expiration_date": {
+    "$date": "2025-07-01T03:00:00.000Z"
+  },
+  "process_number": "25351555912201191",
+  "therapeutic_class": "DESCONGESTIONANTES NASAIS TOPICOS",
+  "company_holding_registration": "05161069000110 - BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "CLORIDRATO DE NAFAZOLINA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770310179.pdf",
+  "catmat_number": "BR0272400-1",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.523Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a65"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "GLIFAGE",
+  "process_completion_date": {
+    "$date": {
+      "$numberLong": "-62054802000000"
+    }
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "100890193",
+  "registration_expiration_date": {
+    "$date": "2029-03-01T03:00:00.000Z"
+  },
+  "process_number": "250000121599352",
+  "therapeutic_class": "ANTIDIABETICOS",
+  "company_holding_registration": "33069212000184 - MERCK S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "CLORIDRATO DE METFORMINA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770325827.pdf",
+  "catmat_number": "BR0465425",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.602Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a67"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "BESILATO DE ANLODIPINO + LOSARTANA POTÁSSICA",
+  "process_completion_date": {
+    "$date": "2016-03-07T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "102351130",
+  "registration_expiration_date": {
+    "$date": "2026-03-01T03:00:00.000Z"
+  },
+  "process_number": "25351703010201399",
+  "therapeutic_class": "ANTI-HIPERTENSIVOS",
+  "company_holding_registration": "57507378000365 - EMS S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "BESILATO DE ANLODIPINO +  LOSARTANA POTÁSSICA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771007684.pdf",
+  "catmat_number": "BR0272434U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.622Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a6a"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "PURAN T4",
+  "process_completion_date": {
+    "$date": "2019-06-17T03:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "183260353",
+  "registration_expiration_date": {
+    "$date": "2028-06-01T03:00:00.000Z"
+  },
+  "process_number": "25351190236201998",
+  "therapeutic_class": "HORMONIOS TIREOIDEANOS SIMPLES OU ASSOCIADOS ENTRE SI",
+  "company_holding_registration": "10588595001092 - SANOFI MEDLEY FARMACÊUTICA LTDA.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "LEVOTIROXINA SÓDICA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770384594.pdf",
+  "catmat_number": "BR0268123U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a6c"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "CIMELIDE",
+  "process_completion_date": {
+    "$date": "2001-03-29T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "143810059",
+  "registration_expiration_date": {
+    "$date": "2026-03-01T03:00:00.000Z"
+  },
+  "process_number": "253510248210083",
+  "therapeutic_class": "ANTINFLAMATORIOS",
+  "company_holding_registration": "02814497000107 - CIMED INDUSTRIA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "NIMESULIDA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770419166.pdf",
+  "catmat_number": "BR0273710",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a72"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "DIPIMED",
+  "process_completion_date": {
+    "$date": "2002-04-29T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "109170015",
+  "registration_expiration_date": {
+    "$date": "2046-02-01T03:00:00.000Z"
+  },
+  "process_number": "2599202460175",
+  "therapeutic_class": "ANALGESICOS",
+  "company_holding_registration": "17875154000120 - MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "DIPIRONA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770469516.pdf",
+  "catmat_number": "BR0267203U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a74"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "LORATAMED",
+  "process_completion_date": {
+    "$date": "2020-03-30T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "143810253",
+  "registration_expiration_date": {
+    "$date": "2030-03-01T03:00:00.000Z"
+  },
+  "process_number": "25351646001201964",
+  "therapeutic_class": "ANTI-HISTAMINICOS SISTEMICOS",
+  "company_holding_registration": "02814497000107 - CIMED INDUSTRIA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "LORATADINA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770583107.pdf",
+  "catmat_number": "BR0273466U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a79"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "BUSCOPAN",
+  "process_completion_date": {
+    "$date": "2020-11-03T03:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "178170890",
+  "registration_expiration_date": {
+    "$date": "2029-07-01T03:00:00.000Z"
+  },
+  "process_number": "25351898868202037",
+  "therapeutic_class": "ANTIESPASMODICOS E ANTICOLINERGICOS GASTRINTESTINAIS",
+  "company_holding_registration": "61082426000207 - COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "BUTILBROMETO DE ESCOPOLAMINA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771056550.pdf",
+  "catmat_number": "BR0270620",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.820Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a7b"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "HISTAMIN",
+  "process_completion_date": {
+    "$date": "2012-05-28T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "155840373",
+  "registration_expiration_date": {
+    "$date": "2026-08-01T03:00:00.000Z"
+  },
+  "process_number": "25351566289201132",
+  "therapeutic_class": "ANTI-HISTAMINICOS SISTEMICOS",
+  "company_holding_registration": "05161069000110 - BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "MALEATO DE DEXCLORFENIRAMINA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770706255.pdf",
+  "catmat_number": "BR0452409",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.855Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a7d"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "BROMEXPEC",
+  "process_completion_date": {
+    "$date": "2018-06-28T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "0519311187",
+  "registration_expiration_date": {
+    "$date": "2026-06-01T03:00:00.000Z"
+  },
+  "process_number": "25351328452200936",
+  "therapeutic_class": "EXPECTORANTES",
+  "company_holding_registration": "03485572000104 - GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "CLORIDRATO DE BROMEXINA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750866357176.pdf",
+  "catmat_number": "BR0269821",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.868Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a80"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "MICROVLAR",
+  "process_completion_date": {
+    "$date": "2010-12-13T02:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "170560064",
+  "registration_expiration_date": {
+    "$date": "2029-12-01T03:00:00.000Z"
+  },
+  "process_number": "25351091858200881",
+  "therapeutic_class": "ANTICONCEPCIONAIS",
+  "company_holding_registration": "18459628000115 - BAYER S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "ETINILESTRADIOL +  LEVONORGESTREL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770744600.pdf",
+  "catmat_number": "BR0272789U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.941Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02bc653c045f0568a83"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "ATENOLOL",
+  "process_completion_date": {
+    "$date": "2000-07-31T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "102350458",
+  "registration_expiration_date": {
+    "$date": "2025-07-01T03:00:00.000Z"
+  },
+  "process_number": "253510147310066",
+  "therapeutic_class": "BETABLOQUEADORES SIMPLES",
+  "company_holding_registration": "57507378000365 - EMS S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "ATENOLOL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770765317.pdf",
+  "catmat_number": "BR0267517U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:43.985Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568a89"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "IBUPRIL",
+  "process_completion_date": {
+    "$date": "2001-03-26T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "103700076",
+  "registration_expiration_date": {
+    "$date": "2026-09-01T03:00:00.000Z"
+  },
+  "process_number": "2500101705785",
+  "therapeutic_class": "ANALGESICOS NAO NARCOTICOS + ANTINFLAMATORIOS + ANTINFLAMATORIOS ANTIREUMATICOS",
+  "company_holding_registration": "17159229000176 - LABORATÓRIO TEUTO BRASILEIRO S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "IBUPROFENO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770806735.pdf",
+  "catmat_number": "BR0267676U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.046Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568a8b"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "RIVOTRIL",
+  "process_completion_date": {
+    "$date": "2021-07-05T03:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "115240011",
+  "registration_expiration_date": {
+    "$date": "2026-08-01T03:00:00.000Z"
+  },
+  "process_number": "25351537388202183",
+  "therapeutic_class": "ANTICONVULSIVANTES",
+  "company_holding_registration": "53359824000119 - BLANVER FARMOQUIMICA E FARMACÊUTICA S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "CLONAZEPAM",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770822605.pdf",
+  "catmat_number": "BR0270120U0086",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568a8e"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "NIMESULIDA",
+  "process_completion_date": {
+    "$date": "2002-05-13T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "102350533",
+  "registration_expiration_date": {
+    "$date": "2027-05-01T03:00:00.000Z"
+  },
+  "process_number": "253510335540171",
+  "therapeutic_class": "ANTINFLAMATORIOS",
+  "company_holding_registration": "57507378000365 - EMS S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "NIMESULIDA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770859019.pdf",
+  "catmat_number": "BR0273710",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568a90"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "FUNED-GLIBENCLAMIDA",
+  "process_completion_date": {
+    "$date": "1999-12-20T02:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "112090114",
+  "registration_expiration_date": {
+    "$date": "2009-12-01T02:00:00.000Z"
+  },
+  "process_number": "250000010339948",
+  "therapeutic_class": "ANTIDIABETICOS",
+  "company_holding_registration": "17503475000101 - FUNDAÇÃO EZEQUIEL DIAS - FUNED",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "GLIBENCLAMIDA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770881465.pdf",
+  "catmat_number": "BBR0267671U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568a94"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "FLUCONAZOL",
+  "process_completion_date": {
+    "$date": "2021-07-19T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "110850046",
+  "registration_expiration_date": {
+    "$date": "2031-07-01T03:00:00.000Z"
+  },
+  "process_number": "25351115959201229",
+  "therapeutic_class": "ANTIMICOTICO",
+  "company_holding_registration": "06628333000146 - FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LTDA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "FLUCONAZOL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770896335.pdf",
+  "catmat_number": "BR0267662U0041",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568a97"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "DIAD",
+  "process_completion_date": {
+    "$date": "2003-10-01T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "143810088",
+  "registration_expiration_date": {
+    "$date": "2028-10-01T03:00:00.000Z"
+  },
+  "process_number": "25351010849200393",
+  "therapeutic_class": "ANTICONCEPCIONAIS",
+  "company_holding_registration": "02814497000107 - CIMED INDUSTRIA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "LEVONORGESTREL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771239953.pdf",
+  "catmat_number": "BR0272789U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.233Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568a9b"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "BABYMED",
+  "process_completion_date": {
+    "$date": "2002-08-26T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "143810258",
+  "registration_expiration_date": {
+    "$date": "2030-05-01T03:00:00.000Z"
+  },
+  "process_number": "25351617152201115",
+  "therapeutic_class": "EMOLIENTES E PROTETORES DA PELE E MUCOSAS",
+  "company_holding_registration": "02814497000107 - CIMED INDUSTRIA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "NISTATINA +  ÓXIDO DE ZINCO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771217841.pdf",
+  "catmat_number": "BR0279297-2",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568a9c"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "AEROLIN",
+  "process_completion_date": {
+    "$date": "2005-01-19T02:00:00.000Z"
+  },
+  "regulatory_category": "",
+  "product_registration_number": "101070226",
+  "registration_expiration_date": {
+    "$date": "2026-08-01T03:00:00.000Z"
+  },
+  "process_number": "25351108915200445",
+  "therapeutic_class": "BRONCODILATADORES",
+  "company_holding_registration": "33247743000110 - GLAXOSMITHKLINE BRASIL LTDA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "SOLUCAO DE SALBUTAMOL +  SULFATO DE SALBUTAMOL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771292070.pdf",
+  "catmat_number": "BR0294887U0084",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568a9d"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "CORUS",
+  "process_completion_date": {
+    "$date": "2019-01-21T02:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "105730583",
+  "registration_expiration_date": {
+    "$date": "2026-03-01T03:00:00.000Z"
+  },
+  "process_number": "25351676175201871",
+  "therapeutic_class": "ANTI-HIPERTENSIVOS",
+  "company_holding_registration": "60659463002992 - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "LOSARTANA POTÁSSICA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771298258.pdf",
+  "catmat_number": "BR0268856U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aa0"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "BEPANTRIZ",
+  "process_completion_date": {
+    "$date": "2009-04-06T03:00:00.000Z"
+  },
+  "regulatory_category": "ESPECÍFICO",
+  "product_registration_number": "143810133",
+  "registration_expiration_date": {
+    "$date": "2029-04-01T03:00:00.000Z"
+  },
+  "process_number": "25351740813200845",
+  "therapeutic_class": "OUTROS PRODUTOS COM ACAO NA PELE E MUCOSAS",
+  "company_holding_registration": "02814497000107 - CIMED INDUSTRIA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "DEXPANTENOL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771320576.pdf",
+  "catmat_number": "BR0392423",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aa1"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "ALBEL",
+  "process_completion_date": {
+    "$date": "2004-08-10T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "154230044",
+  "registration_expiration_date": {
+    "$date": "2029-08-01T03:00:00.000Z"
+  },
+  "process_number": "25351017583200318",
+  "therapeutic_class": "ANTI-HELMINTICOS DO TRATO GASTRINTESTINAL",
+  "company_holding_registration": "03485572000104 - GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "ALBENDAZOL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771327901.pdf",
+  "catmat_number": "BR0267506U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.311Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aa5"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "NEODIA",
+  "process_completion_date": {
+    "$date": "2011-12-12T02:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "155840079",
+  "registration_expiration_date": {
+    "$date": "2026-05-01T03:00:00.000Z"
+  },
+  "process_number": "25351640118201175",
+  "therapeutic_class": "ANTICONCEPCIONAIS",
+  "company_holding_registration": "05161069000110 - BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "LEVONORGESTREL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771355106.pdf",
+  "catmat_number": "BR0272789U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aa6"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "SIMETICONA",
+  "process_completion_date": {
+    "$date": "2006-04-17T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "125680137",
+  "registration_expiration_date": {
+    "$date": "2026-04-01T03:00:00.000Z"
+  },
+  "process_number": "25351342626200554",
+  "therapeutic_class": "ADSORVENTES E ANTIFISETICOS INTESTINAIS SIMPLES",
+  "company_holding_registration": "73856593000166 - PRATI DONADUZZI & CIA LTDA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "SIMETICONA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771361597.pdf",
+  "catmat_number": "BR0412965",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.401Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aa7"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "SCAFLOGIN",
+  "process_completion_date": {
+    "$date": "2002-07-01T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "105350124",
+  "registration_expiration_date": {
+    "$date": "2027-07-01T03:00:00.000Z"
+  },
+  "process_number": "253510064330183",
+  "therapeutic_class": "ANTINFLAMATORIOS",
+  "company_holding_registration": "17115437000173 - LABORATÓRIO GLOBO SA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "NIMESULIDA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771368507.pdf",
+  "catmat_number": "BR0273710",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aaa"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "CETOPROFENO",
+  "process_completion_date": {
+    "$date": "2000-07-13T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "100430722",
+  "registration_expiration_date": {
+    "$date": "2025-07-01T03:00:00.000Z"
+  },
+  "process_number": "253510087320044",
+  "therapeutic_class": "ANTINFLAMATORIOS ANTIREUMATICOS",
+  "company_holding_registration": "61190096000192 - EUROFARMA LABORATÓRIOS S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "CETOPROFENO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770940110.pdf",
+  "catmat_number": "BR0340101",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.457Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aab"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "NARIX",
+  "process_completion_date": {
+    "$date": "1976-02-08T02:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "143810024",
+  "registration_expiration_date": {
+    "$date": "2028-02-01T03:00:00.000Z"
+  },
+  "process_number": "2599201796762",
+  "therapeutic_class": "DESCONGESTIONANTES NASAIS TOPICOS",
+  "company_holding_registration": "02814497000107 - CIMED INDUSTRIA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "CLORIDRATO DE NAFAZOLINA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770950919.pdf",
+  "catmat_number": "BR0272400-1",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aad"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "OMEPRAZOL SÓDICO",
+  "process_completion_date": {
+    "$date": "2000-08-18T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "100430730",
+  "registration_expiration_date": {
+    "$date": "2025-08-01T03:00:00.000Z"
+  },
+  "process_number": "253510164320066",
+  "therapeutic_class": "ANTIULCEROSOS",
+  "company_holding_registration": "61190096000192 - EUROFARMA LABORATÓRIOS S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "OMEPRAZOL SÓDICO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770970045.pdf",
+  "catmat_number": "BR0268160",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.483Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aae"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "LACRIFILM",
+  "process_completion_date": {
+    "$date": "2003-05-15T03:00:00.000Z"
+  },
+  "regulatory_category": "ESPECÍFICO",
+  "product_registration_number": "104971289",
+  "registration_expiration_date": {
+    "$date": "2028-01-01T03:00:00.000Z"
+  },
+  "process_number": "25351021318200326",
+  "therapeutic_class": "OUTROS MEDICAMENTOS COM ACAO NO APARELHO VISUAL",
+  "company_holding_registration": "60665981000118 - UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "CARMELOSE SÓDICA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770976684.pdf",
+  "catmat_number": "BR0305428-3",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aaf"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "NAPROXENO",
+  "process_completion_date": {
+    "$date": "2003-08-27T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "103700446",
+  "registration_expiration_date": {
+    "$date": "2028-08-01T03:00:00.000Z"
+  },
+  "process_number": "25351016190200389",
+  "therapeutic_class": "ANTINFLAMATORIOS ANTIREUMATICOS",
+  "company_holding_registration": "17159229000176 - LABORATÓRIO TEUTO BRASILEIRO S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "NAPROXENO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770986736.pdf",
+  "catmat_number": "BR0273703",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568ab0"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "PREDSIM",
+  "process_completion_date": {
+    "$date": "2015-08-10T03:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "178170789",
+  "registration_expiration_date": {
+    "$date": "2028-02-01T03:00:00.000Z"
+  },
+  "process_number": "25351261692201513",
+  "therapeutic_class": "GLICOCORTICOIDES SISTEMICOS",
+  "company_holding_registration": "61082426000207 - COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "FOSFATO SÓDICO DE PREDNISOLONA +  PREDNISOLONA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770993253.pdf",
+  "catmat_number": "BBR0268151U0062",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.525Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568ab2"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "BUSONID",
+  "process_completion_date": {
+    "$date": "2019-01-21T02:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "105730590",
+  "registration_expiration_date": {
+    "$date": "2025-09-01T03:00:00.000Z"
+  },
+  "process_number": "25351693827201831",
+  "therapeutic_class": "GLICOCORTICOIDES TOP. SIMP. EXC. USO OFTALM.",
+  "company_holding_registration": "60659463002992 - ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "BUDESONIDA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771015420.pdf",
+  "catmat_number": "BR0266707U0066",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.536Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568ab7"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "ALBENDAZOL",
+  "process_completion_date": {
+    "$date": "2001-06-04T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "125680029",
+  "registration_expiration_date": {
+    "$date": "2026-06-01T03:00:00.000Z"
+  },
+  "process_number": "253510088040134",
+  "therapeutic_class": "ANTI-HELMINTICOS DO TRATO GASTRINTESTINAL",
+  "company_holding_registration": "73856593000166 - PRATI DONADUZZI & CIA LTDA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "ALBENDAZOL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771065788.pdf",
+  "catmat_number": "BR0267506U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568ab8"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "GARDENAL",
+  "process_completion_date": {
+    "$date": "2019-06-03T03:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "183260323",
+  "registration_expiration_date": {
+    "$date": "2029-10-01T03:00:00.000Z"
+  },
+  "process_number": "25351190335201970",
+  "therapeutic_class": "ANTICONVULSIVANTES",
+  "company_holding_registration": "10588595001092 - SANOFI MEDLEY FARMACÊUTICA LTDA.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "FENOBARBITAL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771072898.pdf",
+  "catmat_number": "BR0267660U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.589Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568ab9"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "SELOZOK",
+  "process_completion_date": {
+    "$date": "1999-11-29T02:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "116180077",
+  "registration_expiration_date": {
+    "$date": "2026-11-01T03:00:00.000Z"
+  },
+  "process_number": "250000197119432",
+  "therapeutic_class": "BETABLOQUEADORES SIMPLES",
+  "company_holding_registration": "60318797000100 - ASTRAZENECA DO BRASIL LTDA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "SUCCINATO DE METOPROLOL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771080568.pdf",
+  "catmat_number": "BR0276658U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568aba"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "PANTOPRAZOL",
+  "process_completion_date": {
+    "$date": "2003-11-25T02:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "100430026",
+  "registration_expiration_date": {
+    "$date": "2028-11-01T03:00:00.000Z"
+  },
+  "process_number": "25351018244200341",
+  "therapeutic_class": "ANTIULCEROSOS",
+  "company_holding_registration": "61190096000192 - EUROFARMA LABORATÓRIOS S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "PANTOPRAZOL SÓDICO SESQUI-HIDRATADO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771087690.pdf",
+  "catmat_number": "BR0267892",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.644Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568abd"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "REPOFLOR",
+  "process_completion_date": {
+    "$date": "1999-04-27T03:00:00.000Z"
+  },
+  "regulatory_category": "BIOLÓGICO",
+  "product_registration_number": "102350420",
+  "registration_expiration_date": {
+    "$date": "2029-04-01T03:00:00.000Z"
+  },
+  "process_number": "250000009109756",
+  "therapeutic_class": "OUTROS COADJUVANTES DO TRATAMENTO DA DIARREIA",
+  "company_holding_registration": "57507378000365 - EMS S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "SACCHAROMYCES BOULARDII +  SACCHAROMYCES BOULARDII - 17",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771126666.pdf",
+  "catmat_number": "BR0275989",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568ac0"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "ADVIL",
+  "process_completion_date": {
+    "$date": "2021-01-11T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "101070347",
+  "registration_expiration_date": {
+    "$date": "2027-10-01T03:00:00.000Z"
+  },
+  "process_number": "25351416131202016",
+  "therapeutic_class": "ANALGESICOS NAO NARCOTICOS",
+  "company_holding_registration": "33247743000110 - GLAXOSMITHKLINE BRASIL LTDA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "IBUPROFENO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771152148.pdf",
+  "catmat_number": "BR0267676U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.781Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568ac2"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "IVERMECTINA",
+  "process_completion_date": {
+    "$date": "2010-11-16T02:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "103920167",
+  "registration_expiration_date": {
+    "$date": "2025-11-01T03:00:00.000Z"
+  },
+  "process_number": "25351217020201023",
+  "therapeutic_class": "ANTIPARASITARIOS",
+  "company_holding_registration": "30222814000131 - VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "IVERMECTINA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771170568.pdf",
+  "catmat_number": "BR0273328U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ed02cc653c045f0568ac3"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "ALIVIUM",
+  "process_completion_date": {
+    "$date": "2015-11-09T02:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "178170807",
+  "registration_expiration_date": {
+    "$date": "2028-01-01T03:00:00.000Z"
+  },
+  "process_number": "25351258367201574",
+  "therapeutic_class": "ANALGESICOS NAO NARCOTICOS",
+  "company_holding_registration": "61082426000207 - COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "IBUPROFENO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771176740.pdf",
+  "catmat_number": "BR0267676U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.840Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685acb255d3092689af72040"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "LOSARTANA POTÁSSICA",
+  "process_completion_date": {
+    "$date": "2004-07-22T02:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "100430911",
+  "registration_expiration_date": {
+    "$date": "2029-07-01T03:00:00.000Z"
+  },
+  "process_number": "25351004069200495",
+  "therapeutic_class": "ANTI-HIPERTENSIVOS SIMPLES",
+  "company_holding_registration": "61190096000192 - EUROFARMA LABORATÓRIOS S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "LOSARTANA POTÁSSICA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770357970.pdf",
+  "catmat_number": "BR0268856U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T12:58:27.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685acb285d3092689af72041"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "CICLO 21",
+  "process_completion_date": {
+    "$date": "2004-08-16T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "104970286",
+  "registration_expiration_date": {
+    "$date": "2029-08-01T03:00:00.000Z"
+  },
+  "process_number": "25351028135200412",
+  "therapeutic_class": "ANTICONCEPCIONAIS",
+  "company_holding_registration": "60665981000118 - UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "ETINILESTRADIOL +  LEVONORGESTREL",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770377143.pdf",
+  "catmat_number": "BR0268370U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T12:58:32.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685acb285d3092689af72044"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "VITER C",
+  "process_completion_date": {
+    "$date": "2005-08-08T03:00:00.000Z"
+  },
+  "regulatory_category": "ESPECÍFICO",
+  "product_registration_number": "138410018",
+  "registration_expiration_date": {
+    "$date": "2025-08-01T03:00:00.000Z"
+  },
+  "process_number": "25351165547200513",
+  "therapeutic_class": "MONOVITAMINAS EXCETO VITAMINA K",
+  "company_holding_registration": "02456955000183 - NATULAB LABORATÓRIO S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "ÁCIDO ASCÓRBICO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770776752.pdf",
+  "catmat_number": "BR0271687",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T12:58:32.754Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685acb285d3092689af72046"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "NISTATINA + OXIDO DE ZINCO",
+  "process_completion_date": {
+    "$date": "2009-04-20T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "105350158",
+  "registration_expiration_date": {
+    "$date": "2029-04-01T03:00:00.000Z"
+  },
+  "process_number": "25351384280200812",
+  "therapeutic_class": "EMOLIENTES E PROTETORES DA PELE E MUCOSAS",
+  "company_holding_registration": "17115437000173 - LABORATÓRIO GLOBO SA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "NISTATINA +  ÓXIDO DE ZINCO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770962780.pdf",
+  "catmat_number": "BR0279297-2",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T12:58:32.778Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685acb285d3092689af72047"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "CEFALEXINA MONOIDRATADA",
+  "process_completion_date": {
+    "$date": "2016-05-30T03:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "102351156",
+  "registration_expiration_date": {
+    "$date": "2026-05-01T03:00:00.000Z"
+  },
+  "process_number": "25351414873201531",
+  "therapeutic_class": "CEFALOSPORINAS",
+  "company_holding_registration": "57507378000365 - EMS S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "CEFALEXINA MONOIDRATADA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771227225.pdf",
+  "catmat_number": "BR0331555U0062",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T12:58:32.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685ace79795975d18e1a4d40"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "VONAU",
+  "process_completion_date": {
+    "$date": "2005-06-27T03:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "109740194",
+  "registration_expiration_date": {
+    "$date": "2025-06-01T03:00:00.000Z"
+  },
+  "process_number": "25351088885200524",
+  "therapeutic_class": "ANTIEMETICOS E ANTINAUSEANTES",
+  "company_holding_registration": "49475833000106 - BIOLAB SANUS FARMACÊUTICA LTDA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "CLORIDRATO  DE ONDANSETRONA DI-HIDRATADO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771164128.pdf",
+  "catmat_number": "BR0305751",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T13:12:38.756Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685ace8a795975d18e1a4d42"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "ENOXALOW",
+  "process_completion_date": {
+    "$date": "2009-02-02T02:00:00.000Z"
+  },
+  "regulatory_category": "BIOLÓGICO",
+  "product_registration_number": "116370071",
+  "registration_expiration_date": {
+    "$date": "2029-02-01T03:00:00.000Z"
+  },
+  "process_number": "25351367708200510",
+  "therapeutic_class": "ANTITROMBOTICO",
+  "company_holding_registration": "58430828000160 - BLAU FARMACÊUTICA S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "ENOXAPARINA SÓDICA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771285340.pdf",
+  "catmat_number": "BR0268455",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T13:12:58.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685ace8c795975d18e1a4d43"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "DRAMIN",
+  "process_completion_date": {
+    "$date": "2021-03-22T03:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "178170901",
+  "registration_expiration_date": {
+    "$date": "2026-08-01T03:00:00.000Z"
+  },
+  "process_number": "25351109987202119",
+  "therapeutic_class": "ANTIEMETICOS E ANTINAUSEANTES",
+  "company_holding_registration": "61082426000207 - COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "DIMENIDRINATO",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771304453.pdf",
+  "catmat_number": "BR0272335",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T13:13:00.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685ad071474144cb0f4d5894"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "EUTHYROX",
+  "process_completion_date": {
+    "$date": "2010-03-29T03:00:00.000Z"
+  },
+  "regulatory_category": "NOVO",
+  "product_registration_number": "100890359",
+  "registration_expiration_date": {
+    "$date": "2025-03-01T03:00:00.000Z"
+  },
+  "process_number": "25351376990200780",
+  "therapeutic_class": "HORMONIOS TIREOIDEANOS SIMPLES OU ASSOCIADOS ENTRE SI",
+  "company_holding_registration": "33069212000184 - MERCK S/A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "LEVOTIROXINA SÓDICA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770699407.pdf",
+  "catmat_number": "BR0268123U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T13:21:05.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685ad07c474144cb0f4d5895"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "DIPIRONA SÓDICA",
+  "process_completion_date": {
+    "$date": "2005-11-21T02:00:00.000Z"
+  },
+  "regulatory_category": "GENÉRICO",
+  "product_registration_number": "110850030",
+  "registration_expiration_date": {
+    "$date": "2025-11-01T03:00:00.000Z"
+  },
+  "process_number": "25351329759200535",
+  "therapeutic_class": "ANALGESICOS NAO NARCOTICOS",
+  "company_holding_registration": "06628333000146 - FARMACE INDÚSTRIA QUÍMICO-FARMACÊUTICA CEARENSE LTDA",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "DIPIRONA MONOIDRATADA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770786807.pdf",
+  "catmat_number": "BR0267203U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-24T13:21:15.294Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685af05c683127cee27841e1"
+  },
+  "product_type": "MEDICAMENTO",
+  "product_name": "HIDROMED",
+  "process_completion_date": {
+    "$date": "2002-03-27T03:00:00.000Z"
+  },
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "143810065",
+  "registration_expiration_date": {
+    "$date": "2027-03-01T03:00:00.000Z"
+  },
+  "process_number": "253510042240211",
+  "therapeutic_class": "DIURETICOS SIMPLES",
+  "company_holding_registration": "02814497000107 - CIMED INDUSTRIA S.A",
+  "registration_status": "VÁLIDO",
+  "active_ingredient": "HIDROCLOROTIAZIDA",
+  "patient_leaflet": "",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770605391.pdf",
+  "catmat_number": "BR0267674U0042",
+  "drug_leaflet_found": true,
+  "processing_date": {
+    "$date": "2025-06-15T13:52:44.446Z"
+  }
+}]
