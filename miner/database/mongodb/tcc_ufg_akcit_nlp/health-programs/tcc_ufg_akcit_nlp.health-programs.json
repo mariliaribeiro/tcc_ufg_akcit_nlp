@@ -1,0 +1,315 @@
+[{
+  "_id": {
+    "$oid": "685b4648bdf6a149835918fa"
+  },
+  "acronym": "ANTMICRO",
+  "description": "ANTIMICROBIANOS"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a266"
+  },
+  "acronym": "HOSP",
+  "description": "HOSPITALAR"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a267"
+  },
+  "acronym": "AF",
+  "description": "ASSISTÊNCIA FARMACÊUTICA"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a268"
+  },
+  "acronym": "ODONTO",
+  "description": "ODONTOLOGIA"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a270"
+  },
+  "acronym": "AFAL",
+  "description": "ANEMIA FALCIFORME"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f4"
+  },
+  "acronym": "INFLU",
+  "description": "INFLUENZA"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a305"
+  },
+  "acronym": "ALZHE",
+  "description": "ALZHEIMER"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a313"
+  },
+  "acronym": "AFB",
+  "description": "ASSISTÊNCIA FARMACÊUTICA BÁSICA"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a346"
+  },
+  "acronym": "UPA",
+  "description": "UPA"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a347"
+  },
+  "acronym": "NUTRI",
+  "description": "ALIMENTAÇÃO E NUTRIÇÃO"
+},
+{
+  "_id": {
+    "$oid": "685b5327007173838e20a35f"
+  },
+  "acronym": "PRODSAUDE",
+  "description": "PRODUTOS PARA SAÚDE"
+},
+{
+  "_id": {
+    "$oid": "685b5330007173838e20a36e"
+  },
+  "acronym": "COVID-19",
+  "description": "COVID-19"
+},
+{
+  "_id": {
+    "$oid": "685b5352007173838e20a396"
+  },
+  "acronym": "MAL",
+  "description": "MALÁRIA"
+},
+{
+  "_id": {
+    "$oid": "685b5353007173838e20a39c"
+  },
+  "acronym": "DST",
+  "description": "DST/AIDS"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3aa"
+  },
+  "acronym": "AFSESAI",
+  "description": "ASSISTÊNCIA FARMACÊUTICA SESAI "
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3b2"
+  },
+  "acronym": "SAUDMENTAL",
+  "description": "SAÚDE MENTAL"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c1"
+  },
+  "acronym": "HIPERTEN",
+  "description": "HIPERTENSÃO"
+},
+{
+  "_id": {
+    "$oid": "685b53b7007173838e20a491"
+  },
+  "acronym": "TBG",
+  "description": "TABAGISMO"
+},
+{
+  "_id": {
+    "$oid": "685b53e2007173838e20a49a"
+  },
+  "acronym": "SAUDMULHER",
+  "description": "SAÚDE DA MULHER"
+},
+{
+  "_id": {
+    "$oid": "685b5400007173838e20a49f"
+  },
+  "acronym": "SUPLEFERRO",
+  "description": "SUPLEMENTAÇÃO DE FERRO"
+},
+{
+  "_id": {
+    "$oid": "685b5400007173838e20a4a2"
+  },
+  "acronym": "SAUDECRIAN",
+  "description": "SAÚDE DA CRIANÇA"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4a9"
+  },
+  "acronym": "ZOO",
+  "description": "ZOONOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5426007173838e20a4e0"
+  },
+  "acronym": "DIABETES",
+  "description": "DIABETES"
+},
+{
+  "_id": {
+    "$oid": "685b54a1007173838e20a50c"
+  },
+  "acronym": "ESP",
+  "description": "ESPECIALIZADO"
+},
+{
+  "_id": {
+    "$oid": "685b553b007173838e20a526"
+  },
+  "acronym": "AÇÃOPUB",
+  "description": "AÇÃO CIVIL PÚBLICA"
+},
+{
+  "_id": {
+    "$oid": "685b570d007173838e20a561"
+  },
+  "acronym": "INFECDST",
+  "description": "INFECÇÕES OPORTUNISTAS DST/AIDS"
+},
+{
+  "_id": {
+    "$oid": "685b570f007173838e20a566"
+  },
+  "acronym": "SIF",
+  "description": "SÍFILIS"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a57e"
+  },
+  "acronym": "URG/EMERG",
+  "description": "URGÊNCIA E EMERGÊNCIA"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5b2"
+  },
+  "acronym": "COL",
+  "description": "CÓLERA"
+},
+{
+  "_id": {
+    "$oid": "685b5752007173838e20a5bc"
+  },
+  "acronym": "GEOHEL",
+  "description": "GEOHELMINTÍASES"
+},
+{
+  "_id": {
+    "$oid": "685b5947007173838e20a5fd"
+  },
+  "acronym": "IMUN",
+  "description": "IMUNIZAÇÃO"
+},
+{
+  "_id": {
+    "$oid": "685b594b007173838e20a600"
+  },
+  "acronym": "TOXO",
+  "description": "TOXOPLASMOSE"
+},
+{
+  "_id": {
+    "$oid": "685b594f007173838e20a602"
+  },
+  "acronym": "LEISH",
+  "description": "LEISHMANIOSE"
+},
+{
+  "_id": {
+    "$oid": "685b5953007173838e20a609"
+  },
+  "acronym": "TB",
+  "description": "TUBERCULOSE"
+},
+{
+  "_id": {
+    "$oid": "685b5a5d007173838e20a630"
+  },
+  "acronym": "HANS",
+  "description": "HANSENÍASE"
+},
+{
+  "_id": {
+    "$oid": "685b5a5e007173838e20a633"
+  },
+  "acronym": "HIDRASU",
+  "description": "HIDRADENITE SUPURATIVA"
+},
+{
+  "_id": {
+    "$oid": "685b5a5e007173838e20a634"
+  },
+  "acronym": "COQUE",
+  "description": "COQUELUCHE"
+},
+{
+  "_id": {
+    "$oid": "685b5a5e007173838e20a635"
+  },
+  "acronym": "MICSIS",
+  "description": "MICOSES SISTÊMICAS"
+},
+{
+  "_id": {
+    "$oid": "685b5a5e007173838e20a636"
+  },
+  "acronym": "CHAGAS",
+  "description": "CHAGAS"
+},
+{
+  "_id": {
+    "$oid": "685b5a5e007173838e20a637"
+  },
+  "acronym": "ESQUIS",
+  "description": "ESQUISTOSSOMOSE"
+},
+{
+  "_id": {
+    "$oid": "685b5a5f007173838e20a638"
+  },
+  "acronym": "BRUC",
+  "description": "BRUCELOSE"
+},
+{
+  "_id": {
+    "$oid": "685b5a62007173838e20a63d"
+  },
+  "acronym": "MENIN",
+  "description": "MENINGITE"
+},
+{
+  "_id": {
+    "$oid": "685b5a62007173838e20a63e"
+  },
+  "acronym": "LES",
+  "description": "LÚPUS ERITEMATOSO SISTÊMICO"
+},
+{
+  "_id": {
+    "$oid": "685b5a6c007173838e20a65a"
+  },
+  "acronym": "TOXI",
+  "description": "PROGRAMA DE TOXICOLOGIA"
+},
+{
+  "_id": {
+    "$oid": "685b5a72007173838e20a666"
+  },
+  "acronym": "CALPUB",
+  "description": "CALAMIDADE PÚBLICA"
+}]

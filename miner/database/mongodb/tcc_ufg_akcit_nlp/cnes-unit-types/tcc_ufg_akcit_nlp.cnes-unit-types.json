@@ -1,0 +1,273 @@
+[{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd92f"
+  },
+  "code": 80,
+  "description": "LABORATORIO DE SAUDE PUBLICA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd930"
+  },
+  "code": 81,
+  "description": "CENTRAL DE REGULACAO DO ACESSO"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd931"
+  },
+  "code": 79,
+  "description": "OFICINA ORTOPEDICA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd932"
+  },
+  "code": 82,
+  "description": "CENTRAL DE NOTIFICACAO,CAPTACAO E DISTRIB DE ORGAOS ESTADUAL"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd933"
+  },
+  "code": 78,
+  "description": "UNIDADE DE ATENCAO EM REGIME RESIDENCIAL"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd934"
+  },
+  "code": 74,
+  "description": "POLO ACADEMIA DA SAUDE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd935"
+  },
+  "code": 75,
+  "description": "TELESSAUDE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd936"
+  },
+  "code": 77,
+  "description": "SERVICO DE ATENCAO DOMICILIAR ISOLADO(HOME CARE)"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd937"
+  },
+  "code": 76,
+  "description": "CENTRAL DE REGULACAO MEDICA DAS URGENCIAS"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd938"
+  },
+  "code": 69,
+  "description": "CENTRO DE ATENCAO HEMOTERAPIA E OU HEMATOLOGICA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd939"
+  },
+  "code": 70,
+  "description": "CENTRO DE ATENCAO PSICOSSOCIAL"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd93a"
+  },
+  "code": 71,
+  "description": "CENTRO DE APOIO A SAUDE DA FAMILIA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd93b"
+  },
+  "code": 72,
+  "description": "UNIDADE DE ATENCAO A SAUDE INDIGENA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd93c"
+  },
+  "code": 1,
+  "description": "POSTO DE SAUDE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd93d"
+  },
+  "code": 2,
+  "description": "CENTRO DE SAUDE/UNIDADE BASICA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd93e"
+  },
+  "code": 4,
+  "description": "POLICLINICA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd93f"
+  },
+  "code": 22,
+  "description": "CONSULTORIO ISOLADO"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd940"
+  },
+  "code": 40,
+  "description": "UNIDADE MOVEL TERRESTRE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd941"
+  },
+  "code": 42,
+  "description": "UNIDADE MOVEL DE NIVEL PRE-HOSPITALAR NA AREA DE URGENCIA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd942"
+  },
+  "code": 32,
+  "description": "UNIDADE MOVEL FLUVIAL"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd943"
+  },
+  "code": 36,
+  "description": "CLINICA/CENTRO DE ESPECIALIDADE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd944"
+  },
+  "code": 64,
+  "description": "CENTRAL DE REGULACAO DE SERVICOS DE SAUDE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd945"
+  },
+  "code": 43,
+  "description": "FARMACIA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd946"
+  },
+  "code": 39,
+  "description": "UNIDADE DE APOIO DIAGNOSE E TERAPIA (SADT ISOLADO)"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd947"
+  },
+  "code": 61,
+  "description": "CENTRO DE PARTO NORMAL - ISOLADO"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd948"
+  },
+  "code": 62,
+  "description": "HOSPITAL/DIA - ISOLADO"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd949"
+  },
+  "code": 15,
+  "description": "UNIDADE MISTA"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd94a"
+  },
+  "code": 20,
+  "description": "PRONTO SOCORRO GERAL"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd94b"
+  },
+  "code": 21,
+  "description": "PRONTO SOCORRO ESPECIALIZADO"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd94c"
+  },
+  "code": 5,
+  "description": "HOSPITAL GERAL"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd94d"
+  },
+  "code": 7,
+  "description": "HOSPITAL ESPECIALIZADO"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd94e"
+  },
+  "code": 50,
+  "description": "UNIDADE DE VIGILANCIA EM SAUDE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd94f"
+  },
+  "code": 67,
+  "description": "LABORATORIO CENTRAL DE SAUDE PUBLICA LACEN"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd950"
+  },
+  "code": 73,
+  "description": "PRONTO ATENDIMENTO"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd951"
+  },
+  "code": 60,
+  "description": "COOPERATIVA OU EMPRESA DE CESSAO DE TRABALHADORES NA SAUDE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd952"
+  },
+  "code": 68,
+  "description": "CENTRAL DE GESTAO EM SAUDE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd953"
+  },
+  "code": 83,
+  "description": "POLO DE PREVENCAO DE DOENCAS E AGRAVOS E PROMOCAO DA SAUDE"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd954"
+  },
+  "code": 84,
+  "description": "CENTRAL DE ABASTECIMENTO"
+},
+{
+  "_id": {
+    "$oid": "685aff68b358453e4c8cd955"
+  },
+  "code": 85,
+  "description": "CENTRO DE IMUNIZACAO"
+}]

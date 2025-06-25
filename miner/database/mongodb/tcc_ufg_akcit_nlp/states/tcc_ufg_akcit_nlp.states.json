@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591904"
+  },
+  "code": 11,
+  "uf": "RO",
+  "state": "Rondônia"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591905"
+  },
+  "code": 12,
+  "uf": "AC",
+  "state": "Acre"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591906"
+  },
+  "code": 13,
+  "uf": "AM",
+  "state": "Amazonas"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591907"
+  },
+  "code": 14,
+  "uf": "RR",
+  "state": "Roraima"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591908"
+  },
+  "code": 15,
+  "uf": "PA",
+  "state": "Pará"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591909"
+  },
+  "code": 16,
+  "uf": "AP",
+  "state": "Amapá"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359190a"
+  },
+  "code": 17,
+  "uf": "TO",
+  "state": "Tocantins"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359190b"
+  },
+  "code": 21,
+  "uf": "MA",
+  "state": "Maranhão"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359190c"
+  },
+  "code": 22,
+  "uf": "PI",
+  "state": "Piauí"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359190d"
+  },
+  "code": 23,
+  "uf": "CE",
+  "state": "Ceará"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359190e"
+  },
+  "code": 24,
+  "uf": "RN",
+  "state": "Rio Grande do Norte"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359190f"
+  },
+  "code": 25,
+  "uf": "PB",
+  "state": "Paraíba"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591910"
+  },
+  "code": 26,
+  "uf": "PE",
+  "state": "Pernambuco"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591911"
+  },
+  "code": 27,
+  "uf": "AL",
+  "state": "Alagoas"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591912"
+  },
+  "code": 28,
+  "uf": "SE",
+  "state": "Sergipe"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591913"
+  },
+  "code": 29,
+  "uf": "BA",
+  "state": "Bahia"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591914"
+  },
+  "code": 31,
+  "uf": "MG",
+  "state": "Minas Gerais"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591915"
+  },
+  "code": 32,
+  "uf": "ES",
+  "state": "Espírito Santo"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591916"
+  },
+  "code": 33,
+  "uf": "RJ",
+  "state": "Rio de Janeiro"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591917"
+  },
+  "code": 35,
+  "uf": "SP",
+  "state": "São Paulo"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591918"
+  },
+  "code": 41,
+  "uf": "PR",
+  "state": "Paraná"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a14983591919"
+  },
+  "code": 42,
+  "uf": "SC",
+  "state": "Santa Catarina"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359191a"
+  },
+  "code": 43,
+  "uf": "RS",
+  "state": "Rio Grande do Sul"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359191b"
+  },
+  "code": 50,
+  "uf": "MS",
+  "state": "Mato Grosso do Sul"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359191c"
+  },
+  "code": 51,
+  "uf": "MT",
+  "state": "Mato Grosso"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359191d"
+  },
+  "code": 52,
+  "uf": "GO",
+  "state": "Goiás"
+},
+{
+  "_id": {
+    "$oid": "685b499dbdf6a1498359191e"
+  },
+  "code": 53,
+  "uf": "DF",
+  "state": "Distrito Federal"
+}]

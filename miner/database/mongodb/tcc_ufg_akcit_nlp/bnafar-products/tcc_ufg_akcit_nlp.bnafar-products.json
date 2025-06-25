@@ -1,0 +1,7168 @@
+[{
+  "_id": {
+    "$oid": "685b5316007173838e20a258"
+  },
+  "code": "BR0237636",
+  "description": "AVENTAL OU CAPOTE CIRÚRGICO, NÃO TECIDO, BRANCA, G, 3 CAMADAS, 60 G/M2, ESTÉRIL, COM MANGAS LONGAS, IMPERMEÁVEL A PRODUTOS QUÍMICOS, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a259"
+  },
+  "code": "BR0237680",
+  "description": "ESFIGMOMANÔMETRO, ANERÓIDE, BRAÇADEIRA COM FECHO EM VELCRO E ESTOJO - ADULTO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a25a"
+  },
+  "code": "BR0238049",
+  "description": "FIO DENTAL, FIO RESINA TERMOPLÁSTICA, 25 M, EXTRAFINO, NEUTRO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a25b"
+  },
+  "code": "BR0238918",
+  "description": "MÁSCARA NEBULIZAÇÃO E TUBO EXTENSOR, ADULTO, TRANSPARENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a25c"
+  },
+  "code": "BR0238919",
+  "description": "MÁSCARA NEBULIZAÇÃO E TUBO EXTENSOR, INFANTIL, TRANSPARENTE, 150 CM, MÁSCARA COM AJUSTE ANATÔMICO E ATÓXICA"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a25d"
+  },
+  "code": "BR0244064",
+  "description": "ÓCULOS PROTEÇÃO, ARMAÇÃO ACRÍLICO,PROTEÇÃO LATERAL/FRONTAL, LENTE INCOLOR, APLICAÇÃO PROTEÇÃO DOS OLHOS, CONTRA POEIRA E RESÍDUOS DO AR, COM HASTE DOBRÁVEL E REGULÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a25e"
+  },
+  "code": "BR0246952",
+  "description": "LUBRIFICANTE ODONTOLÓGICO, ÓLEO MINERAL, SPRAY COM ADAPTADOR, CANETA DE ALTA E BAIXA ROTAÇÃO, SEM CFC "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a25f"
+  },
+  "code": "BR0266707U0066",
+  "description": "BUDESONIDA 64 MCG/DOSE SUSPENSÃO NASAL 120 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a260"
+  },
+  "code": "BR0266863U0062",
+  "description": "METRONIDAZOL (BENZOILMETRONIDAZOL) 40 MG/ML SUSPENSÃO ORAL  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a261"
+  },
+  "code": "BR0267140U0042",
+  "description": "AZITROMICINA 500 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a262"
+  },
+  "code": "BR0267195U0042",
+  "description": "DIAZEPAM 5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a263"
+  },
+  "code": "BR0267197U0042",
+  "description": "DIAZEPAM 10 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a264"
+  },
+  "code": "BR0267203U0042",
+  "description": "DIPIRONA SÓDICA  500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a265"
+  },
+  "code": "BR0267205U0063",
+  "description": "DIPIRONA SÓDICA  500 MG/ML SOLUÇÃO ORAL 10 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a269"
+  },
+  "code": "BR0267310U0009",
+  "description": "METOCLOPRAMIDA, CLORIDRATO 5 MG/ML SOLUÇÃO INJETÁVEL 2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a26a"
+  },
+  "code": "BR0267311U0063",
+  "description": "METOCLOPRAMIDA, CLORIDRATO 4 MG/ML SOLUÇÃO ORAL 10 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a26b"
+  },
+  "code": "BR0267312U0042",
+  "description": "METOCLOPRAMIDA, CLORIDRATO 10 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a26c"
+  },
+  "code": "BR0267378U0105",
+  "description": "NISTATINA 100.000 UI/ML SUSPENSÃO ORAL  50  ML"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a26d"
+  },
+  "code": "BR0267502U0042",
+  "description": "ÁCIDO ACETILSALICÍLICO  100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a26e"
+  },
+  "code": "BR0267503U0042",
+  "description": "ÁCIDO FÓLICO 5 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a26f"
+  },
+  "code": "BR0267506U0042",
+  "description": "ALBENDAZOL 400 MG COMPRIMIDO MASTIGÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a271"
+  },
+  "code": "BR0267507U0063",
+  "description": "ALBENDAZOL 40 MG/ML SUSPENSÃO ORAL  10 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a272"
+  },
+  "code": "BR0267512U0042",
+  "description": "AMITRIPTILINA, CLORIDRATO 25 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a273"
+  },
+  "code": "BR0267517U0042",
+  "description": "ATENOLOL 50 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a274"
+  },
+  "code": "BR0267522U0042",
+  "description": "CLOMIPRAMINA, CLORIDRATO 25 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a275"
+  },
+  "code": "BR0267564U0042",
+  "description": "CARVEDILOL 12,5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a276"
+  },
+  "code": "BR0267566U0042",
+  "description": "CARVEDILOL 3,125 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a277"
+  },
+  "code": "BR0267613U0042",
+  "description": "CAPTOPRIL  25 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a278"
+  },
+  "code": "BR0267621U0042",
+  "description": "CARBONATO DE LÍTIO 300 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a279"
+  },
+  "code": "BR0267625U0041",
+  "description": "CEFALEXINA 500 MG  CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a27a"
+  },
+  "code": "BR0267625U0042",
+  "description": "CEFALEXINA 500 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a27b"
+  },
+  "code": "BR0267632U0042",
+  "description": "CIPROFLOXACINO, CLORIDRATO 500 MG  COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a27c"
+  },
+  "code": "BR0267643U0015",
+  "description": "DEXAMETASONA  0,1 % CREME  10 G"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a27d"
+  },
+  "code": "BR0267645U0042",
+  "description": "DEXCLORFENIRAMINA, MALEATO 2 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a27e"
+  },
+  "code": "BR0267646U0067",
+  "description": "DEXCLORFENIRAMINA, MALEATO 0,4 MG/ML SOLUÇÃO ORAL 120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a27f"
+  },
+  "code": "BR0267650U0042",
+  "description": "ENALAPRIL, MALEATO 5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a280"
+  },
+  "code": "BR0267651U0042",
+  "description": "ENALAPRIL, MALEATO 10 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a281"
+  },
+  "code": "BR0267652U0042",
+  "description": "ENALAPRIL, MALEATO 20 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a282"
+  },
+  "code": "BR0267653U0042",
+  "description": "ESPIRONOLACTONA  25 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a283"
+  },
+  "code": "BR0267660U0042",
+  "description": "FENOBARBITAL  100 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a284"
+  },
+  "code": "BR0267662U0041",
+  "description": "FLUCONAZOL 150 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a285"
+  },
+  "code": "BR0267671U0042",
+  "description": "GLIBENCLAMIDA 5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5316007173838e20a286"
+  },
+  "code": "BR0267674U0042",
+  "description": "HIDROCLOROTIAZIDA  25MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a287"
+  },
+  "code": "BR0267676U0042",
+  "description": "IBUPROFENO  600 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a288"
+  },
+  "code": "BR0267677U0042",
+  "description": "IBUPROFENO  300 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a289"
+  },
+  "code": "BR0267690U0042",
+  "description": "METFORMINA, CLORIDRATO 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a28a"
+  },
+  "code": "BR0267691U0042",
+  "description": "METFORMINA, CLORIDRATO 850 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a28b"
+  },
+  "code": "BR0267712U0041",
+  "description": "OMEPRAZOL 20 MG CÁPSULA  ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a28c"
+  },
+  "code": "BR0267717U0042",
+  "description": "METRONIDAZOL 250 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a28d"
+  },
+  "code": "BR0267728U0042",
+  "description": "NIFEDIPINO 10 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a28e"
+  },
+  "code": "BR0267733U0042",
+  "description": "NORETISTERONA 0,35 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a28f"
+  },
+  "code": "BR0267741U0042",
+  "description": "PREDNISONA  5 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a290"
+  },
+  "code": "BR0267743U0042",
+  "description": "PREDNISONA  20 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a291"
+  },
+  "code": "BR0267769U0009",
+  "description": "PROMETAZINA, CLORIDRATO 25 MG/ML SOLUÇÃO INJETÁVEL 2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a292"
+  },
+  "code": "BR0267772U0042",
+  "description": "PROPRANOLOL, CLORIDRATO 40 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a293"
+  },
+  "code": "BR0267773U0110",
+  "description": "PERMETRINA 10 MG/ML LOÇÃO 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a294"
+  },
+  "code": "BR0267774U0042",
+  "description": "PIRIDOXINA, CLORIDRATO 40 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a295"
+  },
+  "code": "BR0267776-1",
+  "description": "PARACETAMOL  100 MG/ML SOLUÇÃO ORAL 10 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a296"
+  },
+  "code": "BR0267777U0063",
+  "description": "PARACETAMOL  200 MG/ML SOLUÇÃO ORAL 10 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a297"
+  },
+  "code": "BR0267778U0042",
+  "description": "PARACETAMOL  500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a298"
+  },
+  "code": "BR0268150U0062",
+  "description": "PREDNISOLONA 3 MG/ML SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a299"
+  },
+  "code": "BR0268162U0031",
+  "description": "MICONAZOL, NITRATO 2 % CREME VAGINAL  80 G"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a29a"
+  },
+  "code": "BR0268178",
+  "description": "BABADOR, PAPEL ABSORVENTE E PLÁSTICO,   DESCARTÁVEL, BRANCA, 33 CM, 48 CM, 2 CAMADAS PAPEL/1 CAMADA PLÁSTICO COM 100 UN"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a29b"
+  },
+  "code": "BR0268236U0034",
+  "description": "CLORETO DE SÓDIO 0,9% SOLUÇÃO INJETÁVEL 100 ML SISTEMA FECHADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a29c"
+  },
+  "code": "BR0268236U0037",
+  "description": "CLORETO DE SÓDIO 0,9% SOLUÇÃO INJETÁVEL 250 ML SISTEMA FECHADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a29d"
+  },
+  "code": "BR0268236U0039",
+  "description": "CLORETO DE SÓDIO 0,9 % SOLUÇÃO INJETÁVEL 500 ML SISTEMA FECHADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a29e"
+  },
+  "code": "BR0268243U0067",
+  "description": "DEXAMETASONA  0,1 MG/ML ELIXIR 120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a29f"
+  },
+  "code": "BR0268286U0020",
+  "description": "MICONAZOL, NITRATO 2 % CREME  28 G"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a0"
+  },
+  "code": "BR0268370U0042",
+  "description": "ACICLOVIR 200 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a1"
+  },
+  "code": "BR0268390U0052",
+  "description": "SAIS PARA REIDRATAÇÃO ORAL (NaCl 3,5G + Glicose 20G + Citrato Na 2,9G + KCl 1,5G)                                 27,9 G PÓ PARA SOLUÇÃO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a2"
+  },
+  "code": "BR0268436U0041",
+  "description": "CLINDAMICINA, CLORIDRATO 300 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a3"
+  },
+  "code": "BR0268493U0042",
+  "description": "DOXAZOSINA, MESILATO 2 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a4"
+  },
+  "code": "BR0268499U0042",
+  "description": "METRONIDAZOL 400 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a5"
+  },
+  "code": "BR0268505U0042",
+  "description": "ONDANSETRONA, CLORIDRATO 8 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a6"
+  },
+  "code": "BR0268506U0042",
+  "description": "ONDANSETRONA, CLORIDRATO 4 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a7"
+  },
+  "code": "BR0268856U0042",
+  "description": "LOSARTANA POTÁSSICA 50 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a8"
+  },
+  "code": "BR0268861U0041",
+  "description": "ITRACONAZOL 100 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2a9"
+  },
+  "code": "BR0269388U0042",
+  "description": "DEXAMETASONA  4 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2aa"
+  },
+  "code": "BR0269462U0042",
+  "description": "ALENDRONATO DE SÓDIO  70 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ab"
+  },
+  "code": "BR0269837",
+  "description": "LUVA CIRÚRGICA, LÁTEX NATURAL,8, ESTÉRIL, COMPRIMENTO MÍNIMO DE 28CM, LUBRIFICADA C/ PÓ BIOABSORVÍVEL,ATÓXICA, DESCARTÁVEL, ANATÔMICO, CONFORME NORMA ABNT C/ ABERTURA ASSÉPTICA "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ac"
+  },
+  "code": "BR0269843",
+  "description": "LIDOCAÍNA, CLORIDRATO 2 % SOLUÇÃO INJETÁVEL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ad"
+  },
+  "code": "BR0269892",
+  "description": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO, GRANDE, LÁTEX NATURAL, COM PÓ BIOABSORVÍVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ae"
+  },
+  "code": "BR0269893",
+  "description": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO, MÉDIA, LÁTEX NATURAL, COM PÓ BIOABSORVÍVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2af"
+  },
+  "code": "BR0269894",
+  "description": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO, PEQUENA, LÁTEX NATURAL, COM PÓ BIOABSORVÍVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b0"
+  },
+  "code": "BR0269941U0060",
+  "description": "ÁLCOOL ETÍLICO 70% SOLUÇÃO 1 L"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b1"
+  },
+  "code": "BR0269943U0103",
+  "description": "ÁLCOOL ETÍLICO 70% GEL 500 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b2"
+  },
+  "code": "BR0269978",
+  "description": "COMPRESSA GAZE, 100% ALGODÃO, 13 FIOS, 8 CAMADAS, 7,50 X 7,50 CM, 5 DOBRAS, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b3"
+  },
+  "code": "BR0269987",
+  "description": "CLARITROMICINA 25 MG/ML PÓ PARA SUSPENSÃO 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b4"
+  },
+  "code": "BR0269992-2",
+  "description": "ERITROMICINA, ESTEARATO 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b5"
+  },
+  "code": "BR0270092U0039",
+  "description": "GLICOSE 5 % SOLUÇÃO INJETÁVEL 500 ML SISTEMA FECHADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b6"
+  },
+  "code": "BR0270120U0086",
+  "description": "CLONAZEPAM 2,5 MG/ML SOLUÇÃO ORAL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b7"
+  },
+  "code": "BR0270140U0042",
+  "description": "BIPERIDENO, CLORIDRATO  2 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b8"
+  },
+  "code": "BR0270597U0005",
+  "description": "BETAMETASONA, ACETATO + BETAMETASONA, FOSFATO DISSÓDICO 3 + 3 MG/ML SUSPENSÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2b9"
+  },
+  "code": "BR0270614",
+  "description": "BENZILPENICILINA PROCAÍNA + BENZILPENICILINA POTÁSSICA  300.000 +100.000 UI PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ba"
+  },
+  "code": "BR0270846U0005",
+  "description": "NORETISTERONA, ENANTATO DE  + ESTRADIOL, VALERATO DE   50 + 5 MG/ML SOLUÇÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2bb"
+  },
+  "code": "BR0270893U0042",
+  "description": "CARBONATO DE CÁLCIO + COLECALCIFEROL  500 MG + 200 UI COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2bc"
+  },
+  "code": "BR0271089U0041",
+  "description": "AMOXICILINA 500 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2bd"
+  },
+  "code": "BR0271103U0062",
+  "description": "CETOCONAZOL 2% XAMPU  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2be"
+  },
+  "code": "BR0271111U0110",
+  "description": "AMOXICILINA 50 MG/ML PÓ PARA SUSPENSÃO 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2bf"
+  },
+  "code": "BR0272434U0042",
+  "description": "ANLODIPINO, BESILATO 5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c0"
+  },
+  "code": "BR0272454U0062",
+  "description": "CARBAMAZEPINA  20 MG/ML SUSPENSÃO ORAL  100 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c1"
+  },
+  "code": "BR0272780",
+  "description": "CLOROQUINA, DIFOSFATO 150 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c2"
+  },
+  "code": "BR0272789U0042",
+  "description": "LEVONORGESTREL + ETINILESTRADIOL  0,15 + 0,03 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c3"
+  },
+  "code": "BR0272828U0042",
+  "description": "PRIMAQUINA DIFOSFATO 15 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c4"
+  },
+  "code": "BR0272906",
+  "description": "ABAIXADOR LÍNGUA, MADEIRA, DESCARTÁVEL, 14 CM, 1,40 CM, 1,5 MM"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c5"
+  },
+  "code": "BR0273009U0041",
+  "description": "FLUOXETINA, CLORIDRATO 20 MG CÁPSULA  ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c6"
+  },
+  "code": "BR0273178",
+  "description": "LÂMINA BISTURI, AÇO CARBONO, Nº 15, DESCARTÁVEL, ESTÉRIL, EMBALADA INDIVIDUALMENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c7"
+  },
+  "code": "BR0273328U0042",
+  "description": "IVERMECTINA 6 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c8"
+  },
+  "code": "BR0273466U0042",
+  "description": "LORATADINA 10 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2c9"
+  },
+  "code": "BR0273467U0062",
+  "description": "LORATADINA 1 MG/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ca"
+  },
+  "code": "BR0274163",
+  "description": "FRALDA DESCARTÁVEL, TECIDO ANTI-ALÉRGICO, INFANTIL, PEQUENO, COM ELÁSTICO NAS PERNAS"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2cb"
+  },
+  "code": "BR0274648U0239",
+  "description": "PASTA DÁGUA PASTA  100 G"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2cc"
+  },
+  "code": "BR0275118",
+  "description": "PREDNISOLONA 5 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2cd"
+  },
+  "code": "BR0275119",
+  "description": "PREDNISOLONA 20 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ce"
+  },
+  "code": "BR0275238-4",
+  "description": "GEL CONDUTOR PARA ULTRASSONOGRAFIA 1 KG"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2cf"
+  },
+  "code": "BR0275963U0042",
+  "description": "FINASTERIDA 5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d0"
+  },
+  "code": "BR0276341",
+  "description": "LUVA CIRÚRGICA, LÁTEX NATURAL, 7,50, ESTÉRIL, COMPRIMENTO MÍNIMO DE 28CM, LUBRIFICADA C/ PÓ BIOABSORVÍVEL, ATÓXICA, DESCARTÁVEL, ANATÔMICO, ANTIDERRAPANTE, CONFORME NORMA ABNT C/ ABERTURA ASSÉPTICA"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d1"
+  },
+  "code": "BR0278489U0097",
+  "description": "ÁCIDO FÓLICO 0,2 MG/ML SOLUÇÃO ORAL 30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d2"
+  },
+  "code": "BR0278500",
+  "description": "ESPARADRAPO, 10CM, 4,50 M, IMPERMEÁVEL, ALGODÃO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d3"
+  },
+  "code": "BR0278624",
+  "description": "AGULHA DESCARTÁVEL, INOX, 25 X 7, C/PROTETOR PLÁSTICO, IDENT. COR UNIVERSAL, HIPODÉRMICA, CURTO, TRIFACETADO, C/ PAREDES FINAS,  ESTÉRIL,  ATÓXICA, SILICONIZADA"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d4"
+  },
+  "code": "BR0279406",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 3 ML, BICO LUER LOCK, ÊMBOLO C/PONTEIRA DE BORRACHA SILICONIZADA,DESCART,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d5"
+  },
+  "code": "BR0279581",
+  "description": "MÁSCARA CIRÚRGICA, NÃO TECIDO,3 CAMADAS,PREGAS HORIZONTAIS,ATÓXICA, 4 TIRAS LATERAIS P/ FIXAÇÃO, CLIP NASAL EMBUTIDO,HIPOALERGÊNICA, BRANCA, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d6"
+  },
+  "code": "BR0279638",
+  "description": "AGULHA, HIPODÉRMICA,13 X 4,5,CORPO EM AÇO INÓX SILICONIZADO,BISEL CURTO TRIFACETADO,CONECTOR EM PLÁSTICO LUER,PROTETOR PLÁSTICO, ESTÉRIL,DESCART."
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d7"
+  },
+  "code": "BR0279641",
+  "description": "AGULHA, GENGIVAL, 30G CURTA, CORPO EM AÇO INÓX SILICONIZADO, BISEL TRIFACETADO, ADAPTÁVEL À SERINGA CARPULE, PROTETOR PLÁSTICO, ESTÉRIL, DESCARTÁVEL, EMBALAGEM INDIVIDUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d8"
+  },
+  "code": "BR0279750",
+  "description": "ESCALPE 27, PVC, CONECTOR LUER CÔNICO RÍGIDO, BISEL TRIFACETADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2d9"
+  },
+  "code": "BR0279889",
+  "description": "FRASCO - TIPO ALMOTOLIA, 500 ML, EM POLIETILENO (PLÁSTICO), BICO RETO, LONGO, ESTREITO, COM PROTETOR, TAMPA EM ROSCA, ÂMBAR"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2da"
+  },
+  "code": "BR0279893",
+  "description": "FRASCO - TIPO ALMOTOLIA, 250 ML, EM POLIETILENO (PLÁSTICO), BICO RETO, LONGO, ESTREITO, COM PROTETOR, TAMPA EM ROSCA, TRANSPARENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2db"
+  },
+  "code": "BR0281135U0113",
+  "description": "AMOXICILINA + CLAVULANATO DE POTÁSSIO 50 MG+ 12,5 MG/ML SUSPENSÃO ORAL  75 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2dc"
+  },
+  "code": "BR0281155-1",
+  "description": "FITA AUTOCLAVE, 30 M, 19 MM, BOA ADESÃO, DORSO EM PAPEL CREPADO, C/INDICADOR TÉRMICO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2dd"
+  },
+  "code": "BR0282631",
+  "description": "CATETER INTRAVENOSO 18 G, VIALON OU POLIURETANO, PERIFÉRICO, C/ AGULHA, BISEL TRIFACETADO, SILICONIZADO,CÂMARA REFLUXO, RADIOPACO, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2de"
+  },
+  "code": "BR0282632",
+  "description": "CATETER INTRAVENOSO 20 G, VIALON OU POLIURETANO, PERIFÉRICO, C/ AGULHA, BISEL TRIFACETADO, SILICONIZADO, CÂMARA REFLUXO, RADIOPACO, ESTÉRIL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2df"
+  },
+  "code": "BR0291012",
+  "description": "SERINGA 3 ML POLIPROPILENO + AGULHA 25 MM X 7 MM BISEL TRIFACETADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e0"
+  },
+  "code": "BR0292118",
+  "description": "SERINGA 5 ML POLIPROPILENO+ AGULHA 25 X 7 MM, BISEL TRIFACETADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e1"
+  },
+  "code": "BR0292119",
+  "description": "SERINGA 20 ML POLIPROPILENO + AGULHA 25 MM X 7 MM BISEL TRIFACETADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e2"
+  },
+  "code": "BR0292228U0005",
+  "description": "MEDROXIPROGESTERONA, ACETATO 150 MG/ML SOLUÇÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e3"
+  },
+  "code": "BR0292343",
+  "description": "SULFADIAZINA DE PRATA 30 G BISNAGA"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e4"
+  },
+  "code": "BR0292344U0042",
+  "description": "SULFATO FERROSO (40MG DE FERRO ELEMENTAR) COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e5"
+  },
+  "code": "BR0294887U0084",
+  "description": "SALBUTAMOL, SULFATO 100 MCG/DOSE AEROSSOL 200 DOSES ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e6"
+  },
+  "code": "BR0298557",
+  "description": "SERINGA 10 ML POLIPROPILENO + AGULHA 25 MM X 7 MM BISEL TRIFACETADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e7"
+  },
+  "code": "BR0304173",
+  "description": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO VINIL, GRANDE, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e8"
+  },
+  "code": "BR0304174",
+  "description": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO VINIL, MÉDIO, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2e9"
+  },
+  "code": "BR0304175",
+  "description": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO VINIL, PEQUENO, DESCARTÁVEL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ea"
+  },
+  "code": "BR0305247-1",
+  "description": "LACTULOSE 667 MG/ML SOLUÇÃO ORAL  120 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2eb"
+  },
+  "code": "BR0305714U0067",
+  "description": "NITROFURANTOÍNA 5 MG/ML SUSPENSÃO ORAL  120  ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ec"
+  },
+  "code": "BR0306947U0041",
+  "description": "OSELTAMIVIR, FOSFATO 75 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ed"
+  },
+  "code": "BR0308648",
+  "description": "PROTETOR FACIAL, ACRÍLICO, INCOLOR, PLÁSTICO, TAMANHO ÚNICO, ANATÔMICO, CONVEXO, COROA AJUSTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ee"
+  },
+  "code": "BR0308732U0062",
+  "description": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO)  50 MG/ML XAROPE  100 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ef"
+  },
+  "code": "BR0308882U0042",
+  "description": "SULFAMETOXAZOL + TRIMETOPRIMA  400 + 80 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f0"
+  },
+  "code": "BR0308884U0062",
+  "description": "SULFAMETOXAZOL + TRIMETOPRIMA  40 + 8 MG/ML SUSPENSÃO ORAL  100 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f1"
+  },
+  "code": "BR0313379-1",
+  "description": "MASCARA DE PROTEÇÃO RESPIRATÓRIA, RESPIRADOR PFF-2 (S) PARA RISCOS BIOLOGICOS, 3M 9920H"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f2"
+  },
+  "code": "BR0313629",
+  "description": "LÂMINA BISTURI, AÇO CARBONO, Nº 20, DESCARTÁVEL, ESTÉRIL, EMBALADA INDIVIDUALMENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f3"
+  },
+  "code": "BR0313630",
+  "description": "LÂMINA BISTURI, AÇO CARBONO, Nº 22, DESCARTÁVEL, ESTÉRIL, EMBALADA INDIVIDUALMENTE                    "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f5"
+  },
+  "code": "BR0313822",
+  "description": "DENTIFRÍCIO, CREME DENTAL, 1500 PPM, 90 G "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f6"
+  },
+  "code": "BR0314517-5 INATIVO",
+  "description": "AZITROMICINA 40MG/ML 600MG PÓ PARA SOLUÇÃO 15 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f7"
+  },
+  "code": "BR0314517U0108",
+  "description": "AZITROMICINA 40 MG/ML 600 MG PÓ PARA SUSPENSÃO 15 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f8"
+  },
+  "code": "BR0321571",
+  "description": "COLETOR MATERIAL PERFURANTE - CORTANTE,RESISTENTE À PERFURAÇÕES,INTERNAMENTE IMPERMEÁVEL,7 L,AMARELA,C/SIMBOLOGIA INTERNACIONAL DE MATERIAL CONTAMINADO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2f9"
+  },
+  "code": "BR0327468",
+  "description": "AVENTAL DESCARTÁVEL USO HOSPITALAR, 30 G/M2, 100% POLIPROPILENO, TAMANHO ÚNICO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2fa"
+  },
+  "code": "BR0327699U0042",
+  "description": "PERMANGANATO DE POTÁSSIO 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2fb"
+  },
+  "code": "BR0327792",
+  "description": "CEFALEXINA 25 MG/ML SUSPENSÃO ORAL  60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2fc"
+  },
+  "code": "BR0328077-1",
+  "description": "DETERGENTE ENZIMÁTICO À BASE DE AMILASE, PROTEASE E LIPASE 1L"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2fd"
+  },
+  "code": "BR0332468U0062",
+  "description": "SULFATO FERROSO (5MG/ML DE FERRO ELEMENTAR) 25 MG/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2fe"
+  },
+  "code": "BR0332754U0097",
+  "description": "IBUPROFENO  50 MG/ML SUSPENSÃO ORAL  30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a2ff"
+  },
+  "code": "BR0338605U0140",
+  "description": "LANCETA, AÇO INOXIDÁVEL,PONTA AFIADA,TRIFACETADA, DESCARTÁVEL, ESTÉRIL, EMBALAGEM INDIVIDUAL, COM SISTEMA RETRÁTIL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a300"
+  },
+  "code": "BR0339700",
+  "description": "SABONETE LÍQUIDO, LÍQUIDO VISCOSO, NEUTRO PH, LAURIL ÉTER SULFATO DE SÓDIO, ERVA-DOCE, 1000 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a301"
+  },
+  "code": "BR0340782",
+  "description": "BOLSA TÉRMICA, BORRACHA, MÉDIO, COM TAMPA ROSCÁVEL, PARA ÁGUA QUENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a302"
+  },
+  "code": "BR0341882",
+  "description": "CIANOCOBALAMINA 500 MCG/ML SOLUÇÃO INJETÁVEL 2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a303"
+  },
+  "code": "BR0342134U0118",
+  "description": "HIDROCORTISONA, SUCCINATO SÓDICO 500MG PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a304"
+  },
+  "code": "BR0345241",
+  "description": "HIDROCORTISONA 10 MG/G POMADA 30 G "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a306"
+  },
+  "code": "BR0345300",
+  "description": "METRONIDAZOL 100 MG/G CREME VAGINAL  50 G"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a307"
+  },
+  "code": "BR0348030",
+  "description": "MACACÃO, TNT, CAPUZ,ZÍPER FRONTAL, HOSPITALAR,  BRANCO, MÉDIO, HIDROREPELENTE, LONGA COM ELÁSTICO NOS PUNHOS"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a308"
+  },
+  "code": "BR0352012",
+  "description": "LENÇOL DESCARTÁVEL, PAPEL, 70 CM DE LARGURA, 50M DE COMPRIMENTO, ROLO"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a309"
+  },
+  "code": "BR0355857",
+  "description": "SACO PLÁSTICO LIXO, 100 L, BRANCO LEITOSO, 75 CM, 105 CM, COM INSCRIÇÃO CONFORME MODELO E SOLDA CONTÍNUA, 10 MICRA, COLETA DE RESÍDUOS DE SERVIÇOS DE SAÚDE"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a30a"
+  },
+  "code": "BR0356905",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO , CONJUNTO COMPLETO, QUALITATIVO DE BETA HCG, IMUNOCROMATOGRAFIA, TESTE "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a30b"
+  },
+  "code": "BR0357722",
+  "description": "ESTETOSCÓPIO, ADULTO, PRECORDIAL, 2 CAMPÂNULAS"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a30c"
+  },
+  "code": "BR0357783",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO , CONJUNTO COMPLETO, QUALITATIVO DE ANTI-HCV, IMUNOCROMATOGRAFIA, TESTE (TESTE RAPIDO HEPATITE C)"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a30d"
+  },
+  "code": "BR0361076",
+  "description": "LÂMINA BISTURI, AÇO INOXIDÁVEL, Nº 12, DESCARTÁVEL, ESTÉRIL, EMBALADA INDIVIDUALMENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a30e"
+  },
+  "code": "BR0361762",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 10 CM, 180 CM, EM REPOUSO, 13 FIOS UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a30f"
+  },
+  "code": "BR0361768",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 30 CM, 180 CM, EM REPOUSO, 13 FIOS UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a310"
+  },
+  "code": "BR0361770",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 15 CM, 180 CM, EM REPOUSO, 13 UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a311"
+  },
+  "code": "BR0363482",
+  "description": "COLETOR MATERIAL PÉRFURO-CORTANTE, PAPELÃO, 13 L, ALÇAS RÍGIDAS E TAMPA, REVESTIMENTO INTERNO EM POLIETILENO ALTA DENSIDADE, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a312"
+  },
+  "code": "BR0363597U0110",
+  "description": "PERMETRINA 50 MG/ML LOÇÃO 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a314"
+  },
+  "code": "BR0368252",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO , CONJUNTO COMPLETO, QUALITATIVO DE HBV-HBSAG, IMUNOCROMATOGRAFIA, TESTE (HEPATITE B)"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a315"
+  },
+  "code": "BR0373909U0063",
+  "description": "HIPROMELOSE 3 MG/ML SOLUÇÃO OFTÁLMICA 10 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a316"
+  },
+  "code": "BR0375041",
+  "description": "AVENTAL DESCARTÁVEL USO HOSPITALAR, 30 G/M2, MANGA LONGA, PUNHO COM ELÁSTICO, BRANCA, TAMANHO ÚNICO, TNT 100% POLIPROPILENO   "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a317"
+  },
+  "code": "BR0383604",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 20 CM, 125 CM, EM REPOUSO, 13 FIOS UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a318"
+  },
+  "code": "BR0386151U0079",
+  "description": "SABONETE ANTISSÉPTICO, LÍQUIDO CREMOSO, À BASE DE ÁCIDO LÁTICO, FRASCO 1 L  ,"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a319"
+  },
+  "code": "BR0389338",
+  "description": "LANCETA, DESCARTÁVEL, ULTRA FINA, ESTÉRIL, EMBALAGEM INDIVIDUAL, AÇO INOXIDÁVEL,PONTA AFIADA,TRIFACETADA"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a31a"
+  },
+  "code": "BR0390777U0257",
+  "description": "SELANTE, FOTOPOLIMERIZÁVEL, FLÚOR, PARA FÓSSULAS E FISSURAS, SERINGA 2 G"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a31b"
+  },
+  "code": "BR0394023-4",
+  "description": "VASELINA (PETROLATO, PURO) POMADA 80 G"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a31c"
+  },
+  "code": "BR0394188",
+  "description": "SACO PLÁSTICO LIXO, CAPACIDADE 15, BRANCO LEITOSO, LARGURA 39, ALTURA 58, APLICAÇÃO COLETA DE RESÍDUOS DE SERVIÇOS DE SAÚDE"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a31d"
+  },
+  "code": "BR0395558U0285",
+  "description": "ÁCIDO SALICÍLICO 5 % POMADA"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a31e"
+  },
+  "code": "BR0395631U0062",
+  "description": "MIKANIA GLOMERATA (GUACO) 0,05 ML/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a31f"
+  },
+  "code": "BR0395632",
+  "description": "GELO REUTILIZÁVEL, A BASE DE POLÍMERO ACRÍLICO, 27 X 15 X 2,5 CM, EMBALAGEM DE POLIETILENO DE ALTA DENSIDADE"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a320"
+  },
+  "code": "BR0397280U0067",
+  "description": "MIKANIA GLOMERATA (GUACO) 0,1 ML/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a321"
+  },
+  "code": "BR0397494",
+  "description": "AGULHA HIPODÉRMICA, 40 X 1,2 AÇO INOXIDÁVEL SI   LICONIZADO, 18 G X 1 1/2\", BISEL CURTO TRIFACETADO, CONECTOR LUER LOCK    EM PLÁSTICO, PROTETOR PLÁSTICO, COM SISTEMA SEGURANÇA SEGUNDO NR/32, ES   TÉRIL, DESCARTÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a322"
+  },
+  "code": "BR0397506",
+  "description": "AGULHA HIPODERMICA, 22G X 11/4', AÇO INOXIDÁVEL SILICONIZADO C/ SISTEMA SEGURANÇA, BISEL CURTO TRIFACETADO, CONECTOR LUER LOCK EM PLASTICO, ESTÉRIL, DESCARTÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a323"
+  },
+  "code": "BR0398559",
+  "description": "SACO PLÁSTICO LIXO, 50 L, BRANCO LEITOSO, 63 CM, 80 CM, PEÇA ÚNICA/SUPORTA 15KG/IDENTIFICADO/ETIQUETADO, 0,8 MM, POLIETILENO ALTA DENSIDADE "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a324"
+  },
+  "code": "BR0398862",
+  "description": "ESCOVA DENTAL ADULTO, CERDAS EM NAILON MACIA, CABO DE PLÁSTICO E RETANGULAR RETO, LIGEIRAMENTE FLEXÍVEL, CABEÇA RETANGULAR E PEQUENA, COMPRIMENTO MÁXIMO 16 CM, 04 FILEIRAS DE TUFOS COM TOTAL DE 36 TUFOS DA MESMA ALTURA E COM EXTREMIDADE ARREDEONDADA"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a325"
+  },
+  "code": "BR0399485",
+  "description": "APARELHO PRESSÃO ARTERIAL, ANERÓIDE, PORTÁTIL, CORPO EM DURALUMÍNIO, 0 A 300 MMHG, BRAÇADEIRA EM NYLON, FECHO EM VELCRO, ADULTO, BOLSA PARA ACONDICIONAMENTO, BRAÇADEIRA, MANGUITO, PERA, VÁLVULA COM ROSCA "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a326"
+  },
+  "code": "BR0403151",
+  "description": "BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, CHAMA, HASTE REGULAR, CORTE EXTRA FINO REF  3118FF   "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a327"
+  },
+  "code": "BR0403174",
+  "description": "BROCA ALTA ROTAÇÃO, CARBIDE, ESFÉRICA, HASTE REGULAR, CORTE MÉDIO, REF. 4"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a328"
+  },
+  "code": "BR0403893",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO. CONJUNTO COMPLETO, QUALITATIVO DE HIV I E II, IMUNOCROMATOGRAFIA, TESTE, DUPLO PERCURSO (DPP HIV)"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a329"
+  },
+  "code": "BR0403894",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO, CONJUNTO COMPLETO, QUALITATIVO DE ANTICORPOS ANTI-TREPONEMA PALLIDUM, IMUNOCROMATOGRAFIA, TESTE, DUPLO PERCURSO (DPP SÍFILIS)"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a32a"
+  },
+  "code": "BR0404053",
+  "description": " BROCA ALTA ROTAÇÃO, CARBIDE, PÊRA, HASTE REGULAR, CORTE MÉDIO, REF. 329"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a32b"
+  },
+  "code": "BR0404491",
+  "description": "BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DI AMANTADA, CONJUNTO, CORTE EXTRA FINO, REF.: 1093, 1112, 1190, 2135, 311 8, 3168 E 3195"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a32c"
+  },
+  "code": "BR0404893",
+  "description": "ESCOVA DE ROBSON, CÔNICA, CONTRA-ÂNGULO, PRETA  ,"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a32d"
+  },
+  "code": "BR0404894",
+  "description": "ESCOVA DE ROBSON, TAÇA, CONTRA-ÂNGULO, BRANCA  ,"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a32e"
+  },
+  "code": "BR0406145",
+  "description": "MATRIZ ODONTOLÓGICA, AÇO INOXIDÁVEL, FITA, ROLO 50CM, 5 MM, DESCARTÁVEL ,"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a32f"
+  },
+  "code": "BR0406150",
+  "description": "CARBONO P/ ARTICULAR, EM PAPEL, FORMATO DE FITA, DUPLA FACE - 2 CORES, ESTÉRIL, DESCARTÁVEL, EM FOLHA, CONTEM 12 FOLHAS"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a330"
+  },
+  "code": "BR0406285",
+  "description": "TIRA ABRASIVA, AÇO INOXIDÁVEL + ÓXIDO DE ALUMÍNIO, CERCA DE 150 MM, 4 MM, ENVELOPE C/ 12 UNIDADES, ESTÉRIL, DESCARTÁVEL   "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a331"
+  },
+  "code": "BR0406292",
+  "description": "SUGADOR, PVC, SALIVA, C/ ARAME, PACOTE C/ 40 UNIDADES, ESTÉRIL, DESCARTÁVEL   "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a332"
+  },
+  "code": "BR0406682",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 1 ML, COM SISTEMA SEGURANÇA SEGUNDO NR/32, IMPRESSÃO LEGÍVEL E PERMANENTE, GRADUAÇÃO MÁXIMA 0,2 EM 0,2 ML, NUMERADA, C/ AGULHA 13 X 0,45 MM, BISEL TRIFACETADO, PROTETOR PLÁSTICO, DESCARTÁVEL,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a333"
+  },
+  "code": "BR0407961",
+  "description": "ALGODÃO, HIDRÓFILO, EM ROLETE, ALVEJA  DO, PURIFICADO, ISENTO DE IMPUREZAS, NÃO ESTÉRIL   "
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a334"
+  },
+  "code": "BR0407974",
+  "description": "ESCULPIDOR - ODONTOLÓGICO, AÇO INOXIDÁVEL, HOLLEMBACK, Nº 03"
+},
+{
+  "_id": {
+    "$oid": "685b5317007173838e20a335"
+  },
+  "code": "BR0409705",
+  "description": "LÂMINA LABORATÓRIO, VIDRO, CERCA DE 75 X 25 MM, LAPIDADA, BORDA FOSCA"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a336"
+  },
+  "code": "BR0410559",
+  "description": "APLICADOR ODONTOLÓGICO, DOBRÁVEL, DESCARTÁVEL, PLÁSTICO,  PONTAS FIBRAS NÃO ABSORVENTES, REGULAR   "
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a337"
+  },
+  "code": "BR0412494",
+  "description": "SACO PLÁSTICO LIXO, 50 L, BRANCO LEITOSO, 63 CM, 80 CM, COM SIMBOLOGIA DE SUBSTÂNCIA INFECTANTE,  CLASSE II - NBR 9191, RESINA TERMOPLÁSTICA"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a338"
+  },
+  "code": "BR0413310",
+  "description": "ESPELHO BUCAL, AÇO INOXIDÁVEL E ESPELHO, PLANO, Nº 5, ENCAIXE UNIVERSAL, CABO PADÃO, AUTOCLAVÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a339"
+  },
+  "code": "BR0413334",
+  "description": " PINÇA ODONTOLÓGICA, AÇO INOXIDÁVEL, CERCA DE 17 CM, 317, CLÍNICA, P/ ALGODÃO, AUTOCLAVÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a33a"
+  },
+  "code": "BR0413INAT",
+  "description": " CABO ESPELHO BUCAL, AÇO INOXIDÁVEL, OITAVADO, AUTOCLAVÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a33b"
+  },
+  "code": "BR0417702",
+  "description": "PASTA PROFILÁTICA, PEDRA POMES, LAURIL SULFATO DE SÓDIO, COM FLUOR"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a33c"
+  },
+  "code": "BR0422534",
+  "description": " CIMENTO ODONTOLÓGICO, TEMPORÁRIO, ÓXIDO DE ZINCO E EUGENOL, PASTA + PASTA, CONJUNTO COMPLETO"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a33d"
+  },
+  "code": "BR0425849",
+  "description": "EVIDENCIADOR DENTAL, P/ PLACA BACTERIANA, PASTILHA"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a33e"
+  },
+  "code": "BR0427266",
+  "description": "PONTA MONTADA, SILICONE C/ ÓXIDO DE ALUMÍNIO, 6 PONTAS SORTIDAS, BRANCAS E AMARELAS, RESINAS, CONJUNTO COMPLETO, CONTRA ÂNGULO"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a33f"
+  },
+  "code": "BR0429359",
+  "description": "APLICADOR ODONTOLÓGICO, P/ CIMENTO HIDRÓXIDO DE CÁLCIO, AÇO INOXIDÁVEL, CABO LONGO, DUPLO, PONTA ANGULADA"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a340"
+  },
+  "code": "BR0431409",
+  "description": "ESCOVA DE ROBSON, MICROTUFO, CONTRA-ÂNGULO"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a341"
+  },
+  "code": "BR0433940U0062",
+  "description": "MIKANIA GLOMERATA (GUACO) 35 MG/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a342"
+  },
+  "code": "BR043448",
+  "description": "HEMOSTÁTICO ABSORVÍVEL, APRESENTAÇÃO ESPONJA, PRINCÍPIO ATIVO FIBRINOGÊNIO E FIBRINA HUMANOS, DIMENSÕES CERCA DE 5 X 10, ESTERILIDADE* ESTÉRIL, USO ÚNICO, EMBALAGEM EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a343"
+  },
+  "code": "BR0435801",
+  "description": "TERMÔMETRO CLÍNICO, AJUSTE DIGITAL, ESCALA ATÉ 45, TIPO* USO AXILAR E ORAL, COMPONENTES C/ ALARMES, MEMÓRIA MEMÓRIA ÚLTIMA MEDIÇÃO, EMBALAGEM EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a344"
+  },
+  "code": "BR0436399",
+  "description": "EMBALAGEM P/ ESTERILIZAÇÃO, PAPEL GRAU CIRÚRGICO, C/ FILME POLÍMERO MULTILAMINADO, CERCA DE 60 G/M2, ENVELOPE, AUTOSSELANTE, CERCA DE 9 X 26 CM, C/ INDICADOR QUÍMICO, USO ÚNICO"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a345"
+  },
+  "code": "BR0437160U0097",
+  "description": "CLORETO DE SÓDIO 0,9 % SOLUÇÃO NASAL 30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a348"
+  },
+  "code": "BR0437381",
+  "description": "GELO REUTILIZÁVEL, A BASE DE POLÍMERO ACRÍLICO, 7 X 9,50 X 3,50 CM, EMBALAGEM DE POLIETILENO DE ALTA DENSIDADE"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a349"
+  },
+  "code": "BR0439115",
+  "description": "FRASCO COLETOR, UNIVERSAL, PLÁSTICO TRANSPARENTE, CERCA DE 80 ML, AMPA ROSQUEÁVEL, GRADUADO"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a34a"
+  },
+  "code": "BR0440170",
+  "description": "BANDEJA, AÇO INOXIDÁVEL, CERCA DE 25 X 10 X 1 CM, LISA, ESTERILIZÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a34b"
+  },
+  "code": "BR0441983",
+  "description": "OXÍMETRO, DEDO, 0 A 100%, CERCA DE 20 A 250 BPM, CERCA 24 H, ALIMENTAÇÃO: PILHA,  C, SENSOR"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a34c"
+  },
+  "code": "BR0442205",
+  "description": "EQUIPO MACROGOTAS COM CÂNULA GRADUADA  (EQUIPO COM BURETA DE 150 ML) EM PVC TRANSPARENTE COM INJETOR LATERAL DE 1,35 M UTILIZADO PARA INFUSÃO DE LÍQUIDOS INJETÁVEIS EM VIAS ENTERAIS OU PARENTERAIS. CÂNULA COM GRADUAÇÃO DE 150 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a34d"
+  },
+  "code": "BR0444470U0062",
+  "description": "INSUMOS QUÍMICOS/BIOLÓGICOS, ÓLEO DE GIRASSOL, LÍQUIDO OLEOSO, CAS 8001-21-6 100ML"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a34e"
+  },
+  "code": "BR0445576",
+  "description": "GARROTE, FAIXA ELÁSTICA,  C/ SISTEMA DE TRAVA EM PLÁSTICO, TAMANHO ADULTO, REUTILIZÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a34f"
+  },
+  "code": "BR0445801U0140",
+  "description": "EMBALAGEM P/ ESTERILIZAÇÃO, PAPEL GRAU CIRÚRGICO, C/ FILME POLÍMERO MULTILAMINADO, CERCA DE 60 G/M2, ENVELOPE, AUTOSSELANTE, CERCA DE 15 X 25 CM, C/ INDICADOR QUÍMICO, USO ÚNICO"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a350"
+  },
+  "code": "BR0451597U0023",
+  "description": "ALOE VERA (BABOSA) 10 % GEL 30 G"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a351"
+  },
+  "code": "BR0459580",
+  "description": "LENÇOL CAMA, 100% ALGODÃO, 1,90 X 1,40 M, BRANCO, SEM ELÁSTICO"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a352"
+  },
+  "code": "BR0463220",
+  "description": "SULFATO DE ZINCO 4 MG/ML SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a353"
+  },
+  "code": "BR0466172",
+  "description": "BECLOMETASONA, DIPROPIONATO 250 MCG/DOSE AEROSSOL ORAL 200 DOSES, COM INALADOR"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a354"
+  },
+  "code": "BR0467290",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO 7, CONJUNTO COMPLETO PARA AUTOMAÇÃO, QUALITATIVO ANTÍGENO CORONAVÍRUS COVID-19, TESTE, IMUNOENSAIO FLUORESCENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a355"
+  },
+  "code": "BR0471576",
+  "description": "TESOURA INSTRUMENTAL, AÇO INOXIDÁVEL, HASTE RETA, ÍRIS, FINA C/ VÍDEA, CERCA DE 12 CM, PONTA CURVA, ESTERILIZÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5318007173838e20a356"
+  },
+  "code": "INATIVO VII",
+  "description": "INATIVO-SULFATO FERROSO 125 MG/ML SOLUÇÃO ORAL  30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b531c007173838e20a357"
+  },
+  "code": "BR0267618U0042",
+  "description": "CARBAMAZEPINA  200 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5323007173838e20a358"
+  },
+  "code": "BR0468779",
+  "description": "REAGENTE ANALÍTICO 1, CONJUNTO COMPLETO, PAINEL DE SEQUENCIAMENTO, CORONAVÍRUS SARS-COV-2 (COVID-19)"
+},
+{
+  "_id": {
+    "$oid": "685b5325007173838e20a359"
+  },
+  "code": "BR0268185",
+  "description": "GLICEROL   95% INFANTIL SUPOSITÓRIO "
+},
+{
+  "_id": {
+    "$oid": "685b5326007173838e20a35a"
+  },
+  "code": "BR0272341U0042",
+  "description": "TIAMINA, CLORIDRATO 300 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5326007173838e20a35b"
+  },
+  "code": "BR0272914U0140",
+  "description": "PRESERVATIVO MASCULINO LÁTEX LUBRIFICADO 52MM"
+},
+{
+  "_id": {
+    "$oid": "685b5326007173838e20a35c"
+  },
+  "code": "BR0276839U0063",
+  "description": "ÁGUA DESTILADA SOLUÇÃO INJETÁVEL 10 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5326007173838e20a35d"
+  },
+  "code": "BR0325424U0541",
+  "description": "GEL LUBRIFICANTE, ÍNTIMO, INCOLOR, INODORO, SOLÚVEL EM ÁGUA, TRANSPARENTE E NÃO GORDUROSO, SACHÊ 5 G "
+},
+{
+  "_id": {
+    "$oid": "685b5327007173838e20a35e"
+  },
+  "code": "BR0395633",
+  "description": "GELO REUTILIZÁVEL, A BASE DE POLÍMERO ACRÍLICO, 17 X 10 X 3,5 CM, EMBALAGEM DE POLIETILENO DE ALTA DENSIDADE"
+},
+{
+  "_id": {
+    "$oid": "685b5327007173838e20a360"
+  },
+  "code": "BR0416731U0229",
+  "description": "MEDROXIPROGESTERONA, ACETATO + ESTRADIOL, CIPIONATO 25 + 5  MG SUSPENSÃO INJETÁVEL 0,5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5327007173838e20a361"
+  },
+  "code": "BR0429225U0505",
+  "description": "ÁLCOOL ETÍLICO 70% , LIMPEZA DE AMBIENTES, ETÍLICO HIDRATADO, GEL, 450 G"
+},
+{
+  "_id": {
+    "$oid": "685b5327007173838e20a362"
+  },
+  "code": "BR0468712",
+  "description": "CAIXA TÉRMICA, POLIURETANO, 26 L, COM TERMÔMETRO DIGITAL, 51 X 27 X 32,5 CM"
+},
+{
+  "_id": {
+    "$oid": "685b5327007173838e20a363"
+  },
+  "code": "BR08370",
+  "description": "EXAME MALÁRIA - IFI POR UNIDADE DE SANGUE TOTAL"
+},
+{
+  "_id": {
+    "$oid": "685b532b007173838e20a364"
+  },
+  "code": "BR0357268",
+  "description": "TESTE RÁPIDO DE ANTI TREPONEMA PALLIDUM IGG E IGM, QUANTITATIVO, QUIMIOLUMINESCÊNCIA"
+},
+{
+  "_id": {
+    "$oid": "685b532b007173838e20a365"
+  },
+  "code": "BR0370564",
+  "description": "TESTE RÁPIDO PARA DETECÇÃO DO ANTÍGENO DE SUPERFÍCIE DA HEPATITE B (HBS AG) EM SORO, PLASMA OU SANGUE TOTAL HUMANO, QUALITATIVO, IMUNOCROMATOGRAFIA"
+},
+{
+  "_id": {
+    "$oid": "685b532b007173838e20a366"
+  },
+  "code": "BR0266706U0066",
+  "description": "BUDESONIDA 32 MCG/DOSE SUSPENSÃO NASAL 120 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b532c007173838e20a367"
+  },
+  "code": "BR0267689U0042",
+  "description": "METILDOPA  250 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b532c007173838e20a368"
+  },
+  "code": "BR0268896U0042",
+  "description": "ANLODIPINO, BESILATO 10 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b532e007173838e20a369"
+  },
+  "code": "BR0264767",
+  "description": "LÂMINA MICROSCÓPIO VIDRO, 76 MM x 26 MM x 1,2 MM, LISA, COM UMA PONTA FOSCA"
+},
+{
+  "_id": {
+    "$oid": "685b5330007173838e20a36a"
+  },
+  "code": "BR0361771",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 15 CM, 180 CM, EM REPOUSO, 18 UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5330007173838e20a36b"
+  },
+  "code": "BR0406648",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 10 ML, COM SISTEMA SEGURANÇA SEGUNDO NR/32, IMPRESSÃO LEGÍVEL E PERMANENTE, GRADUAÇÃO MÁXIMA 0,2 EM 0,2 ML, NUMERADA, C/ AGULHA 25 X 0,7 MM, BISEL TRIFACETADO, PROTETOR PLÁSTICO, DESCARTÁVEL,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5330007173838e20a36c"
+  },
+  "code": "BR0439627U0140",
+  "description": "- SERINGA, POLIPROPILENO, 20 ML, BICO CENTRAL LUER LOCK OU SLIP, ÊMBOLO DE BORRACHA, GRADUADA, NUMERADA, ESTÉRIL, DESCARTÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5330007173838e20a36d"
+  },
+  "code": "BR0467047",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO 7, CONJUNTO COMPLETO, QUALITATIVO ANTÍGENO CORONAVÍRUS COVID-19, TESTE, IMUNOCROMATOGRAFIA"
+},
+{
+  "_id": {
+    "$oid": "685b5330007173838e20a36f"
+  },
+  "code": "BR0266706U0066INAT",
+  "description": "BUDESONIDA 32 MCG/DOSE SUSPENSÃO NASAL 120 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5330007173838e20a370"
+  },
+  "code": "BR0266707U0066INAT",
+  "description": "BUDESONIDA 64 MCG/DOSE SUSPENSÃO NASAL 120 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5330007173838e20a371"
+  },
+  "code": "BR0266863U0062INAT",
+  "description": "METRONIDAZOL (BENZOILMETRONIDAZOL) 40 MG/ML SUSPENSÃO ORAL  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5331007173838e20a372"
+  },
+  "code": "BR0267774U0042INAT",
+  "description": "PIRIDOXINA, CLORIDRATO 40 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5331007173838e20a373"
+  },
+  "code": "BR0268505U0042INAT",
+  "description": "ONDANSETRONA, CLORIDRATO 8 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5331007173838e20a374"
+  },
+  "code": "BR0268506U0042INAT",
+  "description": "ONDANSETRONA, CLORIDRATO 4 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5331007173838e20a375"
+  },
+  "code": "BR0281135U0113INAT",
+  "description": "AMOXICILINA + CLAVULANATO DE POTÁSSIO 50 MG+ 12,5 MG/ML SUSPENSÃO ORAL  75 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5332007173838e20a376"
+  },
+  "code": "BR0332754U0097INAT",
+  "description": "IBUPROFENO  50 MG/ML SUSPENSÃO ORAL  30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5335007173838e20a377"
+  },
+  "code": "BR0268252U0009",
+  "description": "DIPIRONA SÓDICA  500 MG/ML SOLUÇÃO INJETÁVEL 2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5335007173838e20a378"
+  },
+  "code": "BR0268375U0015",
+  "description": "ACICLOVIR 5 % CREME  10 G"
+},
+{
+  "_id": {
+    "$oid": "685b5335007173838e20a379"
+  },
+  "code": "BR0268415U0118",
+  "description": "CEFTRIAXONA SÓDICA 1G PÓ PARA SOLUÇÃO INJETÁVEL   IM"
+},
+{
+  "_id": {
+    "$oid": "685b5336007173838e20a37a"
+  },
+  "code": "BR0274806",
+  "description": "ACETILCISTEÍNA 600 MG GRANULADO 5 G"
+},
+{
+  "_id": {
+    "$oid": "685b5336007173838e20a37b"
+  },
+  "code": "BR0315056U0004",
+  "description": "ÁGUA BIDESTILADA, APIROGÊNICA, ESTÉRIL 10 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5336007173838e20a37c"
+  },
+  "code": "BR0334484-1",
+  "description": "TESTE RÁPIDO HIV I E II, QUALITATITVO, IMUNOCROMATOGRAFIA, TESTE CONFIRMATÓRIO"
+},
+{
+  "_id": {
+    "$oid": "685b5336007173838e20a37d"
+  },
+  "code": "BR0338605",
+  "description": "LANCETA, AÇO INOXIDÁVEL,PONTA AFIADA,TRIFACETADA, DESCARTÁVEL, ESTÉRIL, EMBALAGEM INDIVIDUAL, COM SISTEMA RETRÁTIL"
+},
+{
+  "_id": {
+    "$oid": "685b5336007173838e20a37e"
+  },
+  "code": "BR0349495",
+  "description": "PAPEL GRAU CIRÚRGICO, 30 CM X 100 M"
+},
+{
+  "_id": {
+    "$oid": "685b5337007173838e20a37f"
+  },
+  "code": "BR0406212",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 5 ML, BICO CENTRAL SIMPLES OU LUER LOCK, ÊMBOLO C/ROLHA BORRACHA, IMPRESSÃO LEGÍVEL E PERMANENTE, GRADUAÇÃO MÁXIMA 0,2 EM 0,2 ML, NUMERADA, C/AGULHA 25 X 0,7 MM, BISEL TRIFACETADO, PROTETOR PLÁSTICO, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5337007173838e20a380"
+  },
+  "code": "BR0410008",
+  "description": "MULTIVITAMINAS ASSOCIADAS COM SAIS MINERAIS (NUTRISUS) PÓ 1 G"
+},
+{
+  "_id": {
+    "$oid": "685b5337007173838e20a381"
+  },
+  "code": "BR0469930",
+  "description": "CEFTRIAXONA SÓDICA + LIDOCAÍNA  500 MG PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5337007173838e20a382"
+  },
+  "code": "BR0267508U0042",
+  "description": "ALOPURINOL 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5337007173838e20a383"
+  },
+  "code": "BR0267510U0042",
+  "description": "AMIODARONA, CLORIDRATO 200 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5338007173838e20a384"
+  },
+  "code": "BR0269587",
+  "description": "COMPRESSA GAZE, TECIDO 100% ALGODÃO, 13 FIOS/CM2, COR BRANCA,ISENTA DE IMPUREZAS, 8 CAMADAS, 7,50 CM, 7,50 CM, 5 DOBRAS, C/ FIO RADIOPACO,ESTÉRIL,DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5338007173838e20a385"
+  },
+  "code": "BR0270612U0118",
+  "description": "BENZILPENICILINA BENZATINA 1.200.000 UI PÓ PARA SUSPENSÃO INJETÁVEL "
+},
+{
+  "_id": {
+    "$oid": "685b5338007173838e20a386"
+  },
+  "code": "BR0270614U0118",
+  "description": "BENZILPENICILINA PROCAÍNA + BENZILPENICILINA POTÁSSICA 400.000 UI PÓ PARA SUSPENSÃO INJETÁVEL "
+},
+{
+  "_id": {
+    "$oid": "685b5338007173838e20a387"
+  },
+  "code": "BR0273328U0042INAT",
+  "description": "IVERMECTINA 6 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5338007173838e20a388"
+  },
+  "code": "BR0294643U0097",
+  "description": "IBUPROFENO  50 MG/ML SUSPENSÃO ORAL  30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5338007173838e20a389"
+  },
+  "code": "BR0331555U0110",
+  "description": "CEFALEXINA 50 MG/ML SUSPENSÃO ORAL  60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a38a"
+  },
+  "code": "BR0341923",
+  "description": "MÁSCARA CIRÚRGICA, NÃO TECIDO,3 CAMADAS,PREGAS HORIZONTAIS,ATÓXICA, COM ELÁSTICO, CLIP NASAL EMBUTIDO,HIPOALERGÊNICA, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a38b"
+  },
+  "code": "BR0372335U0029",
+  "description": "METRONIDAZOL 100 MG/G BISNAGA 50 G"
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a38c"
+  },
+  "code": "BR0379902U0041",
+  "description": "OSELTAMIVIR, FOSFATO 30 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a38d"
+  },
+  "code": "BR0379962U0041",
+  "description": "OSELTAMIVIR, FOSFATO 45 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a38e"
+  },
+  "code": "BR0392264",
+  "description": "CARBAMAZEPINA  20 MG/ML XAROPE  100 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a38f"
+  },
+  "code": "BR0394856U0062",
+  "description": "METRONIDAZOL (BENZOILMETRONIDAZOL) 40 MG/ML SUSPENSÃO ORAL  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a390"
+  },
+  "code": "BR0419015U0042",
+  "description": "ONDANSETRONA, CLORIDRATO 8 MG COMPRIMIDO ORODISPERSÍVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a391"
+  },
+  "code": "BR0419016U0042",
+  "description": "ONDANSETRONA, CLORIDRATO 4 MG COMPRIMIDO ORODISPERSÍVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a392"
+  },
+  "code": "BR0448582U0042",
+  "description": "PIRIDOXINA, CLORIDRATO 40 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5339007173838e20a393"
+  },
+  "code": "BR0452914U0066",
+  "description": "BUDESONIDA 64 MCG/DOSE SUSPENSÃO NASAL FRASCO 120 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5352007173838e20a394"
+  },
+  "code": "BR0269880U0060",
+  "description": "CLOREXIDINA DIGLICONATO, 2%, SOLUÇÃO TÓPICA, FRASCO 1000 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5352007173838e20a395"
+  },
+  "code": "BR0272581",
+  "description": "TIMOLOL, MALEATO 0,5 % SOLUÇÃO OFTÁLMICA 5 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5352007173838e20a397"
+  },
+  "code": "BR0280619",
+  "description": "CATETER INTRAVENOSO,POLIURETANO OCRILON,16 G,PERIFÉRICO,CURTO,SISTEMA SEGURANÇA,AGULHA ELETROPOLIDA,DESCART,ESTÉRIL,RADIOPACO"
+},
+{
+  "_id": {
+    "$oid": "685b5352007173838e20a398"
+  },
+  "code": "BR0282633",
+  "description": "CATETER INTRAVENOSO 22 G, VIALON OU POLIURETANO, PERIFÉRICO, C/ AGULHA, BISEL TRIFACETADO, SILICONIZADO, CÂMARA REFLUXO, RADIOPACO, ESTÉRIL "
+},
+{
+  "_id": {
+    "$oid": "685b5352007173838e20a399"
+  },
+  "code": "BR0332468U0067",
+  "description": "SULFATO FERROSO (5MG/ML DE FERRO ELEMENTAR)  25 MG/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5353007173838e20a39a"
+  },
+  "code": "BR0370119-2",
+  "description": "ARTESUNATO + MEFLOQUINA 25 + 55 MG COMPRIMIDO (6 COMP) 1 A 5 ANOS"
+},
+{
+  "_id": {
+    "$oid": "685b5353007173838e20a39b"
+  },
+  "code": "BR0376767U0042",
+  "description": "IVERMECTINA 6 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5353007173838e20a39d"
+  },
+  "code": "BR0400564-2",
+  "description": "ARTEMETER + LUMEFANTRINA 20 MG + 120 MG COMPRIMIDO 15 - 24 KG (BLISTER C/12 COMPRIMIDOS)"
+},
+{
+  "_id": {
+    "$oid": "685b5353007173838e20a39e"
+  },
+  "code": "BR0400564-4",
+  "description": "ARTEMETER + LUMEFANTRINA 20 + 120 MG COMPRIMIDO 35 KG (BLISTER C/24 COMPRIMIDOS)"
+},
+{
+  "_id": {
+    "$oid": "685b5354007173838e20a39f"
+  },
+  "code": "BR0269971",
+  "description": "COMPRESSA GAZE, TECIDO 100% ALGODÃO, 13 FIOS/CM2, COR BRANCA,ISENTA DE IMPUREZAS, 8 CAMADAS, 7,50 CM, 7,50 CM, 5 DOBRAS, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5354007173838e20a3a0"
+  },
+  "code": "BR0282635",
+  "description": "CATETER INTRAVENOSO 24 G, VIALON OU POLIURETANO, PERIFÉRICO, C/ AGULHA, BISEL TRIFACETADO, SILICONIZADO, CÂMARA REFLUXO, RADIOPACO, ESTÉRIL "
+},
+{
+  "_id": {
+    "$oid": "685b5354007173838e20a3a1"
+  },
+  "code": "BR0292345U0097",
+  "description": "SULFATO FERROSO (25MG/ML DE FERRO ELEMENTAR) 125 MG/ML SOLUÇÃO ORAL 30 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5354007173838e20a3a2"
+  },
+  "code": "BR0313571",
+  "description": "LÂMINA BISTURI, AÇO CARBONO, Nº 11, DESCARTÁVEL, ESTÉRIL, EMBALADA INDIVIDUALMENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3a3"
+  },
+  "code": "BR0334484",
+  "description": "TESTE RÁPIDO HIV I E II, QUALITATITVO, IMUNOCROMATOGRAFIA, TESTE INICIAL"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3a4"
+  },
+  "code": "BR0348002U0062",
+  "description": "ÁCIDOS GRAXOS ESSENCIAIS SOLUÇÃO 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3a5"
+  },
+  "code": "BR0363484",
+  "description": "COLETOR MATERIAL PÉRFURO-CORTANTE, PAPELÃO, 7 L, DESCARTÁVEL "
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3a6"
+  },
+  "code": "BR0370120-2",
+  "description": "ARTESUNATO + MEFLOQUINA 100 + 220 MG COMPRIMIDO (6 COMP) 12 ANOS OU MAIS"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3a7"
+  },
+  "code": "BR0389338-3",
+  "description": "LANCETA, 30GX0,36MM, AÇO INOXIDÁVEL, ULTRA FINA, DESCARTÁVEL, ESTÉRIL, COM SISTEMA PROTETOR"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3a8"
+  },
+  "code": "BR0400564-3",
+  "description": "ARTEMETER + LUMEFANTRINA 20 MG + 120 MG COMPRIMIDO 25 - 34 KG (BLISTER C/18 COMPRIMIDOS)"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3a9"
+  },
+  "code": "BR0400564U0042",
+  "description": "ARTEMETER + LUMEFANTRINA 20 MG + 120 MG COMPRIMIDO 5 - 14 KG (BLISTER C/6 COMPRIMIDOS)"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3ab"
+  },
+  "code": "BR0435854",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO 3, CONJUNTO COMPLETO, QUALITATIVO ANTÍGENO NS1 DE DENGUE VÍRUS, IMUNOCROMATOGRAFIA, TESTE"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3ac"
+  },
+  "code": "BR0452913U0066",
+  "description": "BUDESONIDA 32 MCG/DOSE SUSPENSÃO NASAL FRASCO 120 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3ad"
+  },
+  "code": "BR0230570",
+  "description": "SACO PLÁSTICO LIXO, CAPACIDADE 30, COR BRANCA, LARGURA 59, ALTURA 62, CARACTERÍSTICAS ADICIONAIS LEITOSO SUPER RESISTENTE, APLICAÇÃO COLETA DE RESÍDUOS DE SERVIÇOS DE SAÚDE"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3ae"
+  },
+  "code": "BR0233632U0062",
+  "description": "ÓLEO MINERAL (PETROLATO) SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3af"
+  },
+  "code": "BR0266788-2",
+  "description": "NISTATINA 25.000 UI/G CREME VAGINAL  60 G"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3b0"
+  },
+  "code": "BR0267205U0086",
+  "description": "DIPIRONA SÓDICA  500 MG/ML SOLUÇÃO ORAL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5355007173838e20a3b1"
+  },
+  "code": "BR0267504U0042",
+  "description": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO)  250 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3b3"
+  },
+  "code": "BR0267516",
+  "description": "ATENOLOL 25 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3b4"
+  },
+  "code": "BR0267565U0042",
+  "description": "CARVEDILOL 6,25 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3b5"
+  },
+  "code": "BR0267629",
+  "description": "CINARIZINA 75 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3b6"
+  },
+  "code": "BR0267646U0062",
+  "description": "DEXCLORFENIRAMINA, MALEATO 0,4 MG/ML SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3b7"
+  },
+  "code": "BR0267663U0042",
+  "description": "FUROSEMIDA 40 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3b8"
+  },
+  "code": "BR0267729",
+  "description": "NIFEDIPINO 20 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3b9"
+  },
+  "code": "BR0267736U0042",
+  "description": "RANITIDINA, CLORIDRATO  150 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3ba"
+  },
+  "code": "BR0267745U0042",
+  "description": "SINVASTATINA  40 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3bb"
+  },
+  "code": "BR0267768U0042",
+  "description": "PROMETAZINA, CLORIDRATO 25 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3bc"
+  },
+  "code": "BR0267777U0075",
+  "description": "PARACETAMOL  200 MG/ML SOLUÇÃO ORAL 15 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3bd"
+  },
+  "code": "BR0268243U0062",
+  "description": "DEXAMETASONA  0,1 MG/ML ELIXIR 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3be"
+  },
+  "code": "BR0268273U0041",
+  "description": "NITROFURANTOÍNA 100 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3bf"
+  },
+  "code": "BR0268286U0018",
+  "description": "MICONAZOL, NITRATO 2 % CREME  20 G"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c0"
+  },
+  "code": "BR0268299",
+  "description": "SECNIDAZOL 1.000 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c2"
+  },
+  "code": "BR0269843U0086",
+  "description": "LIDOCAÍNA, CLORIDRATO 20 MG/ML SOLUÇÃO INJETÁVEL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c3"
+  },
+  "code": "BR0269979",
+  "description": "COMPRESSA GAZE, 100% ALGODÃO, 11 FIOS, 8 CAMADAS, 7,5 X 7,50 CM, 5 DOBRAS, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c4"
+  },
+  "code": "BR0270119",
+  "description": "CLONAZEPAM 2 MG  COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c5"
+  },
+  "code": "BR0270620",
+  "description": "ESCOPOLAMINA, BUTILBROMETO + DIPIRONA SÓDICA 10 + 250 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c6"
+  },
+  "code": "BR0270621",
+  "description": "ESCOPOLAMINA, BUTILBROMETO + DIPIRONA SÓDICA 4 + 500 MG/ML SOLUÇÃO INJETÁVEL 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c7"
+  },
+  "code": "BR0270622",
+  "description": "ESCOPOLAMINA, BUTILBROMETO + DIPIRONA SÓDICA 6,67 + 333,4 MG/ML SOLUÇÃO ORAL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c8"
+  },
+  "code": "BR0271000",
+  "description": "DICLOFENACO SÓDICO 50 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3c9"
+  },
+  "code": "BR0271003",
+  "description": "DICLOFENACO SÓDICO 25 MG/ML SOLUÇÃO INJETÁVEL 3 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3ca"
+  },
+  "code": "BR0271028U0086",
+  "description": "DICLOFENACO RESINATO 15 MG/ML SUSPENSÃO ORAL  20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3cb"
+  },
+  "code": "BR0271217U0042",
+  "description": "AMOXICILINA + CLAVULANATO DE POTÁSSIO 500 MG + 125 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3cc"
+  },
+  "code": "BR0271659-1",
+  "description": "AMBROXOL, CLORIDRATO 6 MG/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3cd"
+  },
+  "code": "BR0271660-1",
+  "description": "AMBROXOL, CLORIDRATO 3 MG/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3ce"
+  },
+  "code": "BR0271660-2",
+  "description": "AMBROXOL, CLORIDRATO 3 MG/ML XAROPE  120"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3cf"
+  },
+  "code": "BR0271687",
+  "description": "ÁCIDO ASCÓRBICO 100 MG/ML SOLUÇÃO INJETÁVEL 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d0"
+  },
+  "code": "BR0272089-7",
+  "description": "SULFADIAZINA DE PRATA 1 % CREME  400 G"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d1"
+  },
+  "code": "BR0272089U0029",
+  "description": "SULFADIAZINA DE PRATA 1% CREME  50 G"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d2"
+  },
+  "code": "BR0272335",
+  "description": "DIMENIDRINATO + PIRIDOXINA 25 + 5 MG/ML SOLUÇÃO ORAL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d3"
+  },
+  "code": "BR0272365",
+  "description": "SERTRALINA, CLORIDRATO 50 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d4"
+  },
+  "code": "BR0273167-1",
+  "description": "NEOMICINA + BACITRACINA 5 + 250 MG + UI/G POMADA 10 G"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d5"
+  },
+  "code": "BR0273710",
+  "description": "NIMESULIDA 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d6"
+  },
+  "code": "BR0276656U0042",
+  "description": "METOPROLOL, SUCCINATO 25 MG COMPRIMIDO DE LIBERAÇÃO PROLONGADA"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d7"
+  },
+  "code": "BR0276839U0144",
+  "description": "AGUA DESTILADA SOLUÇÃO 5 L"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d8"
+  },
+  "code": "BR0277020",
+  "description": "SONDA, LÁTEX SILICONIZADO, FOLEY, Nº 20, 2 VIAS, C/BALÃO 30 ML, VÁLVULA BORRACHA, FUNIL DRENAGEM C/CONEXÃO PADRÃO A COLETORES"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3d9"
+  },
+  "code": "BR0278498",
+  "description": "ESCALPE 25, PVC, CONECTOR LUER CÔNICO RÍGIDO, BISEL TRIFACETADO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3da"
+  },
+  "code": "BR0279402",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 5 ML, BICO LUER LOCK, ÊMBOLO C/PONTEIRA DE BORRACHA SILICONIZADA, DESCART,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3db"
+  },
+  "code": "BR0279411",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 20 ML, BICO SIMPLES, ÊMBOLO C/PONTEIRA DE BORRACHA SILICONIZADA,DESCART,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3dc"
+  },
+  "code": "BR0279515",
+  "description": "ESCALPE, 23 G, TUBO PVC, ASAS LEVES,FLEXÍVEIS,CONECTOR LUER CÔNICO RÍGIDO, COLETA SANGUE VÁCUO,ADAPTADOR LUER COLETA MÚLTIPLA, ESTÉRIL, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3dd"
+  },
+  "code": "BR0279630",
+  "description": "AGULHA, HIPODÉRMICA,25 X 7,CORPO EM AÇO INÓX SILICONIZADO,BISEL CURTO TRIFACETADO,CONECTOR EM PLÁSTICO LUER, PROTETOR PLÁSTICO,ESTÉRIL,DESCART."
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3de"
+  },
+  "code": "BR0279726U0421",
+  "description": "ALGODÃO, HIDRÓFILO, EM MANTAS, NÃO ESTÉRIL 500 G"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3df"
+  },
+  "code": "BR0279768",
+  "description": "SONDA, LÁTEX SILICONIZADO, FOLEY, Nº 14, 2 UN, C/BALÃO DE 5 A 15ML, VÁLVULA BORRACHA, FUNIL DRENAGEM C/CONEXÃO PADRÃO A COLETORES, CAPACIDADE BALÃO"
+},
+{
+  "_id": {
+    "$oid": "685b5356007173838e20a3e0"
+  },
+  "code": "BR0281155",
+  "description": "FITA AUTOCLAVE, 30 M, 19 MM, BOA ADESÃO, DORSO EM PAPEL CREPADO, C/INDICADOR TÉRMICO,RESISTENTE A ALTA TEMPERATURA"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3e1"
+  },
+  "code": "BR0292331-1",
+  "description": "SALBUTAMOL, SULFATO 0,4 MG/ML XAROPE  100 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3e2"
+  },
+  "code": "BR0292331-2",
+  "description": "SALBUTAMOL, SULFATO 0,4 MG/ML XAROPE  120 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3e3"
+  },
+  "code": "BR0292382",
+  "description": "TRAMADOL, CLORIDRATO 50 MG/ML SOLUÇÃO INJETÁVEL  2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3e4"
+  },
+  "code": "BR0293892U0067",
+  "description": "ACEBROFILINA 10 MG/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3e5"
+  },
+  "code": "BR0298454U0062",
+  "description": "DEXCLORFENIRAMINA, MALEATO 0,4 MG/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3e6"
+  },
+  "code": "BR0303292U0039",
+  "description": "RINGER LACTATO SÓDICO SOLUÇÃO INJETÁVEL 500 ML SISTEMA FECHADO"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3e7"
+  },
+  "code": "BR0305270U0042",
+  "description": "LEVOFLOXACINO 500 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3e8"
+  },
+  "code": "BR0308736-2",
+  "description": "CETOCONAZOL 2% CREME  30 G"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3e9"
+  },
+  "code": "BR0308883",
+  "description": "SULFAMETOXAZOL + TRIMETOPRIMA  800 + 160 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3ea"
+  },
+  "code": "BR0315902",
+  "description": "MÁSCARA CIRÚRGICA, NÃO TECIDO,2 CAMADAS,PREGAS HORIZONTAIS,ATÓXICA, 4 TIRAS LATERAIS P/ FIXAÇÃO, CLIP NASAL EMBUTIDO,HIPOALERGÊNICA, DESCARTÁVEL  "
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3eb"
+  },
+  "code": "BR0332755-3",
+  "description": "IBUPROFENO  100 MG/ML SUSPENSÃO ORAL  20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3ec"
+  },
+  "code": "BR0337450",
+  "description": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO, LÁTEX NATURAL ÍNTEGRO E UNIFORME, MÉDIO, SEM PÓ, AMBIDESTRA"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3ed"
+  },
+  "code": "BR0338134",
+  "description": "ESPIRONOLACTONA  50 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3ee"
+  },
+  "code": "BR0339565U0140",
+  "description": "TIRA REAGENTE PARA MEDIR GLICEMIA CAPILAR"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3ef"
+  },
+  "code": "BR0355786-1",
+  "description": "ACETILCISTEÍNA 40 MG/ML XAROPE  120"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3f0"
+  },
+  "code": "BR0371273-4",
+  "description": "CLORETO DE SÓDIO 0,9% ESTÉRIL SOLUÇÃO 500 ML NÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3f1"
+  },
+  "code": "BR0375935",
+  "description": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO, LÁTEX NATURAL ÍNTEGRO E UNIFORME, PEQUENO, SEM PÓ, AMBIDESTRA"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3f2"
+  },
+  "code": "BR0383606",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 15 CM, 125 CM, EM REPOUSO, 13 FIOS UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3f3"
+  },
+  "code": "BR0395730-1",
+  "description": "HIDRÓXIDO DE ALUMÍNIO + HIDRÓXIDO DE MAGNÉSIO 60 + 40 MG/ML SUSPENSÃO ORAL  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3f4"
+  },
+  "code": "BR0423465",
+  "description": "ABAIXADOR LÍNGUA, MADEIRA, DESCARTÁVEL, 14 CM, TIPO ESPÁTULA, EMBALAGEM INDIVIDUAL, 1,50 CM, 2 MM  "
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3f5"
+  },
+  "code": "BR0431311",
+  "description": "HIDRÓXIDO DE ALUMÍNIO + HIDRÓXIDO DE MAGNÉSIO + DIMETICONA 37 MG/ML + 40 MG/ML + 5 MG/ML SUSPENSÃO ORAL  240  ML"
+},
+{
+  "_id": {
+    "$oid": "685b5357007173838e20a3f6"
+  },
+  "code": "BR0448838U0067",
+  "description": "ACEBROFILINA 5 MG/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b535a007173838e20a3f7"
+  },
+  "code": "BR0267713U0041",
+  "description": "OMEPRAZOL 40 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b535f007173838e20a3f8"
+  },
+  "code": "BR0268151U0062",
+  "description": "PREDNISOLONA 1 MG/ML SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b535f007173838e20a3f9"
+  },
+  "code": "BR0269822",
+  "description": "BROMEXINA, CLORIDRATO 0,8 MG/ML XAROPE  120 ML "
+},
+{
+  "_id": {
+    "$oid": "685b535f007173838e20a3fa"
+  },
+  "code": "BR0412965",
+  "description": "SIMETICONA 75 MG/ML SOLUÇÃO ORAL 15 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5361007173838e20a3fb"
+  },
+  "code": "BR0267418 -2",
+  "description": "TIABENDAZOL 50 MG/G POMADA 30 G "
+},
+{
+  "_id": {
+    "$oid": "685b5362007173838e20a3fc"
+  },
+  "code": "BR0270228",
+  "description": "POLIMIXINA B + NEOMICINA + HIDROCORTISONA 10.000 + 5 + 10 UI + MG + MG/ML SUSPENSÃO OTOLÓGICA 10 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5364007173838e20a3fd"
+  },
+  "code": "BR0271218",
+  "description": "AMOXICILINA + CLAVULANATO DE POTÁSSIO 25 MG + 6,25 MG/ML SUSPENSÃO ORAL  75 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5364007173838e20a3fe"
+  },
+  "code": "BR0276657U0042",
+  "description": "METOPROLOL, SUCCINATO 50 MG COMPRIMIDO DE LIBERAÇÃO PROLONGADA"
+},
+{
+  "_id": {
+    "$oid": "685b536b007173838e20a3ff"
+  },
+  "code": "BR0267747U0042",
+  "description": "SINVASTATINA  20 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5372007173838e20a400"
+  },
+  "code": "BR0268851",
+  "description": "NORFLOXACINO 400 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5372007173838e20a401"
+  },
+  "code": "BR0270495-1",
+  "description": "COLAGENASE + CLORANFENICOL 0,6 UI + 10 MG/G POMADA 30 G"
+},
+{
+  "_id": {
+    "$oid": "685b5372007173838e20a402"
+  },
+  "code": "BR0270558-3",
+  "description": "ACETILCISTEÍNA 20 MG/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5372007173838e20a403"
+  },
+  "code": "BR0270907",
+  "description": "PARACETAMOL + CODEÍNA, FOSFATO 500 MG + 30 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5372007173838e20a404"
+  },
+  "code": "BR0272045",
+  "description": "CLOPIDOGREL, BISSULFATO 75 MG  COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5372007173838e20a405"
+  },
+  "code": "BR0266788-1",
+  "description": "NISTATINA 25.000 UI/G CREME VAGINAL  50 G"
+},
+{
+  "_id": {
+    "$oid": "685b5372007173838e20a406"
+  },
+  "code": "BR0266863U0115",
+  "description": "METRONIDAZOL (BENZOILMETRONIDAZOL) 40 MG/ML SUSPENSÃO ORAL  80 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5372007173838e20a407"
+  },
+  "code": "BR0267151",
+  "description": "CETOCONAZOL 200 MG  COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a408"
+  },
+  "code": "BR0267256",
+  "description": "FENOTEROL, BROMIDRATO 5 MG/ML SOLUÇÃO PARA NEBULIZAÇÃO 20 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a409"
+  },
+  "code": "BR0267283",
+  "description": "ESCOPOLAMINA, BUTILBROMETO 10 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a40a"
+  },
+  "code": "BR0267378U0097",
+  "description": "NISTATINA 100.000 UI/ML SUSPENSÃO ORAL  30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a40b"
+  },
+  "code": "BR0267504U0041",
+  "description": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO)  250 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a40c"
+  },
+  "code": "BR0267505U0042",
+  "description": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO)  500 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a40d"
+  },
+  "code": "BR0267515-2",
+  "description": "AMPICILINA 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a40e"
+  },
+  "code": "BR0267518U0042",
+  "description": "ATENOLOL 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a40f"
+  },
+  "code": "BR0267523U0042",
+  "description": "CLOMIPRAMINA, CLORIDRATO 10 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a410"
+  },
+  "code": "BR0267567U0042",
+  "description": "CARVEDILOL 25 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a411"
+  },
+  "code": "BR0267615",
+  "description": "CAPTOPRIL  50 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a412"
+  },
+  "code": "BR0267617U0042",
+  "description": "CARBAMAZEPINA  400 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a413"
+  },
+  "code": "BR0267627",
+  "description": "CIMETIDINA 200 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a414"
+  },
+  "code": "BR0267635U0042",
+  "description": "CLORPROMAZINA, CLORIDRATO 25 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a415"
+  },
+  "code": "BR0267638U0042",
+  "description": "CLORPROMAZINA, CLORIDRATO 100 MG  COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a416"
+  },
+  "code": "BR0267642",
+  "description": "COLCHICINA 0,5 MG  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a417"
+  },
+  "code": "BR0267647U0042",
+  "description": "DIGOXINA  0,25 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a418"
+  },
+  "code": "BR0267657U0042",
+  "description": "FENITOÍNA SÓDICA  100 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a419"
+  },
+  "code": "BR0267669U0042",
+  "description": "HALOPERIDOL 5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a41a"
+  },
+  "code": "BR0267670U0042",
+  "description": "HALOPERIDOL 1 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a41b"
+  },
+  "code": "BR0267675",
+  "description": "HIDROCLOROTIAZIDA  50 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a41c"
+  },
+  "code": "BR0267688",
+  "description": "METILDOPA  500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a41d"
+  },
+  "code": "BR0267692",
+  "description": "MEBENDAZOL 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5373007173838e20a41e"
+  },
+  "code": "BR0267694",
+  "description": "MEBENDAZOL 20 MG/ML SUSPENSÃO ORAL  30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a41f"
+  },
+  "code": "BR0267779",
+  "description": "PARACETAMOL  750 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a420"
+  },
+  "code": "BR0268107",
+  "description": "GABAPENTINA 300 MG CÁPSULA  ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a421"
+  },
+  "code": "BR0268123U0042",
+  "description": "LEVOTIROXINA SÓDICA 50 MCG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a422"
+  },
+  "code": "BR0268124U0042",
+  "description": "LEVOTIROXINA SÓDICA 25 MCG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a423"
+  },
+  "code": "BR0268125U0042",
+  "description": "LEVOTIROXINA SÓDICA 100 MCG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a424"
+  },
+  "code": "BR0268128",
+  "description": "LEVOMEPROMAZINA 25 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a425"
+  },
+  "code": "BR0268129",
+  "description": "LEVOMEPROMAZINA 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a426"
+  },
+  "code": "BR0268149",
+  "description": "RISPERIDONA 2 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a427"
+  },
+  "code": "BR0268150U0110",
+  "description": "PREDNISOLONA 3 MG/ML SOLUÇÃO ORAL 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a428"
+  },
+  "code": "BR0268151U0110",
+  "description": "PREDNISOLONA 1 MG/ML SOLUÇÃO ORAL 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a429"
+  },
+  "code": "BR0268286U0023",
+  "description": "MICONAZOL, NITRATO 2 % CREME  30 G"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a42a"
+  },
+  "code": "BR0268331U0086",
+  "description": "IPRATRÓPIO, BROMETO  0,25 MG/ML SOLUÇÃO PARA INALAÇÃO 20 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a42b"
+  },
+  "code": "BR0268439U0042",
+  "description": "CLARITROMICINA 500 MG  COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a42c"
+  },
+  "code": "BR0268495U0042",
+  "description": "DOXAZOSINA, MESILATO 4 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a42d"
+  },
+  "code": "BR0268531",
+  "description": "TENOXICAM 20 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a42e"
+  },
+  "code": "BR0268859",
+  "description": "LEVOTIROXINA SÓDICA 75 MCG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a42f"
+  },
+  "code": "BR0268956U0042",
+  "description": "LEVONORGESTREL 0,75 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a430"
+  },
+  "code": "BR0268958-2",
+  "description": "COLAGENASE 0,6 UI/G POMADA 30 G"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a431"
+  },
+  "code": "BR0268959-2",
+  "description": "COLAGENASE 1,2 UI/G POMADA 30 G"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a432"
+  },
+  "code": "BR0269592",
+  "description": "DIMETICONA 40mg COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a433"
+  },
+  "code": "BR0269842U0013",
+  "description": "LIDOCAÍNA, CLORIDRATO 10 MG/ML SOLUÇÃO INJETÁVEL 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a434"
+  },
+  "code": "BR0269846U0015",
+  "description": "LIDOCAÍNA, CLORIDRATO 20 MG/G GEL 10 G"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a435"
+  },
+  "code": "BR0269846U0023",
+  "description": "LIDOCAÍNA, CLORIDRATO 20 MG/G GEL 30 G"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a436"
+  },
+  "code": "BR0269954-1",
+  "description": "BROMOPRIDA 10 MG MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a437"
+  },
+  "code": "BR0269956",
+  "description": "BROMOPRIDA 4 MG/ML SOLUÇÃO ORAL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a438"
+  },
+  "code": "BR0269996U0042",
+  "description": "ERITROMICINA, ESTOLATO 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a439"
+  },
+  "code": "BR0270118",
+  "description": "CLONAZEPAM 0,5 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a43a"
+  },
+  "code": "BR0270130U0042",
+  "description": "LEVODOPA + CARBIDOPA  250 + 25 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a43b"
+  },
+  "code": "BR0270141U0042",
+  "description": "BIPERIDENO, CLORIDRATO  4 MG COMPRIMIDO DE LIBERAÇÃO PROLONGADA"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a43c"
+  },
+  "code": "BR0270612U0391",
+  "description": "BENZILPENICILINA POTÁSSICA 1.200.000 UI SOLUÇÃO INJETÁVEL 2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a43d"
+  },
+  "code": "BR0270613U0118",
+  "description": "BENZILPENICILINA BENZATINA 600.000 UI PÓ PARA SUSPENSÃO INJETÁVEL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a43e"
+  },
+  "code": "BR0270895U0042",
+  "description": "CARBONATO DE CÁLCIO (CÁLCIO ELEMENTAR) 500 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a43f"
+  },
+  "code": "BR0270992U0042",
+  "description": "DICLOFENACO POTÁSSICO 50 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a440"
+  },
+  "code": "BR0271036U0042",
+  "description": "DOXICICLINA 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a441"
+  },
+  "code": "BR0271102",
+  "description": "CARBONATO DE LÍTIO 450 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a442"
+  },
+  "code": "BR0271111U0074",
+  "description": "AMOXICILINA 50 MG/ML PÓ PARA SUSPENSÃO 150 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a443"
+  },
+  "code": "BR0271154U0063",
+  "description": "INSULINA HUMANA REGULAR 100 UI/ML SOLUÇÃO INJETÁVEL 10 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a444"
+  },
+  "code": "BR0271157U0063",
+  "description": "INSULINA HUMANA NPH 100 UI/ML SUSPENSÃO INJETÁVEL 10 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a445"
+  },
+  "code": "BR0271659-2",
+  "description": "AMBROXOL, CLORIDRATO 6 MG/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a446"
+  },
+  "code": "BR0271689-1",
+  "description": "ÁCIDO ASCÓRBICO 200 MG/ML SOLUÇÃO ORAL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a447"
+  },
+  "code": "BR0271691",
+  "description": "ÁCIDO ASCÓRBICO 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a448"
+  },
+  "code": "BR0271773",
+  "description": "BROMAZEPAM 3 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a449"
+  },
+  "code": "BR0271774",
+  "description": "BROMAZEPAM 6 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a44a"
+  },
+  "code": "BR0272088-4",
+  "description": "SULFADIAZINA DE PRATA + NITRATO DE CÉRIO 1 + 0,4 % CREME  30 G"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a44b"
+  },
+  "code": "BR0272089U0023",
+  "description": "SULFADIAZINA DE PRATA 1% CREME  30 G"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a44c"
+  },
+  "code": "BR0272092-2",
+  "description": "VITAMINAS DO COMPLEXO B (B1,B2,B3,B6,B12) SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5374007173838e20a44d"
+  },
+  "code": "BR0272093-2",
+  "description": "VITAMINAS DO COMPLEXO B (B1,B2,B3,B6,B12) DRÁGEA ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a44e"
+  },
+  "code": "BR0272832",
+  "description": "QUETIAPINA, FUMARATO 100 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a44f"
+  },
+  "code": "BR0272839",
+  "description": "RISPERIDONA 1 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a450"
+  },
+  "code": "BR0272849",
+  "description": "TOPIRAMATO 25 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a451"
+  },
+  "code": "BR0273009U0042",
+  "description": "FLUOXETINA, CLORIDRATO 20 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a452"
+  },
+  "code": "BR0273166",
+  "description": "NEOMICINA 3,5 MG/G POMADA 10 G"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a453"
+  },
+  "code": "BR0273257",
+  "description": "OXCARBAZEPINA 300 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a454"
+  },
+  "code": "BR0273554",
+  "description": "MELOXICAM 15 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a455"
+  },
+  "code": "BR0273711",
+  "description": "NIMESULIDA 50 MG/ML SOLUÇÃO ORAL 15 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a456"
+  },
+  "code": "BR0276333U0042",
+  "description": "AMITRIPTILINA, CLORIDRATO 75 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a457"
+  },
+  "code": "BR0279493-2",
+  "description": "ÓXIDO DE ZINCO + COLECALCIFEROL + RETINOL 150 + 5000 + 900 MG + UI + UI/G POMADA 45 G"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a458"
+  },
+  "code": "BR0281135-3",
+  "description": "AMOXICILINA + CLAVULANATO DE POTÁSSIO 40+5,7 MG/ML SUSPENSÃO ORAL  70 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a459"
+  },
+  "code": "BR0284106",
+  "description": "RISPERIDONA 1 MG/ML SOLUÇÃO ORAL  30 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a45a"
+  },
+  "code": "BR0286846-2",
+  "description": "MULTIVITAMINAS (A, C, D, COMPLEXO B) SOLUÇÃO ORAL 30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a45b"
+  },
+  "code": "BR0291770",
+  "description": "ESCITALOPRAM, OXALATO  10 mg COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a45c"
+  },
+  "code": "BR0291771",
+  "description": "ESCITALOPRAM, OXALATO  20 mg COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a45d"
+  },
+  "code": "BR0300252-1",
+  "description": "GLICOSE + CLORETO DE SÓDIO 20 + 0,9 % SOLUÇÃO INJETÁVEL  500 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a45e"
+  },
+  "code": "BR0300723U0086",
+  "description": "FENOBARBITAL  40 MG/ML SOLUÇÃO ORAL 20 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a45f"
+  },
+  "code": "BR0302443",
+  "description": "DULOXETINA, CLORIDRATO 60 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a460"
+  },
+  "code": "BR0303984",
+  "description": "LUVA CIRÚRGICA, SILICONE, 7,50, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a461"
+  },
+  "code": "BR0305247U0067",
+  "description": "LACTULOSE 667 MG/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a462"
+  },
+  "code": "BR0308736-1",
+  "description": "CETOCONAZOL 2% CREME  20 G"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a463"
+  },
+  "code": "BR0308884U0105",
+  "description": "SULFAMETOXAZOL + TRIMETOPRIMA  40 + 8 MG/ML SUSPENSÃO ORAL  50 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a464"
+  },
+  "code": "BR0327792-1",
+  "description": "CEFALEXINA 25 MG/ML SUSPENSÃO ORAL  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a465"
+  },
+  "code": "BR0331555U0062",
+  "description": "CEFALEXINA 50 MG/ML SUSPENSÃO ORAL  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a466"
+  },
+  "code": "BR0334992",
+  "description": "ANTIBIOGRAMA, METRONIDAZOL, 50 MCG   "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a467"
+  },
+  "code": "BR0338591U0030",
+  "description": "METRONIDAZOL 100MG/G GEL 50 G"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a468"
+  },
+  "code": "BR0340783U0062",
+  "description": "HIDRÓXIDO DE ALUMÍNIO 61,5 MG/ML SUSPENSÃO ORAL  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a469"
+  },
+  "code": "BR0345240U0017",
+  "description": "HIDROCORTISONA, ACETATO 10 MG/G CREME  15 G"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a46a"
+  },
+  "code": "BR0358268",
+  "description": "TESTE RÁPIDO DE GRAVIDEZ"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a46b"
+  },
+  "code": "BR0366913",
+  "description": "GLICOSE + CLORETO DE SÓDIO 5 + 0,9 % SOLUÇÃO INJETÁVEL  500 ML SISTEMA FECHADO"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a46c"
+  },
+  "code": "BR0368499-2",
+  "description": "VITAMINAS DO COMPLEXO B (B1,B2,B3,B5,B6) SOLUÇÃO ORAL  30 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a46d"
+  },
+  "code": "BR0386396",
+  "description": "AMOXICILINA + CLAVULANATO DE POTÁSSIO 80 MG + 11,5 MG/ML SUSPENSÃO ORAL  70 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a46e"
+  },
+  "code": "BR0389556",
+  "description": "MONITOR PORTÁTIL, ATÉ 600 MG/DL, QUANTITATIVO DE GLICOSE, SANGUE CAPILAR, 250 A 500 TESTES, ATÉ 10 S, DIGITAL"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a46f"
+  },
+  "code": "BR0398702U0005",
+  "description": "MEDROXIPROGESTERONA, ACETATO 150 MG/ML SUSPENSÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a470"
+  },
+  "code": "BR0412963",
+  "description": "SIMETICONA 40 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a471"
+  },
+  "code": "BR0412965-1",
+  "description": "SIMETICONA 75 MG/ML SUSPENSÃO ORAL  10 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a472"
+  },
+  "code": "BR0433257",
+  "description": "HIDRÓXIDO DE ALUMÍNIO 60 MG/ML SUSPENSÃO ORAL  150 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a473"
+  },
+  "code": "BR0433257-1",
+  "description": "HIDRÓXIDO DE ALUMÍNIO 60 MG/ML SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a474"
+  },
+  "code": "BR0433257U0062",
+  "description": "HIDRÓXIDO DE ALUMÍNIO 60 MG/ML SUSPENSÃO ORAL  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a475"
+  },
+  "code": "BR0434125U0042",
+  "description": "COLECALCIFEROL (VITAMINA D3) 1000 UI COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a476"
+  },
+  "code": "BR0437374",
+  "description": "LEVOTIROXINA SÓDICA 37,5 MCG COMP"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a477"
+  },
+  "code": "BR0442011U0137",
+  "description": "INSULINA HUMANA REGULAR 100 UI/ML SOLUÇÃO INJETÁVEL 3 ML COM SISTEMA DE APLICAÇÃO"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a478"
+  },
+  "code": "BR0442012U0137",
+  "description": "INSULINA HUMANA NPH 100 UI/ML SOLUÇÃO INJETÁVEL 3 ML COM SISTEMA DE APLICAÇÃO"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a479"
+  },
+  "code": "BR0442701U0118",
+  "description": "CEFTRIAXONA SÓDICA 1 G PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a47a"
+  },
+  "code": "BR0449681",
+  "description": "COLECALCIFEROL (VITAMINA D3) 10.000 UI CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5375007173838e20a47b"
+  },
+  "code": "BR0470689",
+  "description": "ZINCO QUELATO 30 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b538d007173838e20a47c"
+  },
+  "code": "BR0267509U0042",
+  "description": "ALOPURINOL 300 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5390007173838e20a47d"
+  },
+  "code": "BR0272809-1",
+  "description": "LAMOTRIGINA 100 MG COMPRIMIDO DISPERSÍVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5395007173838e20a47e"
+  },
+  "code": "BR0365451-1",
+  "description": "KIT DE INFUSÃO ABATACEPTE, FILTRO ESTÉRIL, APIROGÊNICO, BAIXA AFINIDADE A PROTEÍNAS, PORO 0,2 A 1,2 MICROMETROS, CLORETO DE SÓDIO, 0,9%, AGULHA 18 A 21 G, SWAB ANTISEPTICO, SERINGA LIVRE DE SILICONE, ÁGUA PARA INJEÇÃO"
+},
+{
+  "_id": {
+    "$oid": "685b539c007173838e20a47f"
+  },
+  "code": "BR0268286U0031",
+  "description": "MICONAZOL, NITRATO 2 % CREME  80 G"
+},
+{
+  "_id": {
+    "$oid": "685b539d007173838e20a480"
+  },
+  "code": "BR0398703U0005",
+  "description": "MEDROXIPROGESTERONA, ACETATO 50 MG/ML SUSPENSÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b53a3007173838e20a481"
+  },
+  "code": "BR0267511",
+  "description": "AMINOFILINA 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b53a4007173838e20a482"
+  },
+  "code": "BR0268160",
+  "description": "OMEPRAZOL 40 MG PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b53a6007173838e20a483"
+  },
+  "code": "BR0308738",
+  "description": "CIPROFIBRATO 100 mg  COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b53a9007173838e20a484"
+  },
+  "code": "BR0268150U0110INAT",
+  "description": "PREDNISOLONA 3 MG/ML SOLUÇÃO ORAL 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b53aa007173838e20a485"
+  },
+  "code": "BR0272366",
+  "description": "TIORIDAZINA, CLORIDRATO 50 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b53aa007173838e20a486"
+  },
+  "code": "BR0272367",
+  "description": "TIORIDAZINA, CLORIDRATO 100 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b53aa007173838e20a487"
+  },
+  "code": "BR0272589",
+  "description": "DIVALPROATO DE SÓDIO 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b53aa007173838e20a488"
+  },
+  "code": "BR0272831",
+  "description": "QUETIAPINA, FUMARATO 25 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b53aa007173838e20a489"
+  },
+  "code": "BR0272850",
+  "description": "TOPIRAMATO 50 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b53aa007173838e20a48a"
+  },
+  "code": "BR0272851",
+  "description": "TOPIRAMATO 100 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b53aa007173838e20a48b"
+  },
+  "code": "BR0273256",
+  "description": "OXCARBAZEPINA 600 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b53ab007173838e20a48c"
+  },
+  "code": "BR0273940",
+  "description": "PAROXETINA, CLORIDRATO 20 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b53ab007173838e20a48d"
+  },
+  "code": "BR0305247U0067INAT",
+  "description": "LACTULOSE 667 MG/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b53ab007173838e20a48e"
+  },
+  "code": "BR0442701U0118INAT",
+  "description": "CEFTRIAXONA SÓDICA 1 G PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b53ae007173838e20a48f"
+  },
+  "code": "BR0268994",
+  "description": "BUPROPIONA, CLORIDRATO 150 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b53b7007173838e20a490"
+  },
+  "code": "BR0269954-2",
+  "description": "BROMOPRIDA 10 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b53b8007173838e20a492"
+  },
+  "code": "BR0287481U0140",
+  "description": "NICOTINA 2 MG GOMA DE MASCAR"
+},
+{
+  "_id": {
+    "$oid": "685b53b9007173838e20a493"
+  },
+  "code": "BR0376105U0140",
+  "description": "NICOTINA 7 MG ADESIVO TRANSDÉRMICO"
+},
+{
+  "_id": {
+    "$oid": "685b53b9007173838e20a494"
+  },
+  "code": "BR0376106U0140",
+  "description": "NICOTINA 14 MG ADESIVO TRANSDÉRMICO"
+},
+{
+  "_id": {
+    "$oid": "685b53b9007173838e20a495"
+  },
+  "code": "BR0376107U0140",
+  "description": "NICOTINA 21 MG ADESIVO TRANSDÉRMICO"
+},
+{
+  "_id": {
+    "$oid": "685b53b9007173838e20a496"
+  },
+  "code": "BR0383750U0067",
+  "description": "LACTULOSE 667 MG/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b53b9007173838e20a497"
+  },
+  "code": "BR0431311U0193",
+  "description": "HIDRÓXIDO DE ALUMÍNIO + HIDRÓXIDO DE MAGNÉSIO + DIMETICONA 37 MG + 40 MG + 5 MG/ML SUSPENSÃO ORAL  150 ML"
+},
+{
+  "_id": {
+    "$oid": "685b53b9007173838e20a498"
+  },
+  "code": "BR0433257U0074",
+  "description": "HIDRÓXIDO DE ALUMÍNIO 60 MG/ML SUSPENSÃO ORAL  150 ML"
+},
+{
+  "_id": {
+    "$oid": "685b53e1007173838e20a499"
+  },
+  "code": "BR0268417U0118",
+  "description": "CEFTRIAXONA SÓDICA 500 mg  PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5400007173838e20a49b"
+  },
+  "code": "BR0268256-3",
+  "description": "GENTAMICINA, SULFATO 40 MG/ML SOLUÇÃO INJETÁVEL  2 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5400007173838e20a49c"
+  },
+  "code": "BR0268273-2",
+  "description": "NITROFURANTOÍNA 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5400007173838e20a49d"
+  },
+  "code": "BR0271089U0042",
+  "description": "AMOXICILINA 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5400007173838e20a49e"
+  },
+  "code": "BR0308884U0110",
+  "description": "SULFAMETOXAZOL + TRIMETOPRIMA  40 + 8 MG/ML SUSPENSÃO ORAL  60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5400007173838e20a4a0"
+  },
+  "code": "BR0368779U0067",
+  "description": "MIKANIA GLOMERATA (GUACO) 117,6 MG/ML XAROPE  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5400007173838e20a4a1"
+  },
+  "code": "BR0373909U0075",
+  "description": "HIPROMELOSE 3 MG/ML SOLUÇÃO OFTÁLMICA 15 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4a3"
+  },
+  "code": "BR0226457",
+  "description": "JALECO, TECIDO, LONGO, CURTA, 5 UN, 2 UN, G, BRANCA, SEM GOLA "
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4a4"
+  },
+  "code": "BR0233469",
+  "description": "ÓCULOS DE PROTEÇÃO INDIVIDUAL, POLICARBONATO, POLICARBONATO, ANTIEMBASSANTE E ANTICHAMA, ACOPLÁVEIS AO ROSTO, COM CORDÃO ELÁSTICO PARA FIXAÇÃO NA CABEÇA"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4a5"
+  },
+  "code": "BR0238050",
+  "description": "FIO DENTAL, FIO RESINA TERMOPLÁSTICA, 25 M, REGULAR, NEUTRO"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4a6"
+  },
+  "code": "BR0246116",
+  "description": " CUNHA ODONTOLÓGICA, MADEIRA, ANATÔMICA, RESTAURAÇÃO ODONTOLÓGICA"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4a7"
+  },
+  "code": "BR0246317",
+  "description": "BRUNIDOR ODONTOLÓGICO, AÇO INOXIDÁVEL, NR 33, ACABAMENTO EM RESTAURAÇÕES DE AMÁLGAMA"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4a8"
+  },
+  "code": "BR0246646",
+  "description": "RESINA COMPOSTA, FOTOPOLIMERIZÁVEL HÍBRIDA, PASTOSO, RESTAURAÇÃO ODONTOLÓGICA, SERINGA 4G, CÓDIGO B2   ,"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4aa"
+  },
+  "code": "BR0250427",
+  "description": "CONJUNTO BROCA ODONTOLÓGICA, 7 UN, ACABAMENTO FINO, 3118F, 3195F, 2135F, 1112F, 3168F, 1093F, 1190F, CANETA ALTA ROTAÇÃO, ACABAMENTO RESINA COMPOSTA "
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4ab"
+  },
+  "code": "BR0262211",
+  "description": "MÁSCARA DE INALAÇÃO / NEBULIZAÇÃO, PVC TRANSPARENTE, HUDSON, PEQUENA, NEBULIZAÇÃO, ATÓXICA E COM PRESILHA ELÁSTICA"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4ac"
+  },
+  "code": "BR0266896",
+  "description": "FIO DENTAL, RESINA TERMOPLÁSTICA/CERA E ESSÊNCIA, 500 M, REGULAR, NEUTRO"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4ad"
+  },
+  "code": "BR0267139",
+  "description": "AMPICILINA 50 MG/ML SUSPENSÃO ORAL  60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4ae"
+  },
+  "code": "BR0267281-1",
+  "description": "ESCOPOLAMINA, BUTILBROMETO 10 MG/ML SOLUÇÃO ORAL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4af"
+  },
+  "code": "BR0269888",
+  "description": "MEPIVACAÍNA, CLORIDRATO + EPINEFRINA 36 MG (2%) + 0,018 MG (1:100.000)  SOL INJ (AMP) 1,8 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4b0"
+  },
+  "code": "BR0270307",
+  "description": "TAÇA DE BORRACHA, P/ CONTRA ÂNGULO, C/ PROTETOR, UNIDADE"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4b1"
+  },
+  "code": "BR0278867",
+  "description": "MÁSCARA DE INALAÇÃO / NEBULIZAÇÃO, PVC TRANSPARENTE, HUDSON, MÉDIA, ATÓXICA E COM PRESILHA ELÁSTICA"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4b2"
+  },
+  "code": "BR0279728",
+  "description": "ALGODÃO, ORTOPÉDICO, EM MANTAS, EM FIBRA DE ALGODÃO CRÚ, 10CM X 100CM, ENROLADO EM PAPEL APROPRIADO, NÃO ESTÉRIL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4b3"
+  },
+  "code": "BR0281322",
+  "description": "FIO DE SUTURA, NYLON MONOFILAMENTO 3-0, PRETO, 45 CM, COM AGULHA 3/8 CÍRCULO CILÍNDRICA, 3 CM, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5418007173838e20a4b4"
+  },
+  "code": "BR0284102",
+  "description": "CIPROFLOXACINO + DEXAMETASONA 3,5 + 1 MG/ML SOLUÇÃO OFTÁLMICA 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4b5"
+  },
+  "code": "BR0287061",
+  "description": "LIDOCAÍNA, CLORIDRATO + NOREPINEFRINA 3 % SOLUÇÃO INJETÁVEL 1,8 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4b6"
+  },
+  "code": "BR0292030",
+  "description": "TIBOLONA 2,5 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4b7"
+  },
+  "code": "BR0293839U0052",
+  "description": "SAIS PARA REIDRATAÇÃO ORAL (NaCl 3,5G + Glicose 20G + Citrato Na 2,9G + KCl 1,5G)  PÓ PARA SOLUÇÃO 8,5 G"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4b8"
+  },
+  "code": "BR0303151U0140",
+  "description": "LANCETA, AÇO INOXIDÁVEL,PONTA AFIADA,TRIFACETADA, DESCARTÁVEL, ESTÉRIL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4b9"
+  },
+  "code": "BR0308726-1",
+  "description": "BENZOATO DE BENZILA 250 MG/ML EMULSÃO TÓPICA 100 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4ba"
+  },
+  "code": "BR0319000-1",
+  "description": "BRIMONIDINA, TARTARATO + TIMOLOL, MALEATO 0,2 + 0,5 % SOLUÇÃO OFTÁLMICA 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4bb"
+  },
+  "code": "BR0319906",
+  "description": "ÓXIDO DE ZINCO + ÓLEO CASTOR + PETROLATO (BOTA DE UNNA) 7,5CM X 9,14M"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4bc"
+  },
+  "code": "BR0364295",
+  "description": "EMBALAGEM PARA ESTERILIZAÇÃO, PAPEL   RAU CIRÚRGICO C/FILME LAMINADO TRANSPARENTE, LISO, P/ ESTERILIZAÇÃO À   APOR, 300 MM, 120 MM, AUTO-SELANTE, COM INDICADOR"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4bd"
+  },
+  "code": "BR0374821",
+  "description": "FORMOCRESOL, FORMALDEÍDO + ORTO-CRESOL, 19% + 35% APROXIMADAMENTE, EM SOLUÇÃO GLICERINADA"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4be"
+  },
+  "code": "BR0383615",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 20 CM, 125 CM, EM REPOUSO, 9 UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4bf"
+  },
+  "code": "BR0390513-1",
+  "description": "RESINA COMPOSTA, TIPO FOTOPOLIMERIZÁVEL, TAMANHO PARTÍCULAS MICROHÍBRIDA, ASPECTO FÍSICO PASTOSA; A1"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c0"
+  },
+  "code": "BR0390513-10",
+  "description": "RESINA COMPOSTA, TIPO FOTOPOLIMERIZÁVEL, TAMANHO PARTÍCULAS MICROHÍBRIDA, ASPECTO FÍSICO PASTOSA; C1"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c1"
+  },
+  "code": "BR0390513-19",
+  "description": "RESINA COMPOSTA, TIPO FOTOPOLIMERIZÁVEL, TAMANHO PARTÍCULAS MICROHÍBRIDA, ASPECTO FÍSICO PASTOSA; A2 OPACA"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c2"
+  },
+  "code": "BR0390513-2",
+  "description": "RESINA COMPOSTA, TIPO FOTOPOLIMERIZÁVEL, TAMANHO PARTÍCULAS MICROHÍBRIDA, ASPECTO FÍSICO PASTOSA; A2"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c3"
+  },
+  "code": "BR0390513-20",
+  "description": "RESINA COMPOSTA, TIPO FOTOPOLIMERIZÁVEL, TAMANHO PARTÍCULAS MICROHÍBRIDA, ASPECTO FÍSICO PASTOSA; A3 OPACA"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c4"
+  },
+  "code": "BR0390513-21",
+  "description": "RESINA COMPOSTA, TIPO FOTOPOLIMERIZÁVEL, TAMANHO PARTÍCULAS MICROHÍBRIDA, ASPECTO FÍSICO PASTOSA; A3,5 OPACA"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c5"
+  },
+  "code": "BR0390513-8",
+  "description": "RESINA COMPOSTA, TIPO FOTOPOLIMERIZÁVEL, TAMANHO PARTÍCULAS MICROHÍBRIDA, ASPECTO FÍSICO PASTOSA; B3"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c6"
+  },
+  "code": "BR0391256U0367",
+  "description": "AMÁLGAMA, ALTO TEOR DE PRATA, LIGA + MERCÚRIO, CÁPSULA 1 DOSE  ,"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c7"
+  },
+  "code": "BR0391581",
+  "description": "CONDICIONADOR DENTAL, ÁCIDO FOSFÓRICO,0,1, GEL, SERINGA 5 G "
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c8"
+  },
+  "code": "BR0391582",
+  "description": "CONDICIONADOR DENTAL, ÁCIDO FOSFÓRICO 37% 2,5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4c9"
+  },
+  "code": "BR0404552",
+  "description": "CIMENTO ODONTOLÓGICO, TEMPORÁRIO, EUGENOL, LÍQUIDO, FRASCO 20 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4ca"
+  },
+  "code": "BR0404708",
+  "description": " RESINA COMPOSTA, AUTOPOLIMERIZÁVEL, HÍBRIDA, PASTOSA, BASE, CATALISADOR, AGENTE DE UNIÃO E CONDICIONADOR, 12 G + 12 G"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4cb"
+  },
+  "code": "BR0404710",
+  "description": " RESINA COMPOSTA, AUTOPOLIMERIZÁVEL, HÍBRIDA, PASTOSA, BASE, CATALISADOR, AGENTE DE UNIÃO E CONDICIONADOR, 28 G + 28 G"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4cc"
+  },
+  "code": "BR0405602",
+  "description": "CIMENTO ODONTOLÓGICO, ENDODÔNTICO, HIDRÓXIDO DE CÁLCIO, PASTA + PASTA, CONJUNTO COMPLETO"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4cd"
+  },
+  "code": "BR0406146",
+  "description": "MATRIZ ODONTOLÓGICA, AÇO INOXIDÁVEL, FITA, ROLO 50CM, 7 MM, DESCARTÁVEL ,"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4ce"
+  },
+  "code": "BR0406147-1",
+  "description": "MATRIZ ODONTOLÓGICA, POLIÉSTER, PRÉ-CORTADA, FITA, FOLHAS DE 10 MM, 120 MM, 5 MM, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4cf"
+  },
+  "code": "BR0406281",
+  "description": "TIRA ABRASIVA - USO ODONTOLÓGICO, AÇO INOXIDÁVEL + ÓXIDO DE ALUMÍNIO, CENTRO NEUTRO, CERCA DE 120 MM, 6 MM"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d0"
+  },
+  "code": "BR0410557",
+  "description": "APLICADOR ODONTOLÓGICO, DOBRÁVEL, DESCARTÁVEL, PLÁSTICO,  PONTAS FIBRAS NÃO ABSORVENTES, FINA"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d1"
+  },
+  "code": "BR0410558",
+  "description": " APLICADOR ODONTOLÓGICO, DOBRÁVEL, DESCARTÁVEL, PLÁSTICO,  PONTAS FIBRAS NÃO ABSORVENTES, LONGA"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d2"
+  },
+  "code": "BR0411436",
+  "description": "POTE ODONTOLÓGICO, VIDRO, CILÍNDRICO, TRANSPARENTE, 2 CAVIDADES, DAPPEN, 3 X 3 CM "
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d3"
+  },
+  "code": "BR0413311",
+  "description": "ESPELHO BUCAL, AÇO INOXIDÁVEL E ESPELHO, 1º PLANO, Nº 5, ENCAIXE UNIVERSAL, CABO PADÃO, AUTOCLAVÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d4"
+  },
+  "code": "BR0417244",
+  "description": " CIMENTO DE IONÔMERO DE VIDRO, MODIFICADO COM RESINA, AUTOPOLIMERIZÁVEL, PÓ + LÍQUIDO, CÁPSULA"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d5"
+  },
+  "code": "BR0421356",
+  "description": " HIDRÓXIDO DE CÁLCIO, CIMENTO, PASTA, FOTOPOLIMERIZÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d6"
+  },
+  "code": "BR0423570",
+  "description": "TIRA ABRASIVA - USO ODONTOLÓGICO, POLIÉSTER + ÓXIDO DE ALUMÍNIO, CENTRO NEUTRO, CERCA DE 170 MM, CERCA DE 4  MM, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d7"
+  },
+  "code": "BR0425821",
+  "description": " CARIOSTÁTICO, ÁCIDO FLUORÍDRICO, NITRATO DE PRATA, HIDRÓXIDO DE AMÔNIA, LÍQUIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d8"
+  },
+  "code": "BR0426464",
+  "description": " CONDICIONADOR DENTAL, ÁCIDO FOSFÓRICO, 37 % + CLOREXIDINA 2%, GEL"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4d9"
+  },
+  "code": "BR0427118",
+  "description": "MANDRIL ODONTOLÓGICO, LATÃO, PARA PEÇA RETA, ADAPTAÇÃO DE TIRAS DE LIXA, CÔNICO COM FENDA NO MEIO"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4da"
+  },
+  "code": "BR0428103",
+  "description": "FLUORETO DE SÓDIO, 2%, GEL TIXOTRÓPICO, NEUTRO"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4db"
+  },
+  "code": "BR0428166",
+  "description": "VERNIZ DENTÁRIO, C/ FLUORETO DE SÓDIO"
+},
+{
+  "_id": {
+    "$oid": "685b5419007173838e20a4dc"
+  },
+  "code": "BR0437606",
+  "description": "EMBALAGEM PARA ESTERILIZAÇÃO, PAPEL RAU CIRÚRGICO C/FILME LAMINADO TRANSPARENTE, LISO, P/ ESTERILIZAÇÃO À APOR, 50 MM, 100 M, C/ INDICADOR P/ VAPOR E FORMALDEÍDO  "
+},
+{
+  "_id": {
+    "$oid": "685b5425007173838e20a4dd"
+  },
+  "code": "BR0388712",
+  "description": "PREGABALINA 75 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5426007173838e20a4de"
+  },
+  "code": "BR0267515-1",
+  "description": "AMPICILINA 500 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5426007173838e20a4df"
+  },
+  "code": "BR0267666U0009",
+  "description": "FUROSEMIDA 10 MG/ML SOLUÇÃO INJETÁVEL 2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5427007173838e20a4e1"
+  },
+  "code": "BR0268390",
+  "description": "SAIS PARA REIDRATAÇÃO ORAL PÓ, CLORETO SÓDIO 3,5G + GLICOSE 20G + CITRATO DE SÓDIO 2,9G + CLORETO DE POTÁSSIO 1,5G  1.000ML DE SOLUÇÃO PRONTA, ENVELOPE  CONTENDO 27,9G"
+},
+{
+  "_id": {
+    "$oid": "685b5427007173838e20a4e2"
+  },
+  "code": "BR0269388U0006",
+  "description": "DEXAMETASONA  4 MG/ML SOL INJ (AMP) 2,5ML"
+},
+{
+  "_id": {
+    "$oid": "685b5427007173838e20a4e3"
+  },
+  "code": "BR0270613",
+  "description": "BENZILPENICILINA BENZATINA 600.000 UI SUSPENSÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5427007173838e20a4e4"
+  },
+  "code": "BR0270999-1",
+  "description": "DICLOFENACO POTÁSSICO 25 MG/ML SOLUÇÃO INJETÁVEL 3 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5427007173838e20a4e5"
+  },
+  "code": "BR0271357",
+  "description": "ALPRAZOLAM 0,5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5427007173838e20a4e6"
+  },
+  "code": "BR0271620",
+  "description": "OLANZAPINA 5 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4e7"
+  },
+  "code": "BR0272089-2",
+  "description": "SULFADIAZINA DE PRATA 1 % PASTA  50 G"
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4e8"
+  },
+  "code": "BR0272400-1",
+  "description": "NAFAZOLINA, CLORIDRATO 0,5 MG/ML SOLUÇÃO NASAL 30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4e9"
+  },
+  "code": "BR0272831-1",
+  "description": "QUETIAPINA, HEMIFUMARATO 25 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4ea"
+  },
+  "code": "BR0273328U0041",
+  "description": "IVERMECTINA 6 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4eb"
+  },
+  "code": "BR0273639-7",
+  "description": "MULTIVITAMINAS + SAIS MINERAIS SOLUÇÃO ORAL 250 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4ec"
+  },
+  "code": "BR0274036-2",
+  "description": "PIROXICAM 20 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4ed"
+  },
+  "code": "BR0284105",
+  "description": "RISPERIDONA 3 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4ee"
+  },
+  "code": "BR0287473",
+  "description": "LOSARTANA POTÁSSICA 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4ef"
+  },
+  "code": "BR0292345U0062",
+  "description": "SULFATO FERROSO (25MG/ML DE FERRO ELEMENTAR) 125 MG/ML SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5428007173838e20a4f0"
+  },
+  "code": "BR0388712U0042",
+  "description": "PREGABALINA 75 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5429007173838e20a4f1"
+  },
+  "code": "BR0400436",
+  "description": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO)  500 MG COMPRIMIDO DE LIBERAÇÃO PROLONGADA"
+},
+{
+  "_id": {
+    "$oid": "685b5429007173838e20a4f2"
+  },
+  "code": "BR0406799",
+  "description": "SULFATO FERROSO (13,7 MG/ML DE FERRO ELEMENTAR) 68 MG/ML SOLUÇÃO ORAL 30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5429007173838e20a4f3"
+  },
+  "code": "BR0412966",
+  "description": "SIMETICONA 75 MG/ML EMULSÃO ORAL, 15 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5429007173838e20a4f4"
+  },
+  "code": "BR0267292",
+  "description": "IMIPRAMINA, CLORIDRATO 25 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b542d007173838e20a4f5"
+  },
+  "code": "BR0472780U0074",
+  "description": "ARIPIPRAZOL 1 MG/ML SUSPENSÃO ORAL  150 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5433007173838e20a4f6"
+  },
+  "code": "BR0270126U0042",
+  "description": "LEVODOPA + BENSERAZIDA  200 + 50 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5433007173838e20a4f7"
+  },
+  "code": "BR0270220U0118",
+  "description": "HIDROCORTISONA, SUCCINATO SÓDICO 100MG PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b543d007173838e20a4f8"
+  },
+  "code": "BR0269388U0006INAT",
+  "description": "DEXAMETASONA  4 MG/ML SOL INJ (AMP) 2,5ML"
+},
+{
+  "_id": {
+    "$oid": "685b543e007173838e20a4f9"
+  },
+  "code": "BR0273328U0041INAT",
+  "description": "IVERMECTINA 6 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5442007173838e20a4fa"
+  },
+  "code": "BR0271004",
+  "description": "DICLOFENACO SÓDICO 75 MG/ML SOLUÇÃO INJETÁVEL 3 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5443007173838e20a4fb"
+  },
+  "code": "BR0292427U0018",
+  "description": "DEXAMETASONA, FOSFATO DISSÓDICO 4  MG/ML SOLUÇÃO INJETÁVEL FRASCO-AMPOLA 2,5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5444007173838e20a4fc"
+  },
+  "code": "BR0436839",
+  "description": "COMPLEXO B (B1,B2,B6,B3) TIAMINA + RIBOFLAVINA + PIRIDOXINA + NICOTINAMIDA 7,5 + 0,825 + 2,5 + 12,5  MG COMP REV"
+},
+{
+  "_id": {
+    "$oid": "685b5445007173838e20a4fd"
+  },
+  "code": "BR0448595U0110",
+  "description": "PREDNISOLONA 3 MG/ML SOLUÇÃO ORAL 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b544c007173838e20a4fe"
+  },
+  "code": "BR0268416",
+  "description": "CEFTRIAXONA SÓDICA 500 MG PÓ PARA SOLUÇÃO INJETÁVEL   IV"
+},
+{
+  "_id": {
+    "$oid": "685b544e007173838e20a4ff"
+  },
+  "code": "BR0272458",
+  "description": "CARBAMAZEPINA  200 MG COMPRIMIDO DE LIBERAÇÃO PROLONGADA"
+},
+{
+  "_id": {
+    "$oid": "685b544f007173838e20a500"
+  },
+  "code": "BR0368499",
+  "description": "VITAMINAS DO COMPLEXO B (B1,B2,B3,B5,B6)  SOLUÇÃO ORAL 100  ML"
+},
+{
+  "_id": {
+    "$oid": "685b5450007173838e20a501"
+  },
+  "code": "BR0437109",
+  "description": "VITAMINAS DO COMPLEXO B, B1, B2, B3, B5, B6, B12 COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5450007173838e20a502"
+  },
+  "code": "BR0448841U0113",
+  "description": "AMOXICILINA + CLAVULANATO DE POTÁSSIO 50 + 12,5  MG/ML SUSPENSÃO ORAL  75 ML"
+},
+{
+  "_id": {
+    "$oid": "685b547f007173838e20a503"
+  },
+  "code": "BR0266863U0067",
+  "description": "METRONIDAZOL (BENZOILMETRONIDAZOL) 40 MG/ML SUSPENSÃO ORAL  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5480007173838e20a504"
+  },
+  "code": "BR0267645",
+  "description": "DEXCLORFENIRAMINA, MALEATO 2 MG SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5482007173838e20a505"
+  },
+  "code": "BR0284429",
+  "description": "BECLOMETASONA, DIPROPIONATO + SALBUTAMOL 50 + 100 MCG/DOSE SUSPENSÃO PARA NEBULIZAÇÃO  COM ESPAÇADOR ORAL 200 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5483007173838e20a506"
+  },
+  "code": "BR0267187U0106",
+  "description": "DEXAMETASONA  1 MG/ML SOLUÇÃO OFTÁLMICA 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5484007173838e20a507"
+  },
+  "code": "BR0267654U0042",
+  "description": "ESPIRONOLACTONA  100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b548a007173838e20a508"
+  },
+  "code": "BR0449137",
+  "description": "VITAMINAS DO COMPLEXO B, B1, B2, B3, B6 COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b548a007173838e20a509"
+  },
+  "code": "BR0606917",
+  "description": "CARBONATO DE CÁLCIO, ASSOCIADO COM VITAMINA D3 500 MG + 1.000 UI COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5492007173838e20a50a"
+  },
+  "code": "BR0271355",
+  "description": "METRONIDAZOL + NISTATINA 100 MG + 20.000 UI/G CREME VAGINAL  50 G"
+},
+{
+  "_id": {
+    "$oid": "685b5493007173838e20a50b"
+  },
+  "code": "BR0273395U0042",
+  "description": "ISOSSORBIDA, DINITRATO 5 MG COMPRIMIDO SUBLINGUAL"
+},
+{
+  "_id": {
+    "$oid": "685b54a3007173838e20a50d"
+  },
+  "code": "BR0267728U0041",
+  "description": "NIFEDIPINO 10 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b54a4007173838e20a50e"
+  },
+  "code": "BR0269985",
+  "description": "CLARITROMICINA 500 MG COMPRIMIDO DE LIBERAÇÃO PROLONGADA"
+},
+{
+  "_id": {
+    "$oid": "685b54a4007173838e20a50f"
+  },
+  "code": "BR0270558-2",
+  "description": "ACETILCISTEÍNA 20 MG/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b54a4007173838e20a510"
+  },
+  "code": "BR0272364",
+  "description": "SERTRALINA, CLORIDRATO 25 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b54a5007173838e20a511"
+  },
+  "code": "BR0272839U0042",
+  "description": "RISPERIDONA 1 MG COMP GRUPO 1.B "
+},
+{
+  "_id": {
+    "$oid": "685b54a5007173838e20a512"
+  },
+  "code": "BR0355786",
+  "description": "ACETILCISTEÍNA 40 MG/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b54a5007173838e20a513"
+  },
+  "code": "BR0412965-2",
+  "description": "SIMETICONA 75 MG/ML SOLUÇÃO ORAL  20 ML "
+},
+{
+  "_id": {
+    "$oid": "685b54a6007173838e20a514"
+  },
+  "code": "BR0437160U0062",
+  "description": "CLORETO DE SÓDIO  0,9 % SOLUÇÃO NASAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b54a6007173838e20a515"
+  },
+  "code": "INATIVO 20",
+  "description": "INATIVO-CLORETO DE SÓDIO 0,9% SISTEMA FECHADO SOLUÇÃO INJETÁVEL  500  ML"
+},
+{
+  "_id": {
+    "$oid": "685b54a9007173838e20a516"
+  },
+  "code": "BR0296876",
+  "description": "CARBONATO DE CÁLCIO + COLECALCIFEROL  1500 + 400 MG/ UI COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b54a9007173838e20a517"
+  },
+  "code": "BR0308726",
+  "description": "BENZOATO DE BENZILA 250 MG/ML EMULSÃO TÓPICA 60 ML "
+},
+{
+  "_id": {
+    "$oid": "685b54b2007173838e20a518"
+  },
+  "code": "BR0431349",
+  "description": "POLIVITAMINICO + POLIMINERAIS + LISINA XAROPE  240 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5514007173838e20a519"
+  },
+  "code": "BR0268375U0017",
+  "description": "ACICLOVIR 5 % CREME  15 G"
+},
+{
+  "_id": {
+    "$oid": "685b5514007173838e20a51a"
+  },
+  "code": "BR0270020",
+  "description": "CLORETO DE BENZALCÔNIO+ CLORETO DE SÓDIO 0,1 + 9 MG/ML SOLUÇÃO NASAL 30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5514007173838e20a51b"
+  },
+  "code": "BR0270457",
+  "description": "DEXAMETASONA, FOSFATO DISSÓDICO + NEOMICINA 1 + 3,5 MG/ML SOLUÇÃO OFTÁLMICA 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5514007173838e20a51c"
+  },
+  "code": "BR0274568",
+  "description": "VITAMINAS DO COMPLEXO B (B7,B9,B12) SOLUÇÃO INJETÁVEL  "
+},
+{
+  "_id": {
+    "$oid": "685b5514007173838e20a51d"
+  },
+  "code": "BR0279269U0042",
+  "description": "VARFARINA SÓDICA  5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5514007173838e20a51e"
+  },
+  "code": "BR0281135U0062",
+  "description": "AMOXICILINA + CLAVULANATO DE POTÁSSIO 50 MG+ 12,5 MG/ML SUSPENSÃO ORAL  100 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5514007173838e20a51f"
+  },
+  "code": "BR0395620U0041",
+  "description": "GLYCINE MAX (ISOFLAVONA DE SOJA) 150 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5514007173838e20a520"
+  },
+  "code": "BR0396450U0041",
+  "description": "MAYTENUS ILICIFOLIA (ESPINHEIRA SANTA) 380 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5514007173838e20a521"
+  },
+  "code": "BR0437990 ",
+  "description": "PASSIFLORA INCARNATA 182,93 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5539007173838e20a522"
+  },
+  "code": "BR0233632U0067",
+  "description": "ÓLEO MINERAL (VASELINA LÍQUIDA / PETROLATO) SOLUÇÃO ORAL 120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b553a007173838e20a523"
+  },
+  "code": "BR0267208U0029",
+  "description": "ESTRIOL 1 MG/G CREME VAGINAL  50 G"
+},
+{
+  "_id": {
+    "$oid": "685b553a007173838e20a524"
+  },
+  "code": "BR0267310U0005",
+  "description": "METOCLOPRAMIDA, CLORIDRATO 5 MG/ML SOLUÇÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b553a007173838e20a525"
+  },
+  "code": "BR0267378U0067",
+  "description": "NISTATINA 100.000 UI/ML SUSPENSÃO ORAL  120  ML"
+},
+{
+  "_id": {
+    "$oid": "685b553d007173838e20a527"
+  },
+  "code": "BR0267711U0041",
+  "description": "OMEPRAZOL 10 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b553e007173838e20a528"
+  },
+  "code": "BR0267777U0086",
+  "description": "PARACETAMOL  200 MG/ML SOLUÇÃO ORAL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b553e007173838e20a529"
+  },
+  "code": "BR0268162U0030",
+  "description": "MICONAZOL, NITRATO 2 % CREME VAGINAL  60 G"
+},
+{
+  "_id": {
+    "$oid": "685b553f007173838e20a52a"
+  },
+  "code": "BR0269852U0086",
+  "description": "LIDOCAÍNA, CLORIDRATO + EPINEFRINA 20 MG/ML + 1:200.000 UI SOLUÇÃO INJETÁVEL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5540007173838e20a52b"
+  },
+  "code": "BR0270494U0388",
+  "description": "COLAGENASE + CLORANFENICOL  0,6 UI + 10 MG/G POMADA"
+},
+{
+  "_id": {
+    "$oid": "685b5540007173838e20a52c"
+  },
+  "code": "BR0270612U0162",
+  "description": "BENZILPENICILINA BENZATINA 1.200.000 UI SUSPENSÃO INJETÁVEL 4 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5540007173838e20a52d"
+  },
+  "code": "BR0272041",
+  "description": "CLOMIPRAMINA, CLORIDRATO 75 MG COMPRIMIDO DE LIBERAÇÃO PROLONGADA"
+},
+{
+  "_id": {
+    "$oid": "685b5540007173838e20a52e"
+  },
+  "code": "BR0272091",
+  "description": "VITAMINAS DO COMPLEXO B (B1,B2,B3,B5,B6) SOLUÇÃO INJETÁVEL  2 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5541007173838e20a52f"
+  },
+  "code": "BR0273167-2",
+  "description": "NEOMICINA + BACITRACINA 5 + 250 MG + UI/G POMADA 15 G"
+},
+{
+  "_id": {
+    "$oid": "685b5541007173838e20a530"
+  },
+  "code": "BR0273255",
+  "description": "OXCARBAZEPINA 6  % SUSPENSÃO ORAL  100 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5541007173838e20a531"
+  },
+  "code": "BR0273467U0110",
+  "description": "LORATADINA 1 MG/ML XAROPE  60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5541007173838e20a532"
+  },
+  "code": "BR0274567",
+  "description": "VITAMINAS DO COMPLEXO B (B1, B6, B12) SOLUÇÃO INJETÁVEL  3 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5541007173838e20a533"
+  },
+  "code": "BR0274648U0031",
+  "description": "PASTA DÁGUA PASTA  80 G"
+},
+{
+  "_id": {
+    "$oid": "685b5542007173838e20a534"
+  },
+  "code": "BR0276839U0013",
+  "description": "ÁGUA DESTILADA SOLUÇÃO INJETÁVEL 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5542007173838e20a535"
+  },
+  "code": "BR0278483",
+  "description": "VITAMINAS DO COMPLEXO B, VITAMINAS: B1, B2,B6,B12 E PP SOLUÇÃO ORAL 120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5542007173838e20a536"
+  },
+  "code": "BR0281135U0112",
+  "description": "AMOXICILINA + CLAVULANATO DE POTÁSSIO 50 MG + 12,5MG/ML SUSPENSÃO ORAL  70 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5542007173838e20a537"
+  },
+  "code": "BR0282222-1",
+  "description": "CARBOCISTEÍNA 20 MG/ML XAROPE  100 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5542007173838e20a538"
+  },
+  "code": "BR0282224-1",
+  "description": "CARBOCISTEÍNA 50 MG/ML XAROPE  100 ML "
+},
+{
+  "_id": {
+    "$oid": "685b5542007173838e20a539"
+  },
+  "code": "BR0294643",
+  "description": "IBUPROFENO 50 MG/ML SUSPENSÃO ORAL  20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5542007173838e20a53a"
+  },
+  "code": "BR0296876U0042",
+  "description": "CARBONATO DE CÁLCIO + COLECALCIFEROL  500 MG + 400 UI COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5543007173838e20a53b"
+  },
+  "code": "BR0338591",
+  "description": "METRONIDAZOL 100MG/G BISNAGA 55G"
+},
+{
+  "_id": {
+    "$oid": "685b5544007173838e20a53c"
+  },
+  "code": "BR0368499-1",
+  "description": "VITAMINAS DO COMPLEXO B (B1,B2,B3,B5,B6) DRÁGEA "
+},
+{
+  "_id": {
+    "$oid": "685b5544007173838e20a53d"
+  },
+  "code": "BR0395620U0042",
+  "description": "GLYCINE MAX (ISOFLAVONA DE SOJA) 150 MG COMP"
+},
+{
+  "_id": {
+    "$oid": "685b5544007173838e20a53e"
+  },
+  "code": "BR0397280U0062",
+  "description": "MIKANIA GLOMERATA (GUACO) 0,1 ML/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5544007173838e20a53f"
+  },
+  "code": "BR0404405",
+  "description": "PASSIFLORA INCARNATA 360 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5544007173838e20a540"
+  },
+  "code": "BR0406994",
+  "description": "PASSIFLORA INCARNATA 300 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5544007173838e20a541"
+  },
+  "code": "BR0407520U0042",
+  "description": "IVERMECTINA 3MG COMP"
+},
+{
+  "_id": {
+    "$oid": "685b5544007173838e20a542"
+  },
+  "code": "BR0439128",
+  "description": "PASSIFLORA INCARNATA 260 MG COMP REV"
+},
+{
+  "_id": {
+    "$oid": "685b5544007173838e20a543"
+  },
+  "code": "BR0600706",
+  "description": "PROMETAZINA, CLORIDRATO  50 MG/ML SOLUÇÃO INJETÁVEL 2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5551007173838e20a544"
+  },
+  "code": "BR0267378U0110",
+  "description": "NISTATINA 100.000 UI/ML SUSPENSÃO ORAL  60  ML"
+},
+{
+  "_id": {
+    "$oid": "685b555c007173838e20a545"
+  },
+  "code": "BR0368654U0004",
+  "description": "CLORETO DE SÓDIO 0,9% SOLUÇÃO INJETÁVEL 10 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5561007173838e20a546"
+  },
+  "code": "BR0267771U0042",
+  "description": "PROPRANOLOL, CLORIDRATO 10 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5568007173838e20a547"
+  },
+  "code": "BR0410023U0009",
+  "description": "DIPIRONA SÓDICA 1 G SOLUÇÃO INJETÁVEL 2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5568007173838e20a548"
+  },
+  "code": "BR0466524",
+  "description": "VITAMINAS DO COMPLEXO B, B1, B2, B3, B5, B6, B12 SOLUÇÃO ORAL 120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b556b007173838e20a549"
+  },
+  "code": "BR0267587U0061",
+  "description": "BECLOMETASONA, DIPROPIONATO 200 MCG/DOSE PÓ PARA INALAÇÃO ORAL 100 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5578007173838e20a54a"
+  },
+  "code": "BR0267590",
+  "description": "BECLOMETASONA, DIPROPIONATO 250 MCG/DOSE AEROSSOL NASAL 200 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5581007173838e20a54b"
+  },
+  "code": "BR0306361U0042",
+  "description": "CARBONATO DE CÁLCIO + COLECALCIFEROL  600 MG + 400 UI COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b558c007173838e20a54c"
+  },
+  "code": "BR0274648U0344",
+  "description": "PASTA DÁGUA PASTA  90 G"
+},
+{
+  "_id": {
+    "$oid": "685b558f007173838e20a54d"
+  },
+  "code": "BR0364324U0042",
+  "description": "HIDROCLOROTIAZIDA  12,5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b55ac007173838e20a54e"
+  },
+  "code": "BR0268292U0042",
+  "description": "ÁCIDO FOLÍNICO (FOLINATO DE CÁLCIO) 15 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b55bb007173838e20a54f"
+  },
+  "code": "BR0270785",
+  "description": "FENOTEROL, BROMIDRATO 100 MCG/DOSE AEROSSOL 200 DOSES "
+},
+{
+  "_id": {
+    "$oid": "685b55cf007173838e20a550"
+  },
+  "code": "BR0259694",
+  "description": "SULFATO FERROSO 25 MG SOLUÇÃO ORAL 120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5609007173838e20a551"
+  },
+  "code": "BR0292427U0006",
+  "description": "DEXAMETASONA, FOSFATO DISSÓDICO 4 MG/ML SOLUÇÃO INJETÁVEL AMPOLA 2,5  ML"
+},
+{
+  "_id": {
+    "$oid": "685b5628007173838e20a552"
+  },
+  "code": "BR0291702",
+  "description": "GABAPENTINA 100 MG COMPRIMIDO "
+},
+{
+  "_id": {
+    "$oid": "685b5628007173838e20a553"
+  },
+  "code": "BR0292194U0005",
+  "description": "HALOPERIDOL,  SAL DECANOATO ,50MG/ML SOLUÇÃO INJETÁVEL 1 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b562b007173838e20a554"
+  },
+  "code": "BR0485448U0042",
+  "description": "NIRMATRELVIR, ASSOCIADO AO RITONAVIR 150 MG + 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b56ad007173838e20a555"
+  },
+  "code": "BR0282222-2",
+  "description": "CARBOCISTEÍNA 20 MG/ML XAROPE  80 ML "
+},
+{
+  "_id": {
+    "$oid": "685b56b3007173838e20a556"
+  },
+  "code": "BR0267582U0084",
+  "description": "BECLOMETASONA, DIPROPIONATO 50 MCG/DOSE AEROSSOL NASAL 200 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b56c7007173838e20a557"
+  },
+  "code": "BR0271689-2",
+  "description": "ÁCIDO ASCÓRBICO 200 MG/ML SOLUÇÃO ORAL 30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b56cf007173838e20a558"
+  },
+  "code": "BR0440862U0086",
+  "description": "ALBENDAZOL 40 MG/ML SUSPENSÃO ORAL  20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b570b007173838e20a559"
+  },
+  "code": "BR0150454",
+  "description": "DISPENSER PAPEL TOALHA"
+},
+{
+  "_id": {
+    "$oid": "685b570b007173838e20a55a"
+  },
+  "code": "BR0196128",
+  "description": "TUBO EDTA PARA COLETA À VÁCUO TAMPA DE BORRACHA ROXA, 04ML, 13X75MM"
+},
+{
+  "_id": {
+    "$oid": "685b570b007173838e20a55b"
+  },
+  "code": "BR0235291",
+  "description": "LUVA BORRACHA, LÁTEX NATURAL, EXTRA GRANDE, PALMA ANTIDERRAPANTE, INTERIOR LISO E TALCADO, MULTIUSO"
+},
+{
+  "_id": {
+    "$oid": "685b570b007173838e20a55c"
+  },
+  "code": "BR0237681",
+  "description": "ESFIGMOMANÔMETRO, ANERÓIDE, BRAÇADEIRA COM FECHO EM VELCRO E ESTOJO-INFANTIL"
+},
+{
+  "_id": {
+    "$oid": "685b570b007173838e20a55d"
+  },
+  "code": "BR0250271",
+  "description": " CUNHA ODONTOLÓGICA, MADEIRA, ANATÔMICA, RESTAURAÇÃO ODONTOLÓGICA, COLORIDA"
+},
+{
+  "_id": {
+    "$oid": "685b570d007173838e20a55e"
+  },
+  "code": "BR0267746U0042",
+  "description": "SINVASTATINA  10 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b570d007173838e20a55f"
+  },
+  "code": "BR0268236U0033",
+  "description": "CLORETO DE SÓDIO 0,9% SOLUÇÃO INJETÁVEL 1000 ML SISTEMA FECHADO"
+},
+{
+  "_id": {
+    "$oid": "685b570d007173838e20a560"
+  },
+  "code": "BR0268237-4",
+  "description": "CLORETO DE SÓDIO 0,9% SUSPENSÃO INJETÁVEL 500 ML"
+},
+{
+  "_id": {
+    "$oid": "685b570e007173838e20a562"
+  },
+  "code": "BR0268414U0118",
+  "description": "CEFTRIAXONA SÓDICA 1G PÓ PARA SOLUÇÃO INJETÁVEL   IV"
+},
+{
+  "_id": {
+    "$oid": "685b570e007173838e20a563"
+  },
+  "code": "BR0269943U0171",
+  "description": "ÁLCOOL ETÍLICO 70% GEL 500G"
+},
+{
+  "_id": {
+    "$oid": "685b570f007173838e20a564"
+  },
+  "code": "BR0269946",
+  "description": "LUVA CIRÚRGICA, 6,5,LÁTEX, ESTÉRIL, COMPRIMENTO MÍN.28CM, LUBRIFICADA C/PÓ BIOABSORVÍVEL,ATÓXICA, DESCART, ANATÔMICO"
+},
+{
+  "_id": {
+    "$oid": "685b570f007173838e20a565"
+  },
+  "code": "BR0269947",
+  "description": "LUVA CIRÚRGICA, LÁTEX NATURAL,8,50, ESTÉRIL, COMPRIMENTO MÍNIMO DE 28CM, LUBRIFICADA C/ PÓ BIOABSORVÍVEL,ATÓXICA, DESCARTÁVEL, ANATÔMICO, CONFORME NORMA ABNT C/ ABERTURA ASSÉPTICA ,"
+},
+{
+  "_id": {
+    "$oid": "685b570f007173838e20a567"
+  },
+  "code": "BR0271154U0137",
+  "description": "INSULINA HUMANA REGULAR 100 UI/ML SOLUÇÃO INJETÁVEL 3 ML"
+},
+{
+  "_id": {
+    "$oid": "685b570f007173838e20a568"
+  },
+  "code": "BR0271157U0137",
+  "description": "INSULINA HUMANA NPH 100 UI/ML SUSPENSÃO INJETÁVEL 3 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a569"
+  },
+  "code": "BR0274396",
+  "description": "PAPEL GRAU CIRÚRGICO, 20 CM X 100 M"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a56a"
+  },
+  "code": "BR0274398",
+  "description": "PAPEL GRAU CIRÚRGICO, 15 CM X 100 M "
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a56b"
+  },
+  "code": "BR0274735",
+  "description": "PINCEL USO ODONTOLÓGICO, NÁILON, FINA, PLÁSTICO, ARTICULÁVEL E DESCARTÁVEL  "
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a56c"
+  },
+  "code": "BR0275238-5",
+  "description": "GEL CONDUTOR PARA ULTRASSONOGRAFIA 5 KG"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a56d"
+  },
+  "code": "BR0276342",
+  "description": "LUVA CIRÚRGICA, LÁTEX NATURAL, 7, ESTÉRIL, COMPRIMENTO MÍNIMO DE 28CM, LUBRIFICADA C/ PÓ BIOABSORVÍVEL, ATÓXICA, DESCARTÁVEL, ANATÔMICO, ANTIDERRAPANTE, CONFORME NORMA ABNT C/ ABERTURA ASSÉPTICA"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a56e"
+  },
+  "code": "BR0277016",
+  "description": "SONDA FOLEY Nº12, 2 VIAS, BALÃO 30 ML, LÁTEX SILICONIZADO, VÁLVULA BORRACHA P/ AS SERINGAS, FUNIL DRENAGEM C /CONEXÃO PADRÃO A COLETORES"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a56f"
+  },
+  "code": "BR0277018",
+  "description": "SONDA FOLEY Nº 16, 2 VIAS, BALÃO 30 ML, LÁTEX SILICONIZADO, VÁLVULA BORRACHA P/TODAS AS SERINGAS, FUNIL DRENAGEM C/CONEXÃO PADRÃO A COLETORES"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a570"
+  },
+  "code": "BR0277019",
+  "description": "SONDA FOLEY Nº 18, 2 VIAS, BALÃO 30 ML, LÁTEX SILICONIZADO, VÁLVULA BORRACHA P/TODAS OS TAMANHOS SERINGA, FUNIL DRENAGEM C/CONEXÃO PADRÃO A COLETORES"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a571"
+  },
+  "code": "BR0278497",
+  "description": "ESCALPE 23, PVC, CONECTOR LUER CÔNICO RÍGIDO, BISEL TRIFACETADO"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a572"
+  },
+  "code": "BR0278499",
+  "description": "ESCALPE 21, PVC, CONECTOR LUER CÔNICO RÍGIDO, BISEL TRIFACETADO"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a573"
+  },
+  "code": "BR0279297-2",
+  "description": "NISTATINA + ÓXIDO DE ZINCO 100.000 + 200 UI + MG/G CREME  60 G"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a574"
+  },
+  "code": "BR0279403",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 5 ML, BICO SIMPLES, ÊMBOLO C/PONTEIRA DE BORRACHA SILICONIZADA, DESCART,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a575"
+  },
+  "code": "BR0279407",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 3 ML, BICO SIMPLES, ÊMBOLO C/PONTEIRA DE BORRACHA SILICONIZADA,DESCART,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a576"
+  },
+  "code": "BR0279629",
+  "description": "AGULHA, HIPODÉRMICA,25 X 6,CORPO EM AÇO INÓX SILICONIZADO,BISEL CURTO TRIFACETADO,CONECTOR EM PLÁSTICO LUER, PROTETOR PLÁSTICO,ESTÉRIL,DESCART."
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a577"
+  },
+  "code": "BR0279631",
+  "description": "AGULHA, HIPODÉRMICA,25 X 8,CORPO EM AÇO INÓX SILICONIZADO,BISEL CURTO TRIFACETADO,CONECTOR EM PLÁSTICO LUER, PROTETOR PLÁSTICO, ESTÉRIL,DESCART."
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a578"
+  },
+  "code": "BR0279632",
+  "description": "AGULHA, HIPODÉRMICA,30 X 7,CORPO EM AÇO INÓX SILICONIZADO,BISEL CURTO TRIFACETADO,CONECTOR EM PLÁSTICO LUER, PROTETOR PLÁSTICO,ESTÉRIL,DESCART."
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a579"
+  },
+  "code": "BR0279633",
+  "description": "AGULHA, HIPODÉRMICA,30 X 8,CORPO EM AÇO INÓX SILICONIZADO,BISEL CURTO TRIFACETADO,CONECTOR EM PLÁSTICO LUER, PROTETOR PLÁSTICO,ESTÉRIL,DESCART."
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a57a"
+  },
+  "code": "BR0279643",
+  "description": "AGULHA, GENGIVAL, 27G CURTA, CORPO EM AÇO INÓX SILICONIZADO, BISEL TRIFACETADO, ADAPTÁVEL À SERINGA CARPULE,PROTETOR PLÁSTICO, ESTÉRIL, DESCARTÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5710007173838e20a57b"
+  },
+  "code": "BR0279892",
+  "description": "FRASCO - TIPO ALMOTOLIA, 500 ML, EM POLIETILENO (PLÁSTICO), BICO CURVO,ÂNGULO DE 90º PARTE MEDIAL, C/PROTETOR, TAMPA EM ROSCA, TRANSPARENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a57c"
+  },
+  "code": "BR0293086-2",
+  "description": "FITA ADESIVA MICROPOROSA, 50 MM X 4,5 M, BRANCA, HIPO-ALERGÊNICA "
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a57d"
+  },
+  "code": "BR0299981",
+  "description": "FITA ADESIVA, MICROPOROSA, NÃO TECIDO DE VISCOSE RAYON, BRANCA, 100 MM, 4,5 M, C/ ADESIVO ACRÍLICO HIPO-ALERGÊNICO"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a57f"
+  },
+  "code": "BR0312235",
+  "description": "EQUIPO SORO, GOTEJADOR PADRÃO (20GTS/ML DE SOL.), PVC, PINÇA ROLETE E TAMPA, MACROGOTAS, EMBALADO EM PAPEL GRAU CIRÚRGICO, APIROGÊNICO, DESCART, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a580"
+  },
+  "code": "BR0313379",
+  "description": "MÁSCARA N95, CLASSE PFF-2"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a581"
+  },
+  "code": "BR0332343",
+  "description": "FITA ADESIVA, PARA ESTERILIZAÇÃO A VAPOR, 19MM X 30M INDICADOR QUÍMICO, CLASSE I, EXTERNO"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a582"
+  },
+  "code": "BR0332930",
+  "description": "TOUCA, DESCARTÁVEL, POLIPROPILENO, BRANCA, TAMANHO ÚNICO C/ ELÁSTICO"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a583"
+  },
+  "code": "BR0337686",
+  "description": "ADESIVO CIRURGICO, FITA MICROPOROSA COM DISCO TECIDO AGULHADO, PROTEGIDO POR PAPEL SILICONADO, PICOTADO EM 500UN, P/ USO EM PÓS PUNÇÃO VENOSA,ABSORVENTE 2,5 X 2,5 CM BEGE "
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a584"
+  },
+  "code": "BR0339353",
+  "description": "GARROTE, BORRACHA SINTÉTICA, ISENTO DE LÁTEX               "
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a585"
+  },
+  "code": "BR0340798",
+  "description": "SONDA FOLEY Nº20, 3 VIAS, BALÃO 30 ML, LÁTEX SILICONIZADO, VÁLVULA BORRACHA P/ AS SERINGAS, FUNIL DRENAGEM C /CONEXÃO PADRÃO A COLETORES"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a586"
+  },
+  "code": "BR0341174U0060",
+  "description": "CLOREXIDINA, DIGLUCONATO 0,12 % COLUTÓRIO 1000 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a587"
+  },
+  "code": "BR0344012",
+  "description": "ADAPTADOR, C/RETRAÇÃO AUTOMÁTICA DA AGULHA P/DENTRO SUPORTE, COLETA SANGUE À VÁCUO, TAMPA VEDAÇÃO, S/LATÉX, ATÓXICA, DESCARTÁVEL, ESTÉRIL, POLIPROPILENO TRANSPARENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a588"
+  },
+  "code": "BR0348807",
+  "description": "ABAIXADOR LÍNGUA, MADEIRA, 14 CM, TIPO ESPÁTULA, 1,50CM, 2 MM"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a589"
+  },
+  "code": "BR0356509U0140",
+  "description": "PRESERVATIVO FEMININO, BORRACHA NITRÍLICA, COMPRIMENTO 17 CM, ESPESSURA DE 0,041 A 0,061 MM, ARGOLA FLEXÍVEL INTERNA E EXTERNA, SILICONIZADA,S/ODOR E MACIO"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a58a"
+  },
+  "code": "BR0361758",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 6 CM, 180 CM, EM REPOUSO, 13 UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a58b"
+  },
+  "code": "BR0361766",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 20 CM, 180 CM, EM REPOUSO, 13 UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5711007173838e20a58c"
+  },
+  "code": "BR0367401",
+  "description": "COLETOR URINA, POLIETILENO, ATÓXICO, GRADUADO, NÃO ESTÉRIL, COM CORDÃO, DESCARTÁVEL, 2.000ML"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a58d"
+  },
+  "code": "BR0371273-1",
+  "description": "CLORETO DE SÓDIO 0,9% SOLUÇÃO 100 ML NÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a58e"
+  },
+  "code": "BR0373715",
+  "description": "FIXADOR CITOLÓGICO (REAGENTE PARA DIAGNÓSTICO CLÍNICO, SOLUÇÃO PARA FIXAÇÃO DE LÂMINA, À BASE DE ÁLCOOL ETÍLICO E POLIETILENOGLICOL) SPRAY 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a58f"
+  },
+  "code": "BR0373715-1",
+  "description": "FIXADOR CITOLÓGICO (REAGENTE PARA DIAGNÓSTICO CLÍNICO, SOLUÇÃO PARA FIXAÇÃO DE LÂMINA, À BASE DE ÁLCOOL ETÍLICO E POLIETILENOGLICOL) SPRAY 30 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a590"
+  },
+  "code": "BR0375911",
+  "description": "TUBO , PLÁSTICO, 5 ML, COM ATIVADOR DE COÁGULO E GEL SEPARADOR, COLETA DE SANGUE, À VÁCUO, ESTÉRIL, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a591"
+  },
+  "code": "BR03817720055",
+  "description": "TUBO PARA COLETA DE AMOSTRA BIOLÓGICA , PLÁSTICO, 1,8 ML, COM CITRATO DE SÓDIO 3,8%, MICROCOLETA DE SANGUE, À V ÁCUO, ESTÉRIL, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a592"
+  },
+  "code": "BR0383602",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 10 CM, 125 CM, EM REPOUSO, 13 FIOS UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a593"
+  },
+  "code": "BR0383605",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 30 CM, 125 CM, EM REPOUSO, 13 FIOS UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a594"
+  },
+  "code": "BR0386123",
+  "description": "EQUIPO DE INFUSÃO, PVC CRISTAL, MÍN. 120 CM, CÂMARA FLEXÍVEL C/FILTRO AR, GOTA PADRÃO, REGULADOR DE FLUXO, LUER C/ TAMPA, FOTOSSENSÍVEL, ESTÉRIL, DESCARTÁVEL "
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a595"
+  },
+  "code": "BR0386361",
+  "description": "EQUIPO, P/ IRRIGAÇÃO, QUATRO VIAS, MATERIAL PVC CRISTAL, PONTEIRA PONTA PERFURANTE C/ CÂMARA C/ TAMPA, PINÇA CORTA FLUXO CENTRAL, E TODAS VIAS, CONECTOR LUER C/ TAMPA, ESTÉRIL, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a596"
+  },
+  "code": "BR0389338U0140",
+  "description": "LANCETA, AÇO INOXIDÁVEL, TRIFACETADA, ULTRA FINA, DESCARTÁVEL, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a597"
+  },
+  "code": "BR0391135U0106",
+  "description": "ADESIVO DENTAL, FOTOPOLIMERIZÁVEL, MONOCOMPONENTE, FRASCO 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a598"
+  },
+  "code": "BR0392353",
+  "description": "COLETOR MATERIAL PÉRFURO-CORTANTE, POLIPROPILENO, 7 L, ALÇAS RÍGIDAS E TAMPA, DESCARTÁVEL, ATÓXICO, APIROGÊNICO "
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a599"
+  },
+  "code": "BR0397510",
+  "description": "AGULHA HIPODÉRMICA, 20 X 0,55 AÇO INOXIDÁVEL SILICONIZADO, 24 G X 3/4\", BISEL CURTO TRIFACETADO, CONECTOR LUER LOCK EM PLÁSTICO, PROTETOR PLÁSTICO, COM SISTEMA SEGURANÇA SEGUNDO NR/32, ESTÉRIL, DESCARTÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a59a"
+  },
+  "code": "BR0397513",
+  "description": "AGULHA HIPODÉRMICA, 13 X 0,45 AÇO INOXIDÁVEL SI LICONIZADO, 26 G X 1/2\", BISEL CURTO TRIFACETADO, CONECTOR LUER LOCK EM   PLÁSTICO, PROTETOR PLÁSTICO, COM SISTEMA SEGURANÇA SEGUNDO NR/32, ESTÉ  RIL, DESCARTÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a59b"
+  },
+  "code": "BR0402948",
+  "description": "BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, ESFÉRICA, HASTE REGULAR, CORTE MÉDIO 1015 "
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a59c"
+  },
+  "code": "BR0403153",
+  "description": " BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, PÊRA, HASTE REGULAR, CORTE EXTRA FINO, REF. 3168FF"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a59d"
+  },
+  "code": "BR0403371",
+  "description": " BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, ESFÉRICA, HASTE LONGA, CIRÚRGICA, 1011"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a59e"
+  },
+  "code": "BR0403373",
+  "description": "BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, ESFÉRICA, HASTE LONGA, CIRÚRGICA 1014 "
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a59f"
+  },
+  "code": "BR0404343",
+  "description": "ÓCULOS PROTEÇÃO, POLICARBONATO E NYLON, LATERAL, ANTI-RISCO, ANTI-EMBAÇANTE, COR LENTE: INCOLOR, APLICAÇÃO: LABORATÓRIO, PROTEÇÃO UV, AMPLO CAMPO VISUAL, AJUSTE NA TESTA, POLICARBONATO, PRETA"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a5a0"
+  },
+  "code": "BR0404546",
+  "description": "CIMENTO ODONTOLÓGICO, OBTURADOR PROVISÓRIO, SEM FLÚOR, PASTA ÚNICA  ,"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a5a1"
+  },
+  "code": "BR0404562",
+  "description": " HIDRÓXIDO DE CÁLCIO, CIMENTO, BASE + CATALISADOR, CONJUNTO COMPLETO"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a5a2"
+  },
+  "code": "BR0404644",
+  "description": " BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, ESFÉRICA, HASTE LONGA, CORTE MÉDIO, 1013"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a5a3"
+  },
+  "code": "BR0404892",
+  "description": "ESCOVA DE ROBSON, CÔNICA, CONTRA-ÂNGULO, BRANCA  ,"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a5a4"
+  },
+  "code": "BR0405739",
+  "description": "CONJUNTO PARA PAPANICOLAU: 1 ESPÉCULO VAGINAL MÉDIO, 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 PINÇA CHERON, 1 LÂMINA COM FRASCO DE TRANSPORTE, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a5a5"
+  },
+  "code": "BR0406283",
+  "description": "TIRA ABRASIVA, AÇO INOXIDÁVEL + ÓXIDO DE ALUMÍNIO, CENTRO NEUTRO, CERCA DE 150 MM, 4 MM, ENVELOPE C/ 12 UNIDADES, ESTÉRIL, DESCARTÁVEL  "
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a5a6"
+  },
+  "code": "BR0406646",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 5 ML, COM SISTEMA SEGURANÇA SEGUNDO NR/32, IMPRESSÃO LEGÍVEL E PERMANENTE, GRADUAÇÃO MÁXIMA 0,2 EM 0,2 ML, NUMERADA, C/ AGULHA 25 X 0,7 MM, BISEL TRIFACETADO, PROTETOR PLÁSTICO, DESCARTÁVEL,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a5a7"
+  },
+  "code": "BR0411827",
+  "description": "AGULHA DESCARTÁVEL, AÇO INOXIDÁVEL, 4 MM, 32 G, CANETA APLICADORA DE INSULINA, ESTÉRIL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5712007173838e20a5a8"
+  },
+  "code": "BR0412492",
+  "description": "SACO PLÁSTICO LIXO, 100 L, BRANCO LEITOSO, 75 CM, 105 CM, COM SIMBOLOGIA DE SUBSTÂNCIA INFECTANTE, CLASSE II - NBR 9191, RESINA TERMOPLÁSTICA"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5a9"
+  },
+  "code": "BR0414674",
+  "description": "TERMOMETRO DIGITAL MAXIMA E MINIMA INTERNO/EXTERNO"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5aa"
+  },
+  "code": "BR0422890",
+  "description": "BANDAGEM ELÁSTICA, MATERIAL FITA MICROPOROSA, TIPO PROTEGIDO POR PAPEL SILICONADO, HIPO-ALÉRGICO, LARGURA 2,5, COMPRIMENTO 12,5, COR COM COR, CARACTERÍSTICAS ADICIONAIS COM FIBRAS ELÁSTICAS"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5ab"
+  },
+  "code": "BR0432919",
+  "description": "ESTANTE TUBO ENSAIO, PLÁSTICO, PARA TUBOS ATÉ 20 MM, ATÉ 60 UNIDADES, IDENTIFICAÇÃO ALFA-NUMÉRICA"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5ac"
+  },
+  "code": "BR0433639",
+  "description": "TUBO , PLÁSTICO, 2 ML, COM FLUORETO D  E SÓDIO E EDTA, COLETA DE SANGUE, À VÁCUO, ESTÉRIL, DESCARTÁVE"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5ad"
+  },
+  "code": "BR0434031",
+  "description": "FRASCO - TIPO ALMOTOLIA, 300 ML, EM POLIETILENO (PLÁSTICO), BICO CURVO, ÂNGULO DE 90º PARTE MEDIAL, C/PROTETOR, TAMPA EM ROSCA, TRANSPARENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5ae"
+  },
+  "code": "BR0436058",
+  "description": "INDICADOR BIOLÓGICO, SEGUNDA GERAÇÃO, AUTOCONTIDO, AMPOLA COM MEIO DE CULTURA, BACILLUS STEAROTHERMOPHILLUS, RESPOSTA EM 24 HORAS, PARA ESTERILIZAÇÃO A VAPOR"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5af"
+  },
+  "code": "BR0436312",
+  "description": "FRASCO COLETOR, UNIVERSAL, PLÁSTICO   RANSPARENTE, CERCA DE 50 ML, TAMPA ROSQUEÁVEL, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5b0"
+  },
+  "code": "BR0437156U0105",
+  "description": "HIPOCLORITO DE SÓDIO 2,0 A 2,5 % SOLUÇÃO 50 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5b1"
+  },
+  "code": "BR0439444",
+  "description": "MONITOR PORTÁTIL, TIRA TESTE, ENTRADA USB, ATÉ 500 MG/DL, QUANTITATIVO DE GLICOSE, LÍQUIDO INTERSTICIAL, CERCA DE 90 DIAS, DIGITAL, À BATERIA"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5b3"
+  },
+  "code": "BR284614",
+  "description": "SERINGA 1 ML POLIPROPILENO + AGULHA 13 MM X 3 MM LUER SLIP"
+},
+{
+  "_id": {
+    "$oid": "685b5713007173838e20a5b4"
+  },
+  "code": "BR525432",
+  "description": "PRESERVATIVO MASCULINO LÁTEX LUBRIFICADO 53MM"
+},
+{
+  "_id": {
+    "$oid": "685b573e007173838e20a5b5"
+  },
+  "code": "BR0273621",
+  "description": "SULFATO FERROSO (60MG DE FERRO ELEMENTAR) 300 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5740007173838e20a5b6"
+  },
+  "code": "BR0394662-1",
+  "description": "NEOMICINA 5 MG/G POMADA 10G"
+},
+{
+  "_id": {
+    "$oid": "685b5750007173838e20a5b7"
+  },
+  "code": "BR0313628",
+  "description": "LÂMINA BISTURI Nº 12, AÇO CARBONO, DESCARTÁVEL, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5750007173838e20a5b8"
+  },
+  "code": "BR0317676",
+  "description": "FRASCO COLETOR PARA EXAME, PLÁSTICO, DESCARTÁVEL, 50 A 80 ML, ESTÉRIL, COLETA DE URINA"
+},
+{
+  "_id": {
+    "$oid": "685b5750007173838e20a5b9"
+  },
+  "code": "BR0389087",
+  "description": " POLIHEXANIDA  0,1% SOLUÇÃO AQUOSA"
+},
+{
+  "_id": {
+    "$oid": "685b5751007173838e20a5ba"
+  },
+  "code": "BR0406272",
+  "description": "CONJUNTO PARA PAPANICOLAU: 1 ESPÉCULO VAGINAL PEQUENO, 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 PINÇA CHERON, ESTÉRIL "
+},
+{
+  "_id": {
+    "$oid": "685b5751007173838e20a5bb"
+  },
+  "code": "BR0406273",
+  "description": "CONJUNTO PARA PAPANICOLAU: 1 ESPÉCULO VAGINAL MÉDIO, 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 PINÇA CHERON, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5757007173838e20a5bd"
+  },
+  "code": "BR0275572",
+  "description": "MÁSCARA CIRÚRGICA, NÃO TECIDO,3 CAMADAS,PREGAS HORIZONTAIS,ATÓXICA, COM ELÁSTICO, CLIP NASAL EMBUTIDO,HIPOALERGÊNICA, BRANCA, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5758007173838e20a5be"
+  },
+  "code": "BR0282636",
+  "description": "CATETER INTRAVENOSO 14 G, VIALON OU POLIURETANO, PERIFÉRICO, C/ AGULHA, BISEL TRIFACETADO, SILICONIZADO, CÂMARA REFLUXO, RADIOPACO, ESTÉRIL "
+},
+{
+  "_id": {
+    "$oid": "685b5758007173838e20a5bf"
+  },
+  "code": "BR0299414",
+  "description": "FIO SUTURA, CATGUT SIMPLES S/ AGULHA, 2-0, 150 CM, 1/2 CÍRCULO CILÍNDRICA, 4,0 CM, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5759007173838e20a5c0"
+  },
+  "code": "BR0320817",
+  "description": "ALGODÃO HIDRÓFILO, 500G, SANFONADO, BRANCA"
+},
+{
+  "_id": {
+    "$oid": "685b5759007173838e20a5c1"
+  },
+  "code": "BR0373324",
+  "description": "CAIXA TÉRMICA, POLIURETANO EXPANDIDO, 35 KG/M3,15 L, TAMPA ARTICULADA/TRINCO EMBUTIDO/ALÇA DUPLA/DRENO"
+},
+{
+  "_id": {
+    "$oid": "685b5759007173838e20a5c2"
+  },
+  "code": "BR0397505",
+  "description": "AGULHA HIPODÉRMICA, 25 X 0,7 AÇO INOXIDÁVEL SLICONIZADO, 22 G X 1\", BISEL CURTO TRIFACETADO, CONECTOR LUER LOCK EM   LÁSTICO, PROTETOR PLÁSTICO, COM SISTEMA SEGURANÇA SEGUNDO NR/32, ESTÉRL, DESCARTÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b575a007173838e20a5c3"
+  },
+  "code": "BR0406691",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 3 ML, COM SISTEMA SEGURANÇA SEGUNDO NR/32, IMPRESSÃO LEGÍVEL E PERMANENTE, GRADUAÇÃO MÁXIMA 0,2 EM 0,2 ML, NUMERADA, C/ AGULHA 20 X 0,55 MM, BISEL TRIFACETADO, PROTETOR PLÁSTICO, DESCARTÁVEL,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b575a007173838e20a5c4"
+  },
+  "code": "BR0406692",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 3 ML, COM SISTEMA SEGURANÇA SEGUNDO NR/32, IMPRESSÃO LEGÍVEL E PERMANENTE, GRADUAÇÃO MÁXIMA 0,2 EM 0,2 ML, NUMERADA, C/ AGULHA 13 X 0,45 MM, BISEL TRIFACETADO, PROTETOR PLÁSTICO, DESCARTÁVEL,ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5762007173838e20a5c5"
+  },
+  "code": "BR0350445",
+  "description": "ESCALPE, 25 G, TUBO PVC, ASAS LEVES,FLEXÍVEIS,CONECTOR LUER CÔNICO RÍGIDO, COLETA SANGUE VÁCUO,ADAPTADOR LUER COLETA MÚLTIPLA, ESTÉRIL, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b576b007173838e20a5c6"
+  },
+  "code": "BR0372340",
+  "description": "TUBO , PLÁSTICO, 4 ML, COM EDTA-K3, COLETA DE SANGUE, À VÁCUO, ESTÉRIL, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b576c007173838e20a5c7"
+  },
+  "code": "BR0389338-5",
+  "description": "LANCETA, 23GX2.0MM, CORPO PLÁSTICO, PONTA EM AÇO INOXIDÁVEL, DESCARTÁVEL, ESTÉRIL, EMBALAGEM INDIVIDUAL, TAMPA PROTETORA, DE SEGURANÇA"
+},
+{
+  "_id": {
+    "$oid": "685b576c007173838e20a5c8"
+  },
+  "code": "BR0405738",
+  "description": "CONJUNTO PARA PAPANICOLAU: 1 ESPÉCULO VAGINAL PEQUENO, 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 PINÇA CHERON, 1 LÂMINA COM FRASCO DE TRANSPORTE, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b577c007173838e20a5c9"
+  },
+  "code": "BR0279030",
+  "description": "FIO DE SUTURA, NYLON MONOFILAMENTO 1-0, PRETO, 45 CM, COM AGULHA 3/8 CÍRCULO CILÍNDRICA, 4 CM, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b577c007173838e20a5ca"
+  },
+  "code": "BR0281323",
+  "description": "FIO DE SUTURA, NYLON MONOFILAMENTO 2-0, PRETO, 45 CM, COM AGULHA 3/8 CÍRCULO CORTANTE, 4 CM, ESTÉRIL   "
+},
+{
+  "_id": {
+    "$oid": "685b577d007173838e20a5cb"
+  },
+  "code": "BR0294765",
+  "description": "FIO DE SUTURA, NYLON MONOFILAMENTO 4-0, INCOLOR, 45 CM, COM AGULHA 3/8 CÍRCULO CORTANTE, 2 CM, ESTÉRIL  "
+},
+{
+  "_id": {
+    "$oid": "685b577d007173838e20a5cc"
+  },
+  "code": "BR0321570",
+  "description": "COLETOR MATERIAL PERFURANTE - CORTANTE, RESISTENTE À PERFURAÇÕES,INTERNAMENTE IMPERMEÁVEL, 13 L, AMARELA, C/SIMBOLOGIA"
+},
+{
+  "_id": {
+    "$oid": "685b577d007173838e20a5cd"
+  },
+  "code": "BR0339565",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO, QUANTITATIVO DE GLICOSE, CAPILAR, TIRA"
+},
+{
+  "_id": {
+    "$oid": "685b577d007173838e20a5ce"
+  },
+  "code": "BR0363483",
+  "description": "COLETOR MATERIAL PÉRFURO-CORTANTE, PAPELÃO, 3 L, ALÇAS RÍGIDAS E TAMPA, REVESTIMENTO INTERNO EM POLIETILENO ALTA DENSIDADE, DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b577f007173838e20a5cf"
+  },
+  "code": "BR0432469",
+  "description": "ESFIGMOMANÔMETRO, AJUSTE ANALÓGICO, ANERÓIDE, TIPO* DE BRAÇO, FAIXA DE OPERAÇÃO ATÉ 300, MATERIAL BRAÇADEIRA EM NYLON, FECHO EM METAL, TAMANHO ADULTO"
+},
+{
+  "_id": {
+    "$oid": "685b578d007173838e20a5d0"
+  },
+  "code": " BR0270453",
+  "description": "COMPRESSA GAZE, TECIDO 100% ALGODÃO, 13 FIOS/CM2, COR BRANCA,ISENTA DE IMPUREZAS, 8 CAMADAS, 15 CM, 10 CM, 5 DOBRAS, ESTÉRIL,DESCARTÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b578e007173838e20a5d1"
+  },
+  "code": "BR0271360",
+  "description": "CARBONATO DE CÁLCIO + LACTOGLICONATO DE CÁLCIO 1000 MG COMPRIMIDO EFERVESCENTE "
+},
+{
+  "_id": {
+    "$oid": "685b5799007173838e20a5d2"
+  },
+  "code": "BR0296529",
+  "description": "SACO PLÁSTICO LIXO, 50 L, BRANCA, PEÇA ÚNICA, 63 CM X 80 CM, LEITOSO, 3 MICRA, SÍMBOLO DE SUBSTÂNCIA INFECTANTE, HOSPITALAR"
+},
+{
+  "_id": {
+    "$oid": "685b57a0007173838e20a5d3"
+  },
+  "code": "BR0269876U0060",
+  "description": "CLOREXIDINA, DIGLUCONATO 2 % SOLUÇÃO 1000 ML"
+},
+{
+  "_id": {
+    "$oid": "685b57a2007173838e20a5d4"
+  },
+  "code": "BR0279900",
+  "description": "FRASCO - TIPO ALMOTOLIA, 500 ML, EM POLIETILENO (PLÁSTICO), BICO CURVO,ÂNGULO DE 90º PARTE MEDIAL, C/PROTETOR, TAMPA EM ROSCA, ÂMBAR"
+},
+{
+  "_id": {
+    "$oid": "685b57a4007173838e20a5d5"
+  },
+  "code": "BR0383600",
+  "description": "ATADURA, CREPOM, 100% ALGODÃO, 6 CM, 125 CM, EM REPOUSO, 13 FIOS UN/CM², EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b57a4007173838e20a5d6"
+  },
+  "code": "BR0431085",
+  "description": "SUPORTE, MATERIAL METAL, APLICAÇÃO COLETOR DE PERFUROCORTANTE, 13 L"
+},
+{
+  "_id": {
+    "$oid": "685b57a4007173838e20a5d7"
+  },
+  "code": "BR0433911-1",
+  "description": "GEL HIDRATANTE P/ FERIDAS A BASE DE ALGINATO C/ HIDROGEL"
+},
+{
+  "_id": {
+    "$oid": "685b57a4007173838e20a5d8"
+  },
+  "code": "BR0437156U0110",
+  "description": "HIPOCLORITO DE SÓDIO 2,0 A 2,5 % SOLUÇÃO 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b57a5007173838e20a5d9"
+  },
+  "code": "NT189",
+  "description": "SUPLEMENTO DE FERRO, ZINCO E VITAMINAS A E D. USO PEDIATRICO A PARTIR DE 7 MESES. SUSPENSÃO ORAL FR 60 ML"
+},
+{
+  "_id": {
+    "$oid": "685b57e7007173838e20a5da"
+  },
+  "code": "BR0334703",
+  "description": "AGULHA DESCARTÁVEL, INOX, 25 X 6, C/PROTETOR PLÁSTICO, IDENT.COR UNIVERSAL, HIPODÉRMICA, CURTO, TRIFACETADO, C/PAREDES FINAS, ESTÉRIL, ATÓXICA, SILICONIZADA"
+},
+{
+  "_id": {
+    "$oid": "685b57ec007173838e20a5db"
+  },
+  "code": "BR0389770",
+  "description": "VÁLVULA REGULADORA CILINDRO GÁS, MANUAL, MANÔMETRO E FLUXOMETRO, PARA OXIGÊNIO"
+},
+{
+  "_id": {
+    "$oid": "685b57ed007173838e20a5dc"
+  },
+  "code": "BR0444337",
+  "description": "DEXAMETASONA  1 MG/ML SUSPENSÃO OFTÁLMICA 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b57f5007173838e20a5dd"
+  },
+  "code": "BR0442480",
+  "description": "EMBALAGEM P, ESTERILIZAÇÃO,  PAPEL GRAU CIRÚRGICO, C, FILME POLÍMERO MULTILAMINADO, GRAMATURA ,CERCA DE 60 G,M2, ENVELOPE, AUTOSSELANTE, CERCA DE 25 X 35 CM, C/ INDICADOR QUÍMICO, USO ÚNICO"
+},
+{
+  "_id": {
+    "$oid": "685b57fa007173838e20a5de"
+  },
+  "code": "BR0408849U0170",
+  "description": "DEXAMETASONA 2 MG/ML SOLUÇÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5801007173838e20a5df"
+  },
+  "code": "BR0436010",
+  "description": "SONDA TRATO URINÁRIO, FOLEY, BORRACHA  , 20 FRENCH, 2 VIAS, CONECTORES PADRÃO, C/ BALÃO CERCA 30 ML, PONTA DIS  TAL CILÍNDRICA FECHADA, C/ ORIFÍCIOS LATERAIS, ESTÉRIL, DESCARTÁVEL, EM  BALAGEM INDIVIDUAL            "
+},
+{
+  "_id": {
+    "$oid": "685b5805007173838e20a5e0"
+  },
+  "code": "BR0240609",
+  "description": "EQUIPO, PARA INFUSÃO VENOSA, POLIETILENO, 120 CM, INCOLOR, DESCARTÁVEL, COM MACROGOTAS, APIROGÊNICO, COM PONTA VAZADORA"
+},
+{
+  "_id": {
+    "$oid": "685b5809007173838e20a5e1"
+  },
+  "code": "BR0272020",
+  "description": "COMPRESSA GAZE 91 CM X 91 CM, TIPO QUEIJO, 13 FIOS, 8 CAMADAS, 4 DOBRAS"
+},
+{
+  "_id": {
+    "$oid": "685b580c007173838e20a5e2"
+  },
+  "code": "BR0428806",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 20 ML, BICO LUER LOCK, ÊMBOLO C/ PONTEIRA DE BORRACHA SILICONIZADA, GRADUADA DE 1 EM 1ML, NUMERADA DE 5 EM 5ML, SEM AGULHA, DESCARTÁVEL, ESTÉRIL, GRADUAÇÃO LEGÍVEL E FIRME"
+},
+{
+  "_id": {
+    "$oid": "685b580c007173838e20a5e3"
+  },
+  "code": "BR0242918",
+  "description": "LÂMINA BISTURI, AÇO INOXIDÁVEL, Nº 22, DESCARTÁVEL, ESTÉRIL, EMBALADA INDIVIDUALMENTE"
+},
+{
+  "_id": {
+    "$oid": "685b5810007173838e20a5e4"
+  },
+  "code": "BR0269921",
+  "description": "AGULHA GENGIVAL, AÇO INOXIDÁVEL, 30G CURTA, BISEL TRIFACETADO, SILICONIZADA,ESTÉRIL,DESCARTÁVEL, ADAPTAÇÃO PERFEITA A SE  "
+},
+{
+  "_id": {
+    "$oid": "685b5812007173838e20a5e5"
+  },
+  "code": "BR0312616",
+  "description": "LENÇOL DESCARTÁVEL, MATERIAL PAPEL, LARGURA 50 CM, COMPRIMENTO 70 M ROLO"
+},
+{
+  "_id": {
+    "$oid": "685b5812007173838e20a5e6"
+  },
+  "code": "BR0333977",
+  "description": "ATADURA, TECIDO ALGODÃO, 30 CM, 180 CM, ORTOPÉDICA, HIDRÓFOBO, COM CAMADA DE GOMA EM UMA DAS FACES"
+},
+{
+  "_id": {
+    "$oid": "685b5813007173838e20a5e7"
+  },
+  "code": "BR0355934",
+  "description": "FIO DE SUTURA, NYLON MONOFILAMENTO, 5-0, PRETA, 45 CM,  COM AGULHA, 1,2 CÍRCULO CORTANTE ESTRIADA, 1,70 CM,  ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5813007173838e20a5e8"
+  },
+  "code": "BR0357861",
+  "description": "SERINGA 1 ML POLIPROPILENO + AGULHA 13 MM X 4,5 MM BISEL TRIFACETADO"
+},
+{
+  "_id": {
+    "$oid": "685b5813007173838e20a5e9"
+  },
+  "code": "BR0403095",
+  "description": " BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, PÊRA, HASTE REGULAR, CORTE MÉDIO, 3168"
+},
+{
+  "_id": {
+    "$oid": "685b5813007173838e20a5ea"
+  },
+  "code": "BR0403268",
+  "description": " BROCA ALTA ROTAÇÃO, CARBIDE, TRONCO CÔNICA, PICOTADA LONGA, HASTE REGULAR, CORTE GROSSO, REF. 701"
+},
+{
+  "_id": {
+    "$oid": "685b5813007173838e20a5eb"
+  },
+  "code": "BR0403304",
+  "description": " BROCA ALTA ROTAÇÃO, CARBIDE, PÊRA, LONGA, HASTE REGULAR, CORTE MÉDIO, REF. 330"
+},
+{
+  "_id": {
+    "$oid": "685b5813007173838e20a5ec"
+  },
+  "code": "BR0403372",
+  "description": " BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, ESFÉRICA, HASTE LONGA, CIRÚRGICA, 1012"
+},
+{
+  "_id": {
+    "$oid": "685b5813007173838e20a5ed"
+  },
+  "code": "BR0406291",
+  "description": "TIRA ABRASIVA, POLIÉSTER + ÓXIDO DE ALUMÍNIO, CENTRO NEUTRO, CERCA DE 170 MM, CERCA DE 4 MM, CAIXA C/ 150 UNIDADES, ESTÉRIL, DESCARTÁVEL  "
+},
+{
+  "_id": {
+    "$oid": "685b5813007173838e20a5ee"
+  },
+  "code": "BR0406741",
+  "description": "SERINGA, POLIPROPILENO TRANSPARENTE, 20 ML, COM SISTEMA SEGURANÇA SEGUNDO NR/32, IMPRESSÃO LEGÍVEL E PERMANENTE, GRADUAÇÃO MÁXIMA 1 EM 1 ML, NUMERADA, C/ AGULHA 25 X 0,7 MM, BISELTRIFACETADO, PROTETOR PLÁSTICO, DESCARTÁVEL, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5813007173838e20a5ef"
+  },
+  "code": "BR0419371",
+  "description": "COLETOR DE URINA, PVC, SISTEMA FECHADO, CERCA DE 2000 ML, GRADUAÇÃO DE 100 EM 100 ML, VÁLVULA ANTI-REFLUXO, CLAMP CORTA FLUXO, ALÇA DE SUSTENTAÇÃO, MEMBRANA AUTOCICATRIZANTE, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5814007173838e20a5f0"
+  },
+  "code": "BR0433197",
+  "description": "BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, CILÍNDRICA, HASTE REGULAR, CORTE FINO, 1090"
+},
+{
+  "_id": {
+    "$oid": "685b5814007173838e20a5f1"
+  },
+  "code": "BR0441271",
+  "description": "CATETER PERIFÉRICO, POLÍMERO RADIOPACO, VENOSO, AGULHA AÇO INOX, 24 GAU, CERCA 15 MM, CONECTOR PADRÃO, CÂMARA REFLUXO C, FILTRO, C, SISTEMA SEGURANÇA SEGUNDO NR/32, ESTÉRIL, DESCARTÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b5814007173838e20a5f2"
+  },
+  "code": "BR0442454",
+  "description": "DISPOSITIVO P/ MEDIDAS ANTROPOMÉTRICAS, TIPO RÉGUA, MADEIRA, C/ ESCALA MÉTRICA - MM E CM, CERCA DE 1,0 M"
+},
+{
+  "_id": {
+    "$oid": "685b582b007173838e20a5f3"
+  },
+  "code": "BR0403305",
+  "description": " BROCA ALTA ROTAÇÃO, CARBIDE, TRONCO CÔNICA, PICOTADA LONGA, HASTE REGULAR, CORTE GROSSO, REF. 702"
+},
+{
+  "_id": {
+    "$oid": "685b585b007173838e20a5f4"
+  },
+  "code": "BR0327566",
+  "description": "ÁCIDO TRANEXÂMICO 50 MG/ML SOLUÇÃO INJETÁVEL 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5872007173838e20a5f5"
+  },
+  "code": "BR0273207",
+  "description": "MICRONEBULIZADOR, ADULTO, EXTENSOR C/ CONEXÃO UNIVERSAL A REDE DE O2 "
+},
+{
+  "_id": {
+    "$oid": "685b5872007173838e20a5f6"
+  },
+  "code": "BR0273208",
+  "description": "MICRONEBULIZADOR, PEDIÁTRICO, MÁSCARA EM PVC ATÓXICO,COPO ADAPTÁVEL, EXTENSOR C/ CONEXÃO UNIVERSAL A REDE DE O2"
+},
+{
+  "_id": {
+    "$oid": "685b5884007173838e20a5f7"
+  },
+  "code": "BR0279770",
+  "description": "SONDA, LÁTEX SILICONIZADO, FOLEY, Nº 22, 2 VIAS, C/BALÃO DE 5 A 15ML, VÁLVULA BORRACHA, FUNIL DRENAGEM C/CONEXÃO PADRÃO A COLETORES"
+},
+{
+  "_id": {
+    "$oid": "685b589f007173838e20a5f8"
+  },
+  "code": "BR0386028",
+  "description": "EQUIPO BOMBA INFUSORA, P/ NUTRIÇÃO ENTERAL, PVC CRISTAL, CÂMARA FLEXÍVEL C/FILTRO AR, GOTA PADRÃO, REGULADOR DE FLUXO E CORTA FLUXO, DERIVAÇÃO P/ LAVAGEM E INFUSÃO, LUER LOCK C/ TAMPA, CONECTOR ESCALONADO P/ SONDA C/ TAMPA, ESTÉRIL,DESCARTÁVEL  ,"
+},
+{
+  "_id": {
+    "$oid": "685b589f007173838e20a5f9"
+  },
+  "code": "BR0391137U0162",
+  "description": "ADESIVO DENTAL, FOTOPOLIMERIZÁVEL, AUTOCONDICIONANTE, FRASCO 4 ML"
+},
+{
+  "_id": {
+    "$oid": "685b590c007173838e20a5fa"
+  },
+  "code": "BR0281765",
+  "description": "FIO DE SUTURA, ÁCIDO POLIGLICÓLICO (PGA), 0, VIOLETA, 70 CM, COM AGULHA, 1/2 CÍRCULO CILÍNDRICA, 5 CM, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b5947007173838e20a5fb"
+  },
+  "code": "BR0112836",
+  "description": "CAIXA TERMICA CAPACIDADE 8,5LT"
+},
+{
+  "_id": {
+    "$oid": "685b5947007173838e20a5fc"
+  },
+  "code": " BR0222013",
+  "description": "EMBALAGEM ISOPOR, CAIXA TÉRMICA, 12 L  , 340 MM, 230 MM, 305 MM, 23 MM, COM TAMPA"
+},
+{
+  "_id": {
+    "$oid": "685b5947007173838e20a5fe"
+  },
+  "code": "BR0242960 ",
+  "description": "BATERIA NÃO RECARREGÁVEL, ALCALINA, 1,50 V"
+},
+{
+  "_id": {
+    "$oid": "685b594b007173838e20a5ff"
+  },
+  "code": "BR0267765U0042",
+  "description": "SULFADIAZINA 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b594f007173838e20a601"
+  },
+  "code": "BR0272737U0013",
+  "description": "MEGLUMINA, ANTIMONIATO 300 MG/ML SOLUÇÃO INJETÁVEL 5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5951007173838e20a603"
+  },
+  "code": "BR0277017",
+  "description": "SONDA FOLEY Nº14, 2 VIAS, BALÃO 30 ML, LÁTEX SILICONIZADO, VÁLVULA BORRACHA P/ TODAS AS SERINGAS, FUNIL DRENAGEM C/ CONEXÃO PADRÃO A COLETORES"
+},
+{
+  "_id": {
+    "$oid": "685b5952007173838e20a604"
+  },
+  "code": "BR0324327",
+  "description": "ESTESIÔMETRO, COMPOSIÇÃO 7 TUBOS COM 1 PAR FILAMENTOS NYLON ESPECIAL, APLICAÇÃO TESTE DE SENSIBILIDADE"
+},
+{
+  "_id": {
+    "$oid": "685b5953007173838e20a605"
+  },
+  "code": "BR0343494U0042",
+  "description": "ESPIRAMICINA (1,5 MUI) 500 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5953007173838e20a606"
+  },
+  "code": "BR0352289",
+  "description": "FRALDA DESCARTÁVEL, EXTRA G, COM ELÁSTICO NAS PERNAS, TECIDO ANTI-ALÉRGICO, INFANTIL"
+},
+{
+  "_id": {
+    "$oid": "685b5953007173838e20a607"
+  },
+  "code": "BR0364037U0042",
+  "description": "RIFAMPICINA 150MG + ISONIAZIDA 75MG + PIRAZINAMIDA 400MG + ETAMBUTOL 275MG 150 MG + 75MG + 400MG + 275MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5953007173838e20a608"
+  },
+  "code": "BR0364364",
+  "description": "PROTETOR CERDAS, POLIPROPILENO, ATÓXICO, ABERTURA INFERIOR"
+},
+{
+  "_id": {
+    "$oid": "685b5953007173838e20a60a"
+  },
+  "code": "BR0373322",
+  "description": "CAIXA TÉRMICA, POLIURETANO EXPANDIDO, 35 KG,M3, 30 L, TAMPA ARTICULADA, TRINCO EMBUTIDO, ALÇA DUPLA, DRENO"
+},
+{
+  "_id": {
+    "$oid": "685b5954007173838e20a60b"
+  },
+  "code": "BR0396604",
+  "description": "BIPERIDENO, CLORIDRATO 5 MG/ML AMP 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5954007173838e20a60c"
+  },
+  "code": "BR0402946",
+  "description": "BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, ESFÉRICA, HASTE REGULAR, CORTE MÉDIO 1013 "
+},
+{
+  "_id": {
+    "$oid": "685b5954007173838e20a60d"
+  },
+  "code": "BR0403152",
+  "description": "BROCA ALTA ROTAÇÃO, AÇO INOXIDÁVEL DIAMANTADA, PÊRA, HASTE REGULAR, CORTE FINO REF 3168F "
+},
+{
+  "_id": {
+    "$oid": "685b5955007173838e20a60e"
+  },
+  "code": "BR0406753",
+  "description": "FIO RETRATOR GENGIVAL, ALGODÃO TRANÇADO OU TRICOTADO, IMPREGNADO C/ SAIS DE ZINCO OU ALUMÍNIO, C/ EPINEFRINA, EXTRA FINO, EMBALAGEM C/ CERCA DE 2 M, ESTÉRIL / DESCARTÁVEL   "
+},
+{
+  "_id": {
+    "$oid": "685b5955007173838e20a60f"
+  },
+  "code": "BR0419472",
+  "description": "LIMA USO ODONTOLÓGICO, AÇO INOXIDÁVEL, TIPO KERR FLEXÍVEL, 25 MM, DIGITAL, 1ª SÉRIE/15 A 40, C/ CURSOR, CONJUNTO COMPLETO"
+},
+{
+  "_id": {
+    "$oid": "685b5956007173838e20a610"
+  },
+  "code": "BR0446631U0042",
+  "description": "ISONIAZIDA + RIFAMPICINA 150 + 300 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5956007173838e20a611"
+  },
+  "code": "BR0461891",
+  "description": "FILTRO RESPIRADOR, CONTRA VAPORES ORGÂNICOS E GASES ÁCIDOS, RESPIRADOR SEMI FACIAL PLASTCOR"
+},
+{
+  "_id": {
+    "$oid": "685b5956007173838e20a612"
+  },
+  "code": "BR0462445",
+  "description": "AVENTAL HOSPITALAR, CAMISOLA,POLIPROPILENO,  ÚNICO, CERCA DE 30 G,CM2, TIRAS PARA FIXAÇÃO, SEM MANGA,USO ÚNICO"
+},
+{
+  "_id": {
+    "$oid": "685b5956007173838e20a613"
+  },
+  "code": "BR0465425",
+  "description": "METFORMINA, CLORIDRATO 850 MG COMPRIMIDO DE LIBERAÇÃO PROLONGADA"
+},
+{
+  "_id": {
+    "$oid": "685b5966007173838e20a614"
+  },
+  "code": "BR0267776-2",
+  "description": "PARACETAMOL  100 MG/ML SUSPENSÃO ORAL  15 ML"
+},
+{
+  "_id": {
+    "$oid": "685b59b9007173838e20a615"
+  },
+  "code": "BR0359969",
+  "description": "TOALHA DE PAPEL, 100% FIBRA DE CELULOSA VIRGEM, 2 DOBRAS, 22CM X 21,60 CM, BRANCA, ALTO PODER DE ABSORÇÃO, GRAMATURA MÍNIMA 39GM2"
+},
+{
+  "_id": {
+    "$oid": "685b59bc007173838e20a616"
+  },
+  "code": "BR0230091",
+  "description": "FRALDA DESCARTÁVEL, ADULTO, EG, DIURNO E NOTURNO"
+},
+{
+  "_id": {
+    "$oid": "685b59c8007173838e20a617"
+  },
+  "code": "BR0352289-1",
+  "description": "FRALDA DESCARTÁVEL, G, COM ELÁSTICO NAS PERNAS, TECIDO ANTI-ALÉRGICO, INFANTIL"
+},
+{
+  "_id": {
+    "$oid": "685b59c9007173838e20a618"
+  },
+  "code": "BR0374155U0042",
+  "description": "ISONIAZIDA + RIFAMPICINA 75 + 150 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b59c9007173838e20a619"
+  },
+  "code": "BR0381818",
+  "description": "FRALDA DESCARTÁVEL, EXTRA GG, INFANTIL"
+},
+{
+  "_id": {
+    "$oid": "685b59c9007173838e20a61a"
+  },
+  "code": "BR0397502",
+  "description": "AGULHA HIPODÉRMICA, 25 X 0,8 AÇO INOXIDÁVEL SI  LICONIZADO, 21 G X 1\", BISEL CURTO TRIFACETADO, CONECTOR LUER LOCK EM P  LÁSTICO, PROTETOR PLÁSTICO, COM SISTEMA SEGURANÇA SEGUNDO NR/32, ESTÉRI  L, DESCARTÁVEL, EMBALAGEM INDIVIDUAL"
+},
+{
+  "_id": {
+    "$oid": "685b59c9007173838e20a61b"
+  },
+  "code": "BR0398861",
+  "description": "ESCOVA DENTAL INFANTIL, CERDAS EM NAILON MACIA, CABO PLÁSTICO E RETANGULAR RETO, LIGEIRAMENTE FLEXÍVEL, CABEÇA RETANGULAR E PEQUENA, COMPRIMENTO MÁXIMO 14 CM, 04 FILEIRAS DE TUFOS COM TOTAL DE 28 TUFOS DA MESMA ALTURA E COM EXTREMIDADE ARREDEONDADA"
+},
+{
+  "_id": {
+    "$oid": "685b59cb007173838e20a61c"
+  },
+  "code": "BR0234354",
+  "description": "BATERIA NÃO RECARREGÁVEL, ALCALINA, 9V"
+},
+{
+  "_id": {
+    "$oid": "685b59cc007173838e20a61d"
+  },
+  "code": " BR0251490",
+  "description": "FLUXÔMETRO, BRONZE, 0 A 15 L/MIN, LITRO EM LITRO, OXIGÊNIO"
+},
+{
+  "_id": {
+    "$oid": "685b59d7007173838e20a61e"
+  },
+  "code": "BR0280854",
+  "description": "VÁLVULA, REGULADORA, REDE DE OXIGÊNIO"
+},
+{
+  "_id": {
+    "$oid": "685b59d8007173838e20a61f"
+  },
+  "code": "BR0291704",
+  "description": "PROTETOR AURICULAR, ELASTÓMERO SINTÉTICO, PLUGUE, ÚNICO, CORDÃO PVC/ACOMPANHA CAIXA PLÁSTICA PARA PROTEÇÃO"
+},
+{
+  "_id": {
+    "$oid": "685b59d8007173838e20a620"
+  },
+  "code": "BR0305039",
+  "description": "UMIDIFICADOR, PLÁSTICO, 200 A 300 ML, CONEXÃO PARA FLUXÔMETRO"
+},
+{
+  "_id": {
+    "$oid": "685b59da007173838e20a621"
+  },
+  "code": "BR0345018",
+  "description": "BATERIA NÃO RECARREGÁVEL, LITHIUM, 3V, CR-2032"
+},
+{
+  "_id": {
+    "$oid": "685b59db007173838e20a622"
+  },
+  "code": "BR0394662",
+  "description": "NEOMICINA 5 MG/G POMADA 20 G"
+},
+{
+  "_id": {
+    "$oid": "685b59dc007173838e20a623"
+  },
+  "code": "BR0406274",
+  "description": "CONJUNTO PARA PAPANICOLAU, COMPOSIÇÃO BÁSICA: 1 ESPÉCULO VAGINAL GRANDE, 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 PINÇA CHERON, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b59fc007173838e20a624"
+  },
+  "code": "BR0281317",
+  "description": "FIO DE SUTURA, NYLON MONOFILAMENTO 5-0, PRETO, 45 CM, COM AGULHA 1/2 CÍRCULO CORTANTE, 1,5 CM, ESTÉRIL"
+},
+{
+  "_id": {
+    "$oid": "685b59ff007173838e20a625"
+  },
+  "code": "BR0365547",
+  "description": "ESTETOSCÓPIO, BIAURICULAR, PEDIÁTRICO, AÇO INOXIDÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5a01007173838e20a626"
+  },
+  "code": "BR0405888",
+  "description": "PROTETOR SOLAR,  UVA,UVB,  FATOR 50, LOÇÃO CREMOSA"
+},
+{
+  "_id": {
+    "$oid": "685b5a02007173838e20a627"
+  },
+  "code": "BR0444164",
+  "description": "CAPA CHUVA, NYLON RIPSTOP, VERDE OLIVA, TIPO PONCHO MOCHILEIRO, CAPUZ, IMPERMEABILIZADO, G"
+},
+{
+  "_id": {
+    "$oid": "685b5a5a007173838e20a628"
+  },
+  "code": "BR0230092",
+  "description": "FRALDA DESCARTÁVEL, ADULTO, G, DIURNO E NOTURNO"
+},
+{
+  "_id": {
+    "$oid": "685b5a5a007173838e20a629"
+  },
+  "code": "BR0230093",
+  "description": "FRALDA DESCARTÁVEL, ADULTO, M, DIURNO E NOTURNO                                               "
+},
+{
+  "_id": {
+    "$oid": "685b5a5b007173838e20a62a"
+  },
+  "code": "BR0267194U0009",
+  "description": "DIAZEPAM 5 MG/ML SOLUÇÃO INJETÁVEL 2 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5a5d007173838e20a62b"
+  },
+  "code": "BR0268159U0042",
+  "description": "PENTOXIFILINA 400 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a5d007173838e20a62c"
+  },
+  "code": "BR0268163U0042",
+  "description": "MINOCICLINA, CLORIDRATO 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a5d007173838e20a62d"
+  },
+  "code": "BR0268297U0042",
+  "description": "OFLOXACINO 400 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a5d007173838e20a62e"
+  },
+  "code": "BR0268394U0118",
+  "description": "ANFOTERICINA B LIPOSSOMAL PÓ PARA SOLUÇÃO INJETÁVEL 50 MG ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5a5d007173838e20a62f"
+  },
+  "code": "BR0268395U0118",
+  "description": "ANFOTERICINA B 50 MG PÓ PARA SOLUÇÃO INJETÁVEL ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5a5e007173838e20a631"
+  },
+  "code": "BR0268953U0042",
+  "description": "BENZNIDAZOL 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a5e007173838e20a632"
+  },
+  "code": "BR0268954U0042",
+  "description": "PRAZIQUANTEL 600 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a61007173838e20a639"
+  },
+  "code": "BR0272822U0042",
+  "description": "PIRAZINAMIDA 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a61007173838e20a63a"
+  },
+  "code": "BR0272827U0042",
+  "description": "PRIMAQUINA DIFOSFATO 5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a62007173838e20a63b"
+  },
+  "code": "BR0272837U0041",
+  "description": "RIFAMPICINA 300 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5a62007173838e20a63c"
+  },
+  "code": "BR0272846U0042",
+  "description": "TALIDOMIDA 100 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5a63007173838e20a63f"
+  },
+  "code": "BR0272972U0110",
+  "description": "FENOXIMETILPENICILINA POTÁSSICA 80.000 UI/ML PÓ PARA SOLUÇÃO 60 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5a63007173838e20a640"
+  },
+  "code": "BR0285040U0140",
+  "description": "SERINGA PARA INSULINA, 1 ML, APIROGÊNICA E ATÓXICA, 100 UI COM BOA VISUALIZAÇÃO, DESCARTÁVEL, ESTÉRIL, AGULHA 13 X 3,8"
+},
+{
+  "_id": {
+    "$oid": "685b5a63007173838e20a641"
+  },
+  "code": "BR0292205U0042",
+  "description": "ISONIAZIDA 100 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a65007173838e20a642"
+  },
+  "code": "BR0292208U0538",
+  "description": "RIFAMPICINA 20 MG/ML SUSPENSÃO ORAL  120 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5a65007173838e20a643"
+  },
+  "code": "BR0297746U0140",
+  "description": "DISPOSITIVO INTRA-UTERINO (DIU), EM \"T\", FLEXÍVEL, POLETILENO, FIO COBRE ENROLADO HASTE,CONE COBRE NOS BRAÇOS \"T\", 2 FIOS POLIETILENO BRANCO 2 A 3CM"
+},
+{
+  "_id": {
+    "$oid": "685b5a65007173838e20a644"
+  },
+  "code": "BR0299128U0041",
+  "description": "CLOFAZIMINA 50 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5a65007173838e20a645"
+  },
+  "code": "BR0299129U0041",
+  "description": "CLOFAZIMINA 100 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5a65007173838e20a646"
+  },
+  "code": "BR0299766U0042",
+  "description": "ETAMBUTOL, CLORIDRATO 400 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a66007173838e20a647"
+  },
+  "code": "BR0308874U0118",
+  "description": "PENTAMIDINA, ISETIONATO 300 MG PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5a66007173838e20a648"
+  },
+  "code": "BR0328361U0042",
+  "description": "POLIQUIMIOTERAPIA ÚNICA - PQT-U ADULTO RIFAMPICINA + CLOFAZIMINA + DAPSONA 300MG / 100+50MG / 100MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a67007173838e20a649"
+  },
+  "code": "BR0328362U0042",
+  "description": "POLIQUIMIOTERAPIA ÚNICA - PQT-U INFANTIL - RIFAMPICINA + CLOFAZIMINA + DAPSONA  150+300MG / 50MG / 50MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a67007173838e20a64a"
+  },
+  "code": "BR0328513U0118",
+  "description": "ARTESUNATO DE SÓDIO 60 MG PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5a67007173838e20a64b"
+  },
+  "code": "BR0329507U0041",
+  "description": "RETINOL, PALMITATO 100.000 UI CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5a67007173838e20a64c"
+  },
+  "code": "BR0329508U0041",
+  "description": "RETINOL, PALMITATO 200.000 UI CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5a67007173838e20a64d"
+  },
+  "code": "BR0332887",
+  "description": "ANFOTERICINA B 50 MG PÓ LIOFILIZADO PARA SOLUÇÃO INJETÁVEL COLOIDAL"
+},
+{
+  "_id": {
+    "$oid": "685b5a67007173838e20a64e"
+  },
+  "code": "BR0332987U0042",
+  "description": "LEVOFLOXACINO 250 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a68007173838e20a64f"
+  },
+  "code": "BR0358753U0042",
+  "description": "MISOPROSTOL 25 MCG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a68007173838e20a650"
+  },
+  "code": "BR0358755U0042",
+  "description": "MISOPROSTOL 200 MCG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a68007173838e20a651"
+  },
+  "code": "BR0370119-1",
+  "description": "ARTESUNATO + MEFLOQUINA 25 + 55 MG COMPRIMIDO (3 COMP) 6 A 11 MESES"
+},
+{
+  "_id": {
+    "$oid": "685b5a69007173838e20a652"
+  },
+  "code": "BR0376695U0042",
+  "description": "PIRIDOXINA, CLORIDRATO 50 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a69007173838e20a653"
+  },
+  "code": "BR0377008U0354",
+  "description": "ZANAMIVIR 5 MG PÓ PARA INALAÇÃO ORAL 20 DOSES"
+},
+{
+  "_id": {
+    "$oid": "685b5a6a007173838e20a654"
+  },
+  "code": "BR0381288U0041",
+  "description": "RIFABUTINA 150 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5a6a007173838e20a655"
+  },
+  "code": "BR0387488U0042",
+  "description": "ISONIAZIDA 300 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a6b007173838e20a656"
+  },
+  "code": "BR0399096U0042",
+  "description": "MILTEFOSINA 50 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a6b007173838e20a657"
+  },
+  "code": "BR0402625",
+  "description": "MINOCICLINA, CLORIDRATO 100 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5a6b007173838e20a658"
+  },
+  "code": "BR0409539U0042",
+  "description": "BENZNIDAZOL 12,5 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a6c007173838e20a659"
+  },
+  "code": "BR0427442U0045",
+  "description": "HIDROXOCOBALAMINA, CLORIDRATO 5G PÓ LIOF INJ (FR-AMP)"
+},
+{
+  "_id": {
+    "$oid": "685b5a6f007173838e20a65b"
+  },
+  "code": "BR0440864U0041",
+  "description": "CLARITROMICINA 500 MG  CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5a6f007173838e20a65c"
+  },
+  "code": "BR0446467U0005",
+  "description": "PALIVIZUMABE 100 MG/ML SOL INJ (FR-AMP) 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5a6f007173838e20a65d"
+  },
+  "code": "BR0446467U0229",
+  "description": "PALIVIZUMABE 100 MG/ML SOL INJ (FR-AMP) 0,5 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5a6f007173838e20a65e"
+  },
+  "code": "BR0461235U0042",
+  "description": "RIFAMPICINA + ISONIAZIDA + PIRAZINAMIDA 75 + 50 + 150 MG COMPRIMIDO DISPERSÍVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5a71007173838e20a65f"
+  },
+  "code": "BR0461236U0042",
+  "description": "ISONIAZIDA + RIFAMPICINA 50 + 75 MG COMPRIMIDO DISPERSÍVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5a71007173838e20a660"
+  },
+  "code": "BR0466430U0042",
+  "description": "PIRAZINAMIDA 150 MG COMPRIMIDO DISPERSÍVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5a71007173838e20a661"
+  },
+  "code": "BR0470184U0042",
+  "description": "RIFAPENTINA 150 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a71007173838e20a662"
+  },
+  "code": "BR0606841U0042",
+  "description": "RIFAPENTINA, ASSOCIADA À ISONIAZIDA 300 + 300 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5a72007173838e20a663"
+  },
+  "code": "BR0615568",
+  "description": "HIDROXOCOBALAMINA, CLORIDRATO 5 MG/ML SOL INJ (AMP) 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5a72007173838e20a664"
+  },
+  "code": "BR0268084U0046",
+  "description": "CABERGOLINA 0,5 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5a72007173838e20a665"
+  },
+  "code": "BR0268158U0042",
+  "description": "PIRIMETAMINA 25 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5aa1007173838e20a667"
+  },
+  "code": "BR0270616U0118",
+  "description": "BENZILPENICILINA POTÁSSICA 5.000.000 UI PÓ PARA SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5aa6007173838e20a668"
+  },
+  "code": "BR0295605U0005",
+  "description": "ALGESTONA ACETOFENIDA + ESTRADIOL, ENANTATO 150 MG + 10 MG/ML SOLUÇÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5ab3007173838e20a669"
+  },
+  "code": "BR0470479U0042",
+  "description": "TAFENOQUINA, SUCCINATO 150 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5ab3007173838e20a66a"
+  },
+  "code": "BR0618990U0118",
+  "description": "DERIVADO PROTÊICO PURIFICADO (TUBERCULINA) 50 UT/ML SOLUÇÃO INJETÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5b54007173838e20a66b"
+  },
+  "code": "BR0609958",
+  "description": "REAGENTE PARA DIAGNÓSTICO CLÍNICO 5, CONJUNTO COMPLETO, TIPO DE ANÁLISE 1: QUANTITATIVO HEMOGLOBINA TOTAL E ATIVIDADE G6PD, MÉTODO 1: ENZIMÁTICO COLORIMÉTRICO, TIRA"
+},
+{
+  "_id": {
+    "$oid": "685b5b5e007173838e20a66c"
+  },
+  "code": "BR0297746",
+  "description": "DISPOSITIVO INTRA-UTERINO (DIU), POLETILENO, FLEXÍVEL, 2 FIOS POLIETILENO BRANCO 2 A 3CM, FIO COBRE ENROLADO HASTE,CONE COBRE NOS BRAÇOS \"T\", EM \"T\""
+},
+{
+  "_id": {
+    "$oid": "685b5b77007173838e20a66d"
+  },
+  "code": "BR0621897",
+  "description": "APLICADOR PARA MEDICAMENTO, USO COM CARPULE DE INSULINA, CANETA COM TAMPA, COM AJUSTE DE DOSE, REUTILIZÁVEL"
+},
+{
+  "_id": {
+    "$oid": "685b5c27007173838e20a66e"
+  },
+  "code": "BR0233632U0085",
+  "description": "ÓLEO MINERAL (VASELINA LÍQUIDA / PETROLATO) SOLUÇÃO ORAL 200 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5c27007173838e20a66f"
+  },
+  "code": "BR0259680U0316",
+  "description": "SAIS PARA REIDRATAÇÃO ORAL, ORAL, REIDRATAÇÃO, PÓ, SACHÊ 42GR"
+},
+{
+  "_id": {
+    "$oid": "685b5c27007173838e20a670"
+  },
+  "code": "BR0266788",
+  "description": "NISTATINA 25.000UI/G BISNAGA 60G"
+},
+{
+  "_id": {
+    "$oid": "685b5c29007173838e20a671"
+  },
+  "code": "BR0267206",
+  "description": "DIPIRONA SÓDICA  50 MG/ML SOLUÇÃO ORAL 100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5c29007173838e20a672"
+  },
+  "code": "BR0267282",
+  "description": "ESCOPOLAMINA, BUTILBROMETO 20 MG/ML SOLUÇÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5c2e007173838e20a673"
+  },
+  "code": "BR0267643-2",
+  "description": "DEXAMETASONA 0,1% CREME  15 G"
+},
+{
+  "_id": {
+    "$oid": "685b5c34007173838e20a674"
+  },
+  "code": "BR0268005",
+  "description": "TRAVOPROSTA 0,04 MG/ML SOLUÇÃO OFTÁLMICA 2,5 ML ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5c39007173838e20a675"
+  },
+  "code": "BR0271111U0062",
+  "description": "AMOXICILINA 50 MG/ML PÓ PARA SUSPENSÃO ORAL  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5c39007173838e20a676"
+  },
+  "code": "BR0271610U0041",
+  "description": "NORTRIPTILINA, CLORIDRATO 50 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5c3a007173838e20a677"
+  },
+  "code": "BR0272400",
+  "description": "NAFAZOLINA, CLORIDRATO 0,5 MG/ML SOLUÇÃO NASAL 15 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5c3c007173838e20a678"
+  },
+  "code": "BR0273167-4",
+  "description": "NEOMICINA + BACITRACINA 5 + 250 MG + UI/G POMADA 50 G"
+},
+{
+  "_id": {
+    "$oid": "685b5c3e007173838e20a679"
+  },
+  "code": "BR0274036-1",
+  "description": "PIROXICAM 20 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5c40007173838e20a67a"
+  },
+  "code": "BR0285965",
+  "description": "LEVETIRACETAM 250 MG COMPRIMIDO ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5c40007173838e20a67b"
+  },
+  "code": "BR0285966",
+  "description": "LEVETIRACETAM 500 MG COMPRIMIDO"
+},
+{
+  "_id": {
+    "$oid": "685b5c40007173838e20a67c"
+  },
+  "code": "BR0292196U0005",
+  "description": "HALOPERIDOL 5 MG/ML SOLUÇÃO INJETÁVEL 1 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5c42007173838e20a67d"
+  },
+  "code": "BR0340207U0086",
+  "description": "CLORPROMAZINA, CLORIDRATO 40 MG/ML SOLUÇÃO ORAL 20 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5c42007173838e20a67e"
+  },
+  "code": "BR0366914",
+  "description": "NAFAZOLINA, CLORIDRATO 0,12 MG/ML SOLUÇÃO OFTÁLMICA 15 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5c42007173838e20a67f"
+  },
+  "code": "BR0395618U0041",
+  "description": "CYNARA SCOLYMUS  (ALCACHOFRA) CERCA DE 300 MG CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5c44007173838e20a680"
+  },
+  "code": "BR0428744-4",
+  "description": "COLECALCIFEROL (VITAMINA D3) 2.000 UI CÁPSULA "
+},
+{
+  "_id": {
+    "$oid": "685b5c44007173838e20a681"
+  },
+  "code": "BR0437284",
+  "description": "LEVETIRACETAM 750 MG COMP ELENCO ESTADUAL "
+},
+{
+  "_id": {
+    "$oid": "685b5c44007173838e20a682"
+  },
+  "code": "BR0448838U0062",
+  "description": "ACEBROFILINA 5 MG/ML XAROPE  100 ML"
+},
+{
+  "_id": {
+    "$oid": "685b5c62007173838e20a683"
+  },
+  "code": "BR0259680",
+  "description": "SAIS PARA REIDRATAÇÃO ORAL, ORAL, REIDRATAÇÃO, PÓ, SACHÊ 26G"
+}]
