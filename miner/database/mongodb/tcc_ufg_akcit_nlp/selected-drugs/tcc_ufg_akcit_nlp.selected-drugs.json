@@ -397,10 +397,10 @@
   "product_type": "MEDICAMENTO",
   "product_name": "BROMEXPEC",
   "process_completion_date": {
-    "$date": "2011-06-06T03:00:00.000Z"
+    "$date": "2018-06-28T03:00:00.000Z"
   },
   "regulatory_category": "SIMILAR",
-  "product_registration_number": "154230172",
+  "product_registration_number": "0519311187",
   "registration_expiration_date": {
     "$date": "2026-06-01T03:00:00.000Z"
   },
@@ -410,7 +410,7 @@
   "registration_status": "VÁLIDO",
   "active_ingredient": "CLORIDRATO DE BROMEXINA",
   "patient_leaflet": "",
-  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770717304.pdf",
+  "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750866357176.pdf",
   "drug_leaflet_found": true,
   "processing_date": {
     "$date": "2025-06-15T13:52:43.868Z"
@@ -815,16 +815,16 @@
   "process_completion_date": {
     "$date": "2002-08-26T03:00:00.000Z"
   },
-  "regulatory_category": "ESPECÍFICO",
-  "product_registration_number": "143810079",
+  "regulatory_category": "SIMILAR",
+  "product_registration_number": "143810258",
   "registration_expiration_date": {
-    "$date": "2027-08-01T03:00:00.000Z"
+    "$date": "2030-05-01T03:00:00.000Z"
   },
-  "process_number": "25351168204200268",
+  "process_number": "25351617152201115",
   "therapeutic_class": "EMOLIENTES E PROTETORES DA PELE E MUCOSAS",
   "company_holding_registration": "02814497000107 - CIMED INDUSTRIA S.A",
   "registration_status": "VÁLIDO",
-  "active_ingredient": "COLECALCIFEROL +  PALMITATO DE RETINOL +  ÓXIDO DE ZINCO",
+  "active_ingredient": "NISTATINA +  ÓXIDO DE ZINCO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750771217841.pdf",
   "drug_leaflet_found": true,
@@ -1123,20 +1123,20 @@
     "$oid": "684ed02cc653c045f0568aad"
   },
   "product_type": "MEDICAMENTO",
-  "product_name": "ESOMEPRAZOL MAGNÉSIO TRIIDRATADO",
+  "product_name": "OMEPRAZOL SÓDICO",
   "process_completion_date": {
-    "$date": "2012-05-28T03:00:00.000Z"
+    "$date": "2000-08-18T03:00:00.000Z"
   },
   "regulatory_category": "GENÉRICO",
-  "product_registration_number": "116180245",
+  "product_registration_number": "100430730",
   "registration_expiration_date": {
-    "$date": "2027-05-01T03:00:00.000Z"
+    "$date": "2025-08-01T03:00:00.000Z"
   },
-  "process_number": "25351588005201147",
+  "process_number": "253510164320066",
   "therapeutic_class": "ANTIULCEROSOS",
-  "company_holding_registration": "60318797000100 - ASTRAZENECA DO BRASIL LTDA",
+  "company_holding_registration": "61190096000192 - EUROFARMA LABORATÓRIOS S.A.",
   "registration_status": "VÁLIDO",
-  "active_ingredient": "ESOMEPRAZOL MAGNÉSICO TRI-HIDRATADO",
+  "active_ingredient": "OMEPRAZOL SÓDICO",
   "patient_leaflet": "",
   "professional_leaflet": "https://github.com/mariliaribeiro/tcc_ufg_akcit_nlp/blob/main/data/leaflets/bula_1750770970045.pdf",
   "drug_leaflet_found": true,
@@ -1799,7 +1799,7 @@
     "$oid": "685ace87795975d18e1a4d41"
   },
   "product_type": "MEDICAMENTO",
-  "product_name": "BIOFENAC",
+  "product_name": "BIOFENAC DI",
   "process_completion_date": {
     "$date": "1988-07-25T03:00:00.000Z"
   },
