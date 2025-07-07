@@ -108,7 +108,8 @@ def export_graph_documment_to_html(graph_docs: List[GraphDocument], file_name: s
     # Adicionar rótulos aos nós
     for node in net.nodes:
         node["title"] = node["label"]
-        node["label"] = f"{node['label']} ({G.nodes[node['id']]['type']})"
+        node_type = G.nodes[node['id']].get('type', 'N/A')
+        node["label"] = f"{node['label']} ({node_type})"
 
     # Adicionar rótulos às arestas
     for edge in net.edges:
