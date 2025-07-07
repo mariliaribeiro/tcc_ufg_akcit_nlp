@@ -33,13 +33,14 @@ class PdfAndMarkdownPipeline:
     chunk_documents: list = field(init=False, default_factory=list)
     chunk_object: ChunksFromMarkdow = field(init=False, default=None)
 
-    def pdf_to_markdown(self, source_file_path: Union[str, Path], dest_dir_path: Union[str, Path]):
+    def pdf_to_markdown(self, source_file_path: Union[str, Path], dest_dir_path: Union[str, Path], encoding="utf-8"):
         """
         Função responsável por converter arquivos pdf em markdown.
 
         Args:
             source_file_path (Union[str, Path]): Caminho do arquivo pdf de origem.
             dest_dir_path (Union[str, Path]): Caminho do diretório em que o arquivo markdown gerado deve ser armazenado.
+            encoding (str, optional): Codificação do arquivo markdown. Defaults to "utf-8".
         """
 
         if isinstance(source_file_path, str):
@@ -50,7 +51,7 @@ class PdfAndMarkdownPipeline:
         conv_result = self.docling_converter(source_file_path)
         if conv_result and conv_result.document:
             text = self.extract_text_from_docling_document(conv_result.document)
-            self.save_text_on_md_file(text, source_file_path.name, dest_dir_path)
+            self.save_text_on_md_file(text, source_file_path.name, dest_dir_path, encoding=encoding)
         else:
             _log.error("Docling conversion failed or returned an empty document.")
 
@@ -111,7 +112,7 @@ class PdfAndMarkdownPipeline:
         """
         return docling_document.export_to_text()
 
-    def save_text_on_md_file(self, text: str, file_name: str, dest_dir_path: Path):
+    def save_text_on_md_file(self, text: str, file_name: str, dest_dir_path: Path, encoding="utf-8"):
         """
         Função responsável por salvar o texto extraído do pdf em arquivo markdown.
 
@@ -119,10 +120,11 @@ class PdfAndMarkdownPipeline:
             text (str): Texto em formato markdown.
             file_name (str): Nome do arquivo.
             dest_dir_path (Path):  Caminho do diretório em que o arquivo markdown gerado deve ser armazenado.
+            encoding (str, optional): Codificação do arquivo markdown. Defaults to "utf-8".
         """
 
         file_path = dest_dir_path.joinpath(f"{file_name}.md")
-        with open(file_path, "w") as f:
+        with open(file_path, "w", encoding=encoding) as f:
             f.write(text)
 
         _log.info(f"Document {file_path} saved.")

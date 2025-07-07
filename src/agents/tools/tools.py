@@ -7,7 +7,7 @@ from src.agents.tools.graph_rag import GraphRAG
 from src.agents.tools.question_to_api import QuestionToAPI
 from src.api.routes.routes import get_horus_medicine_stock
 from src.api.schemas.request.horus import HorusMedicineStockRequest
-from src.connetion.graph_db import KgDatabaseConnetion
+from src.connection.graph_db import KgDatabaseConnection
 
 
 @dataclass
@@ -22,7 +22,7 @@ class MyTools:
     tools: List[Tool] = field(init=False, default_factory=list)
 
     def __post_init__(self):
-        db = KgDatabaseConnetion(
+        db = KgDatabaseConnection(
             llm=self.llm,
             embedding=self.embedding,
         )

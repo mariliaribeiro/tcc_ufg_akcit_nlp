@@ -13,7 +13,7 @@ from src.agents.prompt_templates.question_to_api import (
     SYSTEM_TEMPLATE_RETRIEVER,
     SYSTEM_TEMPLATE_STRUCTURED_OUTPUT,
 )
-from src.connetion.chat_model import LLMModel
+from src.connection.chat_model import LLMModel
 
 
 @dataclass

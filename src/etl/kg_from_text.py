@@ -5,9 +5,9 @@ from langchain_core.documents import Document
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 
 from src.config import BUILD_GRAPH_AUTO
-from src.connetion.chat_model import LLMModel
-from src.connetion.embeddings import EmbeddingsModel
-from src.connetion.graph_db import KgDatabaseConnetion
+from src.connection.chat_model import LLMModel
+from src.connection.embeddings import EmbeddingsModel
+from src.connection.graph_db import KgDatabaseConnection
 from src.constants import ALLOWED_NODES, ALLOWED_RELATIONSHIPS
 from src.utils.dataviz import export_graph_documment_to_html, plot_graph_documents
 
@@ -20,11 +20,11 @@ class KGFromText:
 
     llm: LLMModel
     embeddings: EmbeddingsModel
-    db: KgDatabaseConnetion = field(init=False, default=None)
+    db: KgDatabaseConnection = field(init=False, default=None)
     graph_documents: Any = field(init=False, default=None)  #  List[GraphDocument]
 
     def __post_init__(self):
-        self.db = KgDatabaseConnetion(llm=self.llm, embedding=self.embeddings)
+        self.db = KgDatabaseConnection(llm=self.llm, embedding=self.embeddings)
 
     async def get_kg(self, chunk_documents: List[Document]):
         """
@@ -49,7 +49,7 @@ class KGFromText:
         return self
 
     def plot_and_export_visualization(
-        self, file_name: str, figsize: Tuple = (10, 8), show_node_properties: bool = False
+        self, file_name: str, figsize: Tuple = (10, 8), show_node_properties: bool = False, show_plot: bool = False
     ):
         """
         Plota e gera grafos de conhecimento em matplolib e HTML com o networkx a partir de uma lista de objetos GraphDocument.
@@ -60,13 +60,15 @@ class KGFromText:
             file_name (str):  nome do arquivo.
             figsize (tuple, optional): Dimensões da figura do matplotlib. Defaults to (10, 8).
             show_node_properties (bool, optional): Flag que indica se deve mostrar as propriedades do nó na figura do matplotlib. Defaults to False.
+            show_plot (bool, optional): Se True, exibe a imagem matplotlib. Defaults to False.
         """
 
-        plot_graph_documents(
-            graph_docs=self.graph_documents,
-            figsize=figsize,
-            show_node_properties=show_node_properties,
-        )
+        if show_plot:
+            plot_graph_documents(
+                graph_docs=self.graph_documents,
+                figsize=figsize,
+                show_node_properties=show_node_properties,
+            )
         export_graph_documment_to_html(graph_docs=self.graph_documents, file_name=file_name)
         return self
 
