@@ -6,8 +6,8 @@ from langchain.memory import ConversationSummaryMemory
 
 from src.agents.tools.tools import MyTools
 from src.config import EMBEDDING_PROVIDER, LLM_MAX_TOKENS, LLM_PROVIDER, LLM_TEMPERATURE
-from src.connetion.chat_model import LLMModel
-from src.connetion.embeddings import EmbeddingsModel
+from src.connection.chat_model import LLMModel
+from src.connection.embeddings import EmbeddingsModel
 
 
 @dataclass
