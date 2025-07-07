@@ -9,8 +9,8 @@ from langchain.prompts import (
 from langchain_core.output_parsers import StrOutputParser
 
 from src.agents.prompt_templates.graph_rag import CONTEXT, SYSTEM_TEMPLATE
-from src.connetion.chat_model import LLMModel
-from src.connetion.graph_db import KgDatabaseConnetion
+from src.connection.chat_model import LLMModel
+from src.connection.graph_db import KgDatabaseConnection
 
 
 @dataclass
@@ -20,7 +20,7 @@ class GraphRAG:
     """
 
     llm: LLMModel
-    db: KgDatabaseConnetion
+    db: KgDatabaseConnection
 
     def get_context(self, question: str) -> str:
         """
