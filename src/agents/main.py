@@ -40,7 +40,7 @@ class MyAgent:
             llm=llm, memory_key="chat_history", return_messages=True
         )
 
-        # Intanciando o agente e passando os recursos necessários
+        # Instanciando o agente e passando os recursos necessários
         self.agent = initialize_agent(
             tools,
             llm,

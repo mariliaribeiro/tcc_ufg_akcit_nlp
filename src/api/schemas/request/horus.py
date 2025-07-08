@@ -2,23 +2,22 @@ from typing import Optional
 
 from pydantic import BaseModel, Field
 
-
 class HorusMedicineStockRequest(BaseModel):
     codigo_uf: Optional[str] = Field(
         default=None,
         description="Filtra pelo Código IBGE da Unidade da Federação à qual pertence o estabelecimento",
     )
-    # codigo_municipio: Optional[str] = Field(
-    #     default=None,
-    #     description="Filtra pelo Código IBGE do município ao qual pertence o estabelecimento",
-    # )
+    codigo_municipio: Optional[str] = Field(
+        default=None,
+        description="Filtra pelo Código IBGE do município ao qual pertence o estabelecimento",
+    )
     # codigo_cnes: Optional[str] = Field(
     #     default=None,
     #     description="Filtra pelo Código CNES do estabelecimento",
     # )
     data_posicao_estoque: Optional[str] = Field(
         default=None,
-        description="Filtra pela Data da posição de estoque informada. Formato: AAAA-MM-DD. Exemplo: 2024-02-21",
+        description="Filtra pela Data da posição de estoque informada. Formato: AAAA-MM-DD. Exemplo: 2025-07-05",
     )
     codigo_catmat: Optional[str] = Field(
         default=None,
@@ -37,7 +36,7 @@ class HorusMedicineStockRequest(BaseModel):
     #     description="Filtra pela Sigla do Sistema de origem do dado",
     # )
     limit: int = Field(
-        default=100,
+        default=20,
         description="Quantidade de itens retornados por página. Deve ser menor ou igual 20",
     )
     offset: int = Field(
