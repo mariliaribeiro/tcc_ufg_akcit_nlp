@@ -4,7 +4,8 @@ class ExtractParametersInput(BaseModel):
     question: str
 
 class ExtractParametersOutput(BaseModel):
-    city_name: str = ""
-    city_code: str = ""
+    medicamento: str = ""
+    nome_municipio: str = ""
+    codigo_municipio: str = ""
     uf: str = ""
-    medicine: str = ""
+
