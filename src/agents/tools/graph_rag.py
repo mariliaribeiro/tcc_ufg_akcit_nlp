@@ -24,7 +24,7 @@ class GraphRAG:
 
     def get_context(self, question: str) -> str:
         """
-        Método responsável pelo fluxo de execussão do GraphRAG.
+        Método responsável pelo fluxo de execução do GraphRAG.
 
         Args:
             question (str):  Pergunta a ser respondida.

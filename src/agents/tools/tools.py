@@ -9,7 +9,7 @@ from src.agents.tools.question_to_api import QuestionToAPI
 from src.api.routes.horus_utils import get_horus_medicine_stock
 from src.api.schemas.request.horus import HorusMedicineStockRequest
 from src.connection.graph_db import KgDatabaseConnection
-from src.agents.tools.extract_parameters import extract_parameters_from_question
+from src.agents.tools.extract_parameters import EntityExtractor
 
 @dataclass
 class MyTools:
@@ -34,6 +34,8 @@ class MyTools:
             llm=self.llm, schema=HorusMedicineStockRequest, api_func=get_horus_medicine_stock
         )
 
+        ee = EntityExtractor(llm=self.llm)
+
         medicine_usage_instructions_tools = Tool(
             name="MedicineUsageInstructions",
             func=grag.retriever,
@@ -46,11 +48,10 @@ class MyTools:
             description="Use this tool to obtain information about medicine stocks in Brazilian cities and states. Only when the city code (codigo_municipio) and the state (uf) are defined, execute this function.",
         )
 
-
         extract_parameters_tool = Tool(
             name="ExtractParameters",
-            func=extract_parameters_from_question,
+            func=ee.retriever,
             description="Use this tool to extract the city, state and medicine entities from the user's question. Expect a dictionary with 'nome_municipio', 'codigo_municipio', 'uf' and 'medicamento'.",
         )
 
-        self.tools = [horus_medicine_stock_tool, medicine_usage_instructions_tools, extract_parameters_tool]
+        self.tools = [extract_parameters_tool, horus_medicine_stock_tool, medicine_usage_instructions_tools]

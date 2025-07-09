@@ -1,7 +1,6 @@
 from langchain_core.output_parsers import StrOutputParser
 from src.entities.parameter import ExtractParametersOutput
 from src.connection.chat_model import LLMModel
-from src.config import LLM_MAX_TOKENS, LLM_PROVIDER, LLM_TEMPERATURE
 from src.agents.tools.city_lookup import GetCityCode
 from src.agents.prompt_templates.extract_parameters import CONTEXT, SYSTEM_TEMPLATE
 import json
@@ -21,15 +20,7 @@ class EntityExtractor:
     Classe responsável por extrair entidades de uma pergunta e gerar contexto com base nos dados extraídos.
     """
 
-    llm_provider = LLM_PROVIDER
-    llm_temperature = LLM_TEMPERATURE
-    llm_max_tokens = LLM_MAX_TOKENS
-
-    llm = LLMModel(
-        provider=llm_provider,
-        temperature=llm_temperature,
-        max_tokens=llm_max_tokens,
-    ).llm   
+    llm: LLMModel
 
     def get_context(self, question: str) -> str:
         """
