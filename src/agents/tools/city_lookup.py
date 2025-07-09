@@ -3,8 +3,8 @@ from src.config import MONGO_URI, MONGO_DB_NAME, MONGO_CITY_COLLECTION
 
 from pydantic import BaseModel, Field
 
-def GetCityCode(city_name, uf):
-    print(f"Consulta no MongoDB: cidade='{city_name}', uf='{uf}'")
+def GetCityCode(nome_municipio, uf):
+    print(f"Consulta no MongoDB: cidade='{nome_municipio}', uf='{uf}'")
     """
     Busca o código do município no MongoDB a partir do nome da cidade e UF.
     """
@@ -12,7 +12,7 @@ def GetCityCode(city_name, uf):
     db = client[MONGO_DB_NAME]
     collection = db[MONGO_CITY_COLLECTION]
     result = collection.find_one({
-        "name": {"$regex": f"^{city_name}$", "$options": "i"},
+        "name": {"$regex": f"^{nome_municipio}$", "$options": "i"},
         "uf": uf
     })
     if result:
