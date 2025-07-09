@@ -71,6 +71,7 @@ class QuestionToAPI:
         Returns:
             dict: Resposta da API.
         """
+        print("Question:\n", question)
         request = self.get_structured_output(question=question)
         print("Structured output used as API request:\n", request)
         return self.api_func(request)
