@@ -9,7 +9,8 @@ from src.agents.tools.question_to_api import QuestionToAPI
 from src.api.routes.horus_utils import get_horus_medicine_stock
 from src.api.schemas.request.horus import HorusMedicineStockRequest
 from src.connection.graph_db import KgDatabaseConnection
-from src.utils.city_lookup import GetCityCode
+from src.agents.tools.city_lookup import GetCityCode
+from src.agents.tools.extract_parameters import extract_parameters_from_question
 import ast
 
 @dataclass
@@ -49,7 +50,7 @@ class MyTools:
         horus_medicine_stock_tool = Tool(
             name="GetHorusMedicineStock",
             func=qapi.retriever,
-            description="Use this tool to get information about medicine stock from Brazilian cities and states.",
+            description="Use this tool to obtain information about medicine stocks in Brazilian cities and states. Only when the city code (city_code) and the state (uf) are defined, execute this function.",
         )
 
         city_lookup_tool = Tool(
@@ -60,4 +61,10 @@ class MyTools:
             )
         )
 
-        self.tools = [medicine_usage_instructions_tools, horus_medicine_stock_tool, city_lookup_tool]
+        extract_parameters_tool = Tool(
+            name="ExtractParameters",
+            func=extract_parameters_from_question,
+            description="Use this tool to extract the city, state and medicine entities from the user's question. Expect a dictionary with 'city_name', 'uf' and 'medicine.",
+        )
+
+        self.tools = [medicine_usage_instructions_tools, city_lookup_tool, extract_parameters_tool]

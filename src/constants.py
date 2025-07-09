@@ -9,6 +9,7 @@ ALLOWED_NODES = [
     "Frequência",
 ]
 
+
 ALLOWED_RELATIONSHIPS = [
     "FORNECE",
     "INTERAÇÕES",

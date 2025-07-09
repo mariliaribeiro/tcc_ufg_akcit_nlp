@@ -46,7 +46,7 @@ class MyAgent:
             llm,
             agent=AgentType.CONVERSATIONAL_REACT_DESCRIPTION,
             memory=memory,
-            verbose=True,
+            verbose=True
         )
 
     def invoke(self, question: str) -> str:

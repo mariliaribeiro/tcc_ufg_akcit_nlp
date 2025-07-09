@@ -1,6 +1,8 @@
 from pymongo import MongoClient
 from src.config import MONGO_URI, MONGO_DB_NAME, MONGO_CITY_COLLECTION
 
+from pydantic import BaseModel, Field
+
 def GetCityCode(city_name, uf):
     print(f"Consulta no MongoDB: cidade='{city_name}', uf='{uf}'")
     """

@@ -1,4 +1,4 @@
-from src.constants import CATMAT_CODE_TEXT, IBGE_CODE_FOR_BRAZILIAN_UF_TEXT, IBGE_CODE_FOR_BRAZILIAN_CITY_TEXT
+from src.constants import CATMAT_CODE_TEXT, IBGE_CODE_FOR_BRAZILIAN_UF_TEXT
 
 SYSTEM_TEMPLATE_STRUCTURED_OUTPUT = """
 You are a specialized extraction algorithm, specialized in extracting relevant information from text
@@ -16,12 +16,11 @@ IBGE Code for Brazilian States, also called Federation Unit (UF):
 {ibge_code_for_brazilian_uf}
 
 IBGE Code for Brazilian City, also called municipality:
-{ibge_code_for_brazilian_city}
 
 CATMAT code (Catálogo de Materiais):
 {catmat_code}
 """.format(
-    ibge_code_for_brazilian_uf=IBGE_CODE_FOR_BRAZILIAN_UF_TEXT, ibge_code_for_brazilian_city=IBGE_CODE_FOR_BRAZILIAN_CITY_TEXT, catmat_code=CATMAT_CODE_TEXT
+    ibge_code_for_brazilian_uf=IBGE_CODE_FOR_BRAZILIAN_UF_TEXT,catmat_code=CATMAT_CODE_TEXT
 )
 
 
@@ -32,6 +31,7 @@ response.
 Be as detailed as possible, but don't make up any information that's not from the context.
 If you don't know an answer, say you don't know.
 
+Always use the ExtractEntities tool to identify names before fetching codes.
 If you do not know the IBGE code of the city, use the GetCityCode tool.
 If you do not know the CATMAT code of the medicine, use the GetMedicineCode tool.
 Only call the HÓRUS API if you have all the necessary codes. Ask the user for the information until all the codes are entered.
