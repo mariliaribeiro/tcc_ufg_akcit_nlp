@@ -45,7 +45,7 @@ class MyTools:
         horus_medicine_stock_tool = Tool(
             name="GetHorusMedicineStock",
             func=qapi.retriever,
-            description="Use this tool to obtain information about medicine stocks in Brazilian cities and states. Only when the medicine name, medicine code, city code (codigo_municipio) and the state (uf) are defined, execute this function.",
+            description="Use this tool to obtain information about medicine stocks in Brazilian cities and states. Only when the medicine name(medicamento), medicine code(codigo_catmat), city code (codigo_municipio) and the state (uf) are defined, execute this function. If all parameters are present, do not trigger any other tools, just display the result.",
         )
 
         extract_parameters_tool = Tool(
@@ -54,4 +54,4 @@ class MyTools:
             description="Use this tool to extract the city, state and medicine entities from the user's question. Expect a dictionary with 'nome_municipio', 'codigo_municipio', 'uf' and 'medicamento'.",
         )
 
-        self.tools = [extract_parameters_tool, horus_medicine_stock_tool, medicine_usage_instructions_tools]
+        self.tools = [extract_parameters_tool, horus_medicine_stock_tool]
