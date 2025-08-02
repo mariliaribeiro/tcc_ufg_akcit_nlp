@@ -1,4 +1,4 @@
-# tcc_ufg_akcit_nlp
+# Trabalho de Conclusão de Curso da Pós Graduação em Processamento de Linguagem Natural da UFG em parceria com a AKCIT
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
